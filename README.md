@@ -1,8 +1,20 @@
 # Segment Anything Model (SAM) for Medical Image Segmentation.
 
-*  With the recent introduction of the Segment Anything Model (SAM), this prompt-driven paradigm has entered and revolutionized image segmentation. 
-*  We aim to set up a daily-update literature reviews of SAM in medical image segmentation.
-		
+
+*  With the recent introduction of the Segment Anything Model (SAM), this prompt-driven paradigm has entered and revolutionized image segmentation. However, it remains unclear whether it can be applicable to medical image segmentation due to the significant differences between natural images and medical images.
+*  In this work, we summarize recent efforts to extend the success of SAM to medical image segmentation tasks and discuss potential future directions for SAM in medical image segmentation, which we hope this work can provide the community with some insights into the future development of foundation models for medical image segmentation.
+*  This repo sets up a daily-update literature collections of SAM in medical image segmentation to boost the research on this topic. Comments are welcome.
+
+
+```
+@article{SAM4MIS,
+  title={How Segment Anything Model (SAM) Boost Medical Image Segmentation?},
+  author={Zhang, Yichi and Jiao, Rushi},
+  journal={arXiv preprint arXiv:2305.03678},
+  year={2023}
+}
+```
+
 
 ## Literature reviews of applying segment anything model for medical image segmentation.
 
