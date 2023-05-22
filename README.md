@@ -3,7 +3,7 @@
 
 *  With the recent introduction of the Segment Anything Model (SAM), this prompt-driven paradigm has entered and revolutionized image segmentation. However, it remains unclear whether it can be applicable to medical image segmentation due to the significant differences between natural images and medical images.
 *  In this work, we summarize recent efforts to extend the success of SAM to medical image segmentation tasks and discuss potential future directions for SAM in medical image segmentation, which we hope this work can provide the community with some insights into the future development of foundation models for medical image segmentation.
-*  This repo will continue to track and summarize the research progress of SAM in medical image segmentation to boost the research on this topic. If you find this project helpful, please consider Stars or citing 
+*  This repo will continue to track and summarize the research progress of SAM in medical image segmentation to boost the research on this topic. If you find this project helpful, please consider stars or citing.
 
 ```
 @article{SAM4MIS,
@@ -18,7 +18,7 @@
 
 ![image](https://github.com/YichiZhang98/SAM4MIS/blob/main/SAM.jpg)
 
-Segment Anything Model (SAM) uses vision transformer-based image encoder to extract image features and compute an image embedding, and prompt encoder to embed prompts and incorporate user interactions. Then extranted information from two encoders are combined to alightweight mask decoder to generate segmentation results based on the image embedding, prompt embedding, and output token. For more details, please refer to the [(original paper)](https://arxiv.org/pdf/2304.02643.pdf).
+Segment Anything Model (SAM) uses vision transformer-based image encoder to extract image features and compute an image embedding, and prompt encoder to embed prompts and incorporate user interactions. Then extranted information from two encoders are combined to alightweight mask decoder to generate segmentation results based on the image embedding, prompt embedding, and output token. For more details, please refer to the [original paper](https://arxiv.org/pdf/2304.02643.pdf).
 
 
 ## Literature Reviews of Applying SAM for Medical Image Segmentation.
