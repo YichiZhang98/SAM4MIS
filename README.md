@@ -3,8 +3,7 @@
 
 *  With the recent introduction of the Segment Anything Model (SAM), this prompt-driven paradigm has entered and revolutionized image segmentation. However, it remains unclear whether it can be applicable to medical image segmentation due to the significant differences between natural images and medical images.
 *  In this work, we summarize recent efforts to extend the success of SAM to medical image segmentation tasks and discuss potential future directions for SAM in medical image segmentation, which we hope this work can provide the community with some insights into the future development of foundation models for medical image segmentation.
-*  This repo sets up a daily-update literature collections of SAM in medical image segmentation to boost the research on this topic. Comments are welcome.
-
+*  This repo will continue to track and summarize the research progress of SAM in medical image segmentation to boost the research on this topic. If you find this project helpful, please consider Stars or citing 
 
 ```
 @article{SAM4MIS,
@@ -15,8 +14,14 @@
 }
 ```
 
+## About Segment Anything Model (SAM)
 
-## Literature reviews of applying segment anything model for medical image segmentation.
+![image](https://github.com/YichiZhang98/SAM4MIS/blob/main/SAM.jpg)
+
+Segment Anything Model (SAM) uses vision transformer-based image encoder to extract image features and compute an image embedding, and prompt encoder to embed prompts and incorporate user interactions. Then extranted information from two encoders are combined to alightweight mask decoder to generate segmentation results based on the image embedding, prompt embedding, and output token. For more details, please refer to the [(original paper)](https://arxiv.org/pdf/2304.02643.pdf).
+
+
+## Literature Reviews of Applying SAM for Medical Image Segmentation.
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
@@ -36,6 +41,7 @@
 |202304|Y. Zhang et al.|Input Augmentation with SAM: Boosting Medical Image Segmentation with Segmentation Foundation Model [(paper)](https://arxiv.org/pdf/2304.11332.pdf)|None|
 |202304|MA. Mazurowski et al.|Segment Anything Model for Medical Image Analysis: an Experimental Study [(paper)](https://arxiv.org/pdf/2304.10517.pdf)|[Code](https://github.com/mazurowski-lab/segment-anything-medical)|
 |202304|S. He et al.|Accuracy of Segment-Anything Model (SAM) in medical image segmentation tasks [(paper)](https://arxiv.org/pdf/2304.09324.pdf)|None|
+|202304|T. Chen et al.|SAM Fails to Segment Anything? – SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More [(paper)](https://arxiv.org/pdf/2304.09148.pdf)|[Code](http://tianrun-chen.github.io/SAM-Adaptor/)| 
 |202304|C. Hu and X. Li|When SAM Meets Medical Images: An Investigation of Segment Anything Model (SAM) on Multi-phase Liver Tumor Segmentation [(paper)](https://arxiv.org/pdf/2304.08506.pdf)|None|
 |202304|F. Putz et al.|The “Segment Anything” foundation model achieves favorable brain tumor autosegmentation accuracy on MRI to support radiotherapy treatment planning [(paper)](https://arxiv.org/pdf/2304.07875.pdf)|None|
 |202304|T. Zhou et al.|Can SAM Segment Polyps? [(paper)](https://arxiv.org/pdf/2304.07583.pdf)|[Code](https://github.com/taozh2017/SAMPolyp)|
