@@ -26,8 +26,8 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 |Date|Authors|Title|Code|
 |---|---|---|---|
 |202306|N. Li et al.|Segment Anything Model for Semi-SupervisedMedical Image Segmentation via selectingreliable pseudo-labels [(paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477443)|None|
-|202306|C. Shen et al.|The potential of 'Segment Anything' (SAM) for universal intelligent ultrasound image guidance [(paper)](https://www.jstage.jst.go.jp/article/bst/advpub/0/advpub_2023.01119/_pdf)|None|
-|202306|G. Ning et al.|Temporally-Extended Prompts Optimization for SAM in Interactive Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2306.08958.pdf)|None|
+|202306|G. Ning et al.|The potential of 'Segment Anything' (SAM) for universal intelligent ultrasound image guidance [(paper)](https://www.jstage.jst.go.jp/article/bst/advpub/0/advpub_2023.01119/_pdf)|None|
+|202306|C. Shen et al.|Temporally-Extended Prompts Optimization for SAM in Interactive Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2306.08958.pdf)|None|
 |202306|T. Shaharabany et al.|AutoSAM: Adapting SAM to Medical Images by Overloading the Prompt Encoder [(paper)](https://arxiv.org/pdf/2306.06370.pdf)|None|
 |202306|Y. Gao et al.|DeSAM: Decoupling Segment Anything Model for Generalizable Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2306.00499.pdf)|[Code](https://github.com/yifangao112/DeSAM)|
 |202305|D. Lee et al.|IAMSAM : Image-based Analysis of Molecular signatures using the Segment-Anything Model [(paper)](https://www.biorxiv.org/content/biorxiv/early/2023/05/25/2023.05.25.542052.full.pdf)|[Code](https://github.com/portrai-io/IAMSAM)|
