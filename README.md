@@ -25,6 +25,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202306|W. Lei et al.|MedLSAM: Localize and Segment Anything Model for 3D Medical Images [(paper)](https://arxiv.org/pdf/2306.14752.pdf)|[Code](https://github.com/openmedlab/MedLSAM)|
 |202306|S. Gong et al.|3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2306.13465.pdf)|[Code](https://github.com/med-air/3DSAM-adapter)|
 |202306|L. Zhang et al.|Segment Anything Model (SAM) for Radiation Oncology [(paper)](https://arxiv.org/pdf/2306.11730.pdf)|None|
 |202306|N. Li et al.|Segment Anything Model for Semi-Supervised Medical Image Segmentation via Selecting Reliable Pseudo-Labels [(paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477443)|None|
