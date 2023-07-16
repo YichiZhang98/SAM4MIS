@@ -25,6 +25,8 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202307|C. Wang et al.|SAM^Med^ : A medical image annotation framework based on large vision model [(paper)](https://arxiv.org/pdf/2307.05617.pdf)|None|
+|202307|G. Deng et al.|SAM-U: Multi-box prompts triggered uncertainty estimation for reliable SAM in medical image [(paper)](https://arxiv.org/pdf/2307.04973.pdf)|None|
 |202307|H. Kim et al.|Empirical Analysis of a Segmentation Foundation Model in Prostate Imaging [(paper)](https://arxiv.org/pdf/2307.03266.pdf)|None|
 |202307|X. Shi et al.|Cross-modality Attention Adapter: A Glioma Segmentation Fine-tuning Method for SAM Using Multimodal Brain MR Images [(paper)](https://arxiv.org/pdf/2307.01124.pdf)|None|
 |202307|C. Cui et al.|All-in-SAM: from Weak Annotation to Pixel-wise Nuclei Segmentation with Prompt-based Finetuning [(paper)](https://arxiv.org/pdf/2307.00290.pdf)|None|
