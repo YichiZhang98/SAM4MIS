@@ -25,6 +25,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202307|MS. Hossain et al.|Robust HER2 Grading of Breast Cancer Patients using Zero-shot Segment Anything Model (SAM) [(paper)](https://www.preprints.org/manuscript/202307.1213/v1)|None|
 |202307|C. Wang et al.|SAM^Med^ : A medical image annotation framework based on large vision model [(paper)](https://arxiv.org/pdf/2307.05617.pdf)|None|
 |202307|G. Deng et al.|SAM-U: Multi-box prompts triggered uncertainty estimation for reliable SAM in medical image [(paper)](https://arxiv.org/pdf/2307.04973.pdf)|None|
 |202307|H. Kim et al.|Empirical Analysis of a Segmentation Foundation Model in Prostate Imaging [(paper)](https://arxiv.org/pdf/2307.03266.pdf)|None|
