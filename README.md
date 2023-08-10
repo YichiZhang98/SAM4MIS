@@ -25,6 +25,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202308|JN. Paranjape et al.|AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation [(paper)](https://arxiv.org/pdf/2308.03726.pdf)|[Code](https://github.com/JayParanjape/biastuning)|
 |202308|Z. Huang et al.|Push the Boundary of SAM: A Pseudo-label Correction Framework for Medical Segmentation [(paper)](https://arxiv.org/pdf/2308.00883.pdf)|None|
 |202307|J. Zhang et al.|SAM-Path: A Segment Anything Model for Semantic Segmentation in Digital Pathology [(paper)](https://arxiv.org/pdf/2307.09570.pdf)|None|
 |202307|MS. Hossain et al.|Robust HER2 Grading of Breast Cancer Patients using Zero-shot Segment Anything Model (SAM) [(paper)](https://www.preprints.org/manuscript/202307.1213/v1)|None|
