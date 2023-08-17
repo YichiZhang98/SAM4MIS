@@ -25,6 +25,12 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202308|Q. Wu et al.|Self-Prompting Large Vision Models for Few-Shot Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2308.07624.pdf)|[Code](https://github.com/PeterYYZhang/few-shot-self-prompt-SAM)|
+|202308|A. Wang et al.|SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation [(paper)](https://arxiv.org/pdf/2308.07156.pdf)|None|
+|202308|D. Shin et al.|CEmb-SAM: Segment Anything Model with Condition Embedding for Joint Learning from Heterogeneous Datasets [(paper)](https://arxiv.org/pdf/2308.06957.pdf)|None|
+|202308|R. Biswas|Polyp-SAM++: Can A Text Guided SAM Perform Better for Polyp Segmentation? [(paper)](https://arxiv.org/pdf/2308.06623.pdf)|[Code](https://github.com/RisabBiswas/Polyp-SAM++)|
+|202308|S. Cao et al.|TongueSAM: An Universal Tongue Segmentation Model Based on SAM with Zero-Shot [(paper)](https://arxiv.org/pdf/2308.06444.pdf)|[Code](https://github.com/cshan-github/TongueSAM)|
+|202308|X. Li et al.|Leverage Weakly Annotation to Pixel-wise Annotation via Zero-shot Segment Anything Model for Molecular-empowered Learning [(paper)](https://arxiv.org/pdf/2308.05785.pdf)|None|
 |202308|JN. Paranjape et al.|AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation [(paper)](https://arxiv.org/pdf/2308.03726.pdf)|[Code](https://github.com/JayParanjape/biastuning)|
 |202308|Z. Huang et al.|Push the Boundary of SAM: A Pseudo-label Correction Framework for Medical Segmentation [(paper)](https://arxiv.org/pdf/2308.00883.pdf)|None|
 |202307|J. Zhang et al.|SAM-Path: A Segment Anything Model for Semantic Segmentation in Digital Pathology [(paper)](https://arxiv.org/pdf/2307.09570.pdf)|None|
