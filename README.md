@@ -25,6 +25,8 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202308|B. Fazekas et al.|SAMedOCT: Adapting Segment Anything Model (SAM) for Retinal OCT [(paper)](https://arxiv.org/pdf/2308.09331.pdf)|None|
+|202308|W. Yue et al.|SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation [(paper)](https://arxiv.org/pdf/2308.08746.pdf)|[Code](https://github.com/wenxi-yue/SurgicalSAM)|
 |202308|H. Zhang et al.|CARE: A Large Scale CT Image Dataset and Clinical Applicable Benchmark Model for Rectal Cancer Segmentation [(paper)](https://arxiv.org/pdf/2308.08283.pdf)|None|
 |202308|Q. Wu et al.|Self-Prompting Large Vision Models for Few-Shot Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2308.07624.pdf)|[Code](https://github.com/PeterYYZhang/few-shot-self-prompt-SAM)|
 |202308|A. Wang et al.|SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation [(paper)](https://arxiv.org/pdf/2308.07156.pdf)|None|
