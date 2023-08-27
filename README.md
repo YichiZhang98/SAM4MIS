@@ -25,6 +25,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202308|A. Archit et al.|Segment Anything for Microscopy [(paper)](https://www.biorxiv.org/content/10.1101/2023.08.21.554208v1.full.pdf)|[Code](https://github.com/computational-cell-analytics/micro-sam)|
 |202308|X. Yao et al.|False Negative/Positive Control for SAM on Noisy Medical Images [(paper)](https://arxiv.org/pdf/2308.10382.pdf)|[Code](https://github.com/xyimaging/FNPC)|
 |202308|B. Fazekas et al.|SAMedOCT: Adapting Segment Anything Model (SAM) for Retinal OCT [(paper)](https://arxiv.org/pdf/2308.09331.pdf)|None|
 |202308|W. Yue et al.|SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation [(paper)](https://arxiv.org/pdf/2308.08746.pdf)|[Code](https://github.com/wenxi-yue/SurgicalSAM)|
