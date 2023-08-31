@@ -25,6 +25,10 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202308|J. Cheng et al.|SAM-Med2D [(paper)](https://arxiv.org/pdf/2308.16184.pdf)|None|
+|202308|C. Li et al.|Auto-Prompting SAM for Mobile Friendly 3D Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2308.14936.pdf)|None|
+|202308|W. Feng et al.|Cheap Lunch for Medical Image Segmentation by Fine-tuning SAM on Few Exemplars [(paper)](https://arxiv.org/pdf/2308.14133.pdf)|None|
+|202308|Y. Zhang et al.|SamDSK: Combining Segment Anything Model with Domain-Specific Knowledge for Semi-Supervised Learning in Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2308.13759.pdf)|None|
 |202308|A. Lou et al.|SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF) [(paper)](https://arxiv.org/pdf/2308.11774.pdf)|[Code](https://github.com/AngeLouCN/SAMSNeRF)|
 |202308|A. Archit et al.|Segment Anything for Microscopy [(paper)](https://www.biorxiv.org/content/10.1101/2023.08.21.554208v1.full.pdf)|[Code](https://github.com/computational-cell-analytics/micro-sam)|
 |202308|X. Yao et al.|False Negative/Positive Control for SAM on Noisy Medical Images [(paper)](https://arxiv.org/pdf/2308.10382.pdf)|[Code](https://github.com/xyimaging/FNPC)|
