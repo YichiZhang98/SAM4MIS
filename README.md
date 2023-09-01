@@ -25,7 +25,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
-|202308|J. Cheng et al.|SAM-Med2D [(paper)](https://arxiv.org/pdf/2308.16184.pdf)|None|
+|202308|J. Cheng et al.|SAM-Med2D [(paper)](https://arxiv.org/pdf/2308.16184.pdf)|[Code](https://github.com/uni-medical/SAM-Med2D)|
 |202308|C. Li et al.|Auto-Prompting SAM for Mobile Friendly 3D Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2308.14936.pdf)|None|
 |202308|W. Feng et al.|Cheap Lunch for Medical Image Segmentation by Fine-tuning SAM on Few Exemplars [(paper)](https://arxiv.org/pdf/2308.14133.pdf)|None|
 |202308|Y. Zhang et al.|SamDSK: Combining Segment Anything Model with Domain-Specific Knowledge for Semi-Supervised Learning in Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2308.13759.pdf)|None|
