@@ -25,6 +25,11 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202309|C. Wang et al.|SAM-OCTA: A Fine-Tuning Strategy for Applying Foundation Model to OCTA Image Segmentation Tasks [(paper)](https://arxiv.org/pdf/2309.11758.pdf)|[Code](https://github.com/ShellRedia/SAM-OCTA)|
+|202309|Y. Zhang et al.|3D-U-SAM Network For Few-shot Tooth Segmentation in CBCT Images [(paper)](https://arxiv.org/pdf/2309.11015.pdf)|None|
+|202309|CJ. Chao et al.|Comparative Eminence: Foundation versus Domain-Specific Model for Cardiac Ultrasound Segmentation [(paper)](https://www.medrxiv.org/content/medrxiv/early/2023/09/19/2023.09.19.23295772.full.pdf)|None|
+|202309|H. Ning et al.|An Accurate and Efficient Neural Network for OCTA Vessel Segmentation and a New Dataset [(paper)](https://arxiv.org/pdf/2309.09483.pdf)|[Code](https://github.com/nhjydywd/OCTA-FRNet)|
+|202309|P. Zhang and Y. Wang|Segment Anything Model for Brain Tumor Segmentation [(paper)](https://arxiv.org/pdf/2309.08434.pdf)|None|
 |202309|B. Fazekas et al.|Adapting Segment Anything Model (SAM) for Retinal OCT [(paper)](https://link.springer.com/chapter/10.1007/978-3-031-44013-7_10)|None|
 |202309|X. Lin et al.|SAMUS: Adapting Segment Anything Model for Clinically-Friendly and Generalizable Ultrasound Image Segmentation [(paper)](https://arxiv.org/pdf/2309.06824.pdf)|[Code](https://github.com/xianlin7/SAMUS)|
 |202309|X. Xing et al.|SegmentAnything helps microscopy images based automatic and quantitative organoid detection and analysis [(paper)](https://arxiv.org/pdf/2309.04190.pdf)|[Code](https://github.com/XiaodanXing/SAM4organoid)|
