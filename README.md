@@ -25,6 +25,9 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202310|A. Ranem et al.|Exploring SAM Ablations for Enhancing Medical Segmentation in Radiology and Pathology [(paper)](https://arxiv.org/pdf/2310.00504.pdf)|None|
+|202310|S. Pandey et al.|Comprehensive Multimodal Segmentation in Medical Imaging: Combining YOLOv8 with SAM and HQ-SAM Models [(paper)](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Pandey_Comprehensive_Multimodal_Segmentation_in_Medical_Imaging_Combining_YOLOv8_with_SAM_ICCVW_2023_paper.pdf)|None|
+|202309|Y. Li et al.|nnSAM: Plug-and-play Segment Anything Model Improves nnUNet Performance [(paper)](https://arxiv.org/pdf/2309.16967.pdf)|[Code](https://github.com/Kent0n-Li/Medical-Image-Segmentation)|
 |202309|Y. Zhao et al.|MFS Enhanced SAM: Achieving Superior Performance in Bimodal Few-shot Segmentation [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S1047320323001967)|[Code](https://github.com/VDT-2048/Bi-SAM)|
 |202309|C. Wang et al.|SAM-OCTA: A Fine-Tuning Strategy for Applying Foundation Model to OCTA Image Segmentation Tasks [(paper)](https://arxiv.org/pdf/2309.11758.pdf)|[Code](https://github.com/ShellRedia/SAM-OCTA)|
 |202309|Y. Zhang et al.|3D-U-SAM Network For Few-shot Tooth Segmentation in CBCT Images [(paper)](https://arxiv.org/pdf/2309.11015.pdf)|None|
