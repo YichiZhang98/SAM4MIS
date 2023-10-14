@@ -25,6 +25,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202310|X. Chen et al.|SAM-OCTA: Prompting Segment-Anything for OCTA Image Segmentation [(paper)](https://arxiv.org/pdf/2310.07183.pdf)|[Code](https://github.com/ShellRedia/SAM-OCTA)|
 |202310|M. Peivandi et al.|Empirical Evaluation of the Segment Anything Model (SAM) for Brain Tumor Segmentation [(paper)](https://arxiv.org/pdf/2310.06162.pdf)|None|
 |202310|H. Ravishankar et al.|SonoSAM - Segment Anything on Ultrasound Images [(paper)](https://link.springer.com/chapter/10.1007/978-3-031-44521-7_3)|None|
 |202310|A. Ranem et al.|Exploring SAM Ablations for Enhancing Medical Segmentation in Radiology and Pathology [(paper)](https://arxiv.org/pdf/2310.00504.pdf)|None|
