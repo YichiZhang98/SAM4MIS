@@ -25,6 +25,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202310|H. Wang et al.|SAM-Med3D [(paper)](https://arxiv.org/pdf/2310.15161.pdf)|[Code](https://github.com/uni-medical/SAM-Med3D)|
 |202310|SK. Kim et al.|Evaluation and improvement of Segment Anything Model for interactive histopathology image segmentation [(paper)](https://arxiv.org/pdf/2310.10493.pdf)|[Code](https://github.com/hvcl/SAM_Interactive_Histopathology)|
 |202310|X. Chen et al.|SAM-OCTA: Prompting Segment-Anything for OCTA Image Segmentation [(paper)](https://arxiv.org/pdf/2310.07183.pdf)|[Code](https://github.com/ShellRedia/SAM-OCTA)|
 |202310|M. Peivandi et al.|Empirical Evaluation of the Segment Anything Model (SAM) for Brain Tumor Segmentation [(paper)](https://arxiv.org/pdf/2310.06162.pdf)|None|
@@ -72,6 +73,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 |202306|W. Lei et al.|MedLSAM: Localize and Segment Anything Model for 3D Medical Images [(paper)](https://arxiv.org/pdf/2306.14752.pdf)|[Code](https://github.com/openmedlab/MedLSAM)|
 |202306|X. Hu et al.|How to Efficiently Adapt Large Segmentation Model (SAM) to Medical Images [(paper)](https://arxiv.org/pdf/2306.13731.pdf)|[Code](https://github.com/xhu248/AutoSAM)|
 |202306|S. Gong et al.|3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2306.13465.pdf)|[Code](https://github.com/med-air/3DSAM-adapter)|
+|202306|DMH. Nguyen et al.|LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching [(paper)](https://arxiv.org/pdf/2306.11925.pdf)|[Code](https://github.com/duyhominhnguyen/LVM-Med)|
 |202306|S. Chai et al.|Ladder Fine-tuning approach for SAM integrating complementary network [(paper)](https://arxiv.org/pdf/2306.12737.pdf)|[Code](https://github.com/11yxk/SAM-LST)|
 |202306|L. Zhang et al.|Segment Anything Model (SAM) for Radiation Oncology [(paper)](https://arxiv.org/pdf/2306.11730.pdf)|None|
 |202306|N. Li et al.|Segment Anything Model for Semi-Supervised Medical Image Segmentation via Selecting Reliable Pseudo-Labels [(paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477443)|None|
