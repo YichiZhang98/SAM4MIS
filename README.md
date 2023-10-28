@@ -69,6 +69,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 |202307|H. Kim et al.|Empirical Analysis of a Segmentation Foundation Model in Prostate Imaging [(paper)](https://arxiv.org/pdf/2307.03266.pdf)|None|
 |202307|X. Shi et al.|Cross-modality Attention Adapter: A Glioma Segmentation Fine-tuning Method for SAM Using Multimodal Brain MR Images [(paper)](https://arxiv.org/pdf/2307.01124.pdf)|None|
 |202307|C. Cui et al.|All-in-SAM: from Weak Annotation to Pixel-wise Nuclei Segmentation with Prompt-based Finetuning [(paper)](https://arxiv.org/pdf/2307.00290.pdf)|None|
+|202306|E. Kellener et al.|Utilizing Segment Anything Model for Assessing Localization of Grad-CAM in Medical Imaging [(paper)](https://arxiv.org/pdf/2306.15692.pdf)|None|
 |202306|F. Hörst et al.|CellViT: Vision Transformers for Precise Cell Segmentation and Classification [(paper)](https://arxiv.org/pdf/2306.15350.pdf)|[Code](https://github.com/TIO-IKIM/CellViT)|
 |202306|W. Lei et al.|MedLSAM: Localize and Segment Anything Model for 3D Medical Images [(paper)](https://arxiv.org/pdf/2306.14752.pdf)|[Code](https://github.com/openmedlab/MedLSAM)|
 |202306|X. Hu et al.|How to Efficiently Adapt Large Segmentation Model (SAM) to Medical Images [(paper)](https://arxiv.org/pdf/2306.13731.pdf)|[Code](https://github.com/xhu248/AutoSAM)|
