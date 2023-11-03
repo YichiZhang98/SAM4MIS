@@ -25,6 +25,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202310|H. Li et al.|Promise:Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models [(paper)](https://arxiv.org/pdf/2310.19721.pdf)|[Code](https://github.com/MedICL-VU/ProMISe)|
 |202310|D. Anand et al.|One-shot Localization and Segmentation of Medical Images with Foundation Models [(paper)](https://arxiv.org/pdf/2310.18642.pdf)|None|
 |202310|H. Wang et al.|SAM-Med3D [(paper)](https://arxiv.org/pdf/2310.15161.pdf)|[Code](https://github.com/uni-medical/SAM-Med3D)|
 |202310|SK. Kim et al.|Evaluation and improvement of Segment Anything Model for interactive histopathology image segmentation [(paper)](https://arxiv.org/pdf/2310.10493.pdf)|[Code](https://github.com/hvcl/SAM_Interactive_Histopathology)|
