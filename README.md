@@ -25,6 +25,9 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202311|Y. Wang et al.|SAMIHS: Adaptation of Segment Anything Model for Intracranial Hemorrhage Segmentation [(paper)](https://arxiv.org/pdf/2311.08190.pdf)|[Code](https://github.com/mileswyn/SAMIHS)|
+|202311|H. Jiang et al.|GlanceSeg: Real-time microangioma lesion segmentation with gaze map-guided foundation model for early detection of diabetic retinopathy [(paper)](https://arxiv.org/pdf/2311.08075.pdf)|None|
+|202311|Y. Xu et al.|EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images [(paper)](https://arxiv.org/pdf/2311.06400.pdf)|None|
 |202311|DL. Ferreira and R. Arnaout| Are foundation models efficient for medical image segmentation? [(paper)](https://arxiv.org/pdf/2311.04847.pdf)|[Code](https://github.com/ArnaoutLabUCSF/CardioML)|
 |202310|H. Li et al.|Promise:Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models [(paper)](https://arxiv.org/pdf/2310.19721.pdf)|[Code](https://github.com/MedICL-VU/ProMISe)|
 |202310|D. Anand et al.|One-shot Localization and Segmentation of Medical Images with Foundation Models [(paper)](https://arxiv.org/pdf/2310.18642.pdf)|None|
