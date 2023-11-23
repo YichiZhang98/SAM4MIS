@@ -25,6 +25,8 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202311|U. Israel et al.|A Foundation Model for Cell Segmentation [(paper)](https://www.biorxiv.org/content/10.1101/2023.11.17.567630v2.abstract)|[Code](https://label-dev.deepcell.org)|
+|202311|J. Ye et al.|SA-Med2D-20M Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks [(paper)](https://arxiv.org/pdf/2311.11969.pdf)|[Dataset](https://github.com/OpenGVLab/SAM-Med2D)|
 |202311|Q. Quan et al.|Slide-SAM: Medical SAM Meets Sliding Window [(paper)](https://arxiv.org/pdf/2311.10121.pdf)|None|
 |202311|Y. Zhang et al.|Segment Anything Model with Uncertainty Rectification for Auto-Prompting Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2311.10529.pdf)|[Code](https://github.com/YichiZhang98/UR-SAM)|
 |202311|Y. Wang et al.|SAMIHS: Adaptation of Segment Anything Model for Intracranial Hemorrhage Segmentation [(paper)](https://arxiv.org/pdf/2311.08190.pdf)|[Code](https://github.com/mileswyn/SAMIHS)|
