@@ -20,13 +20,19 @@
 
 Segment Anything Model (SAM) uses vision transformer-based image encoder to extract image features and compute an image embedding, and prompt encoder to embed prompts and incorporate user interactions. Then extranted information from two encoders are combined to alightweight mask decoder to generate segmentation results based on the image embedding, prompt embedding, and output token. For more details, please refer to the [original paper](https://arxiv.org/pdf/2304.02643.pdf).
 
+## Large-scale Datasets for Developing Foundation Models for Medical Imaging.
+
+|Date|Authors|Title|Dataset|
+|---|---|---|---|
+|202311|J. Ye et al.|SA-Med2D-20M Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks [(paper)](https://arxiv.org/pdf/2311.11969.pdf)|[Link](https://openxlab.org.cn/datasets/GMAI/SA-Med2D-20M)|
 
 ## Literature Reviews of Applying SAM for Medical Image Segmentation.
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202311|Y. Du et al.|SegVol: Universal and Interactive Volumetric Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2311.13385.pdf)|[Code](https://github.com/BAAI-DCAI/SegVol)|
+|202311|DM. Nguyen et al.|On the Out of Distribution Robustness of Foundation Models in Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2311.11096.pdf)|None|
 |202311|U. Israel et al.|A Foundation Model for Cell Segmentation [(paper)](https://www.biorxiv.org/content/10.1101/2023.11.17.567630v2.abstract)|[Code](https://label-dev.deepcell.org)|
-|202311|J. Ye et al.|SA-Med2D-20M Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks [(paper)](https://arxiv.org/pdf/2311.11969.pdf)|[Dataset](https://github.com/OpenGVLab/SAM-Med2D)|
 |202311|Q. Quan et al.|Slide-SAM: Medical SAM Meets Sliding Window [(paper)](https://arxiv.org/pdf/2311.10121.pdf)|None|
 |202311|Y. Zhang et al.|Segment Anything Model with Uncertainty Rectification for Auto-Prompting Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2311.10529.pdf)|[Code](https://github.com/YichiZhang98/UR-SAM)|
 |202311|Y. Wang et al.|SAMIHS: Adaptation of Segment Anything Model for Intracranial Hemorrhage Segmentation [(paper)](https://arxiv.org/pdf/2311.08190.pdf)|[Code](https://github.com/mileswyn/SAMIHS)|
