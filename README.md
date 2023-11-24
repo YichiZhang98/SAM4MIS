@@ -20,7 +20,7 @@
 
 Segment Anything Model (SAM) uses vision transformer-based image encoder to extract image features and compute an image embedding, and prompt encoder to embed prompts and incorporate user interactions. Then extranted information from two encoders are combined to alightweight mask decoder to generate segmentation results based on the image embedding, prompt embedding, and output token. For more details, please refer to the [original paper](https://arxiv.org/pdf/2304.02643.pdf).
 
-## Large-scale Datasets for Developing Foundation Models for Medical Imaging.
+## Large-scale Datasets for Foundation Models for Medical Imaging.
 
 |Date|Authors|Title|Dataset|
 |---|---|---|---|
