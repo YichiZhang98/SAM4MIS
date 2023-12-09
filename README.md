@@ -30,6 +30,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202312|Y. Zhao et al.|Segment Anything Model-guided Collaborative Learning Network for Scribble-supervised Polyp Segmentation [(paper)](https://arxiv.org/pdf/2312.00312.pdf)|None|
 |202311|X. Wei et al.|I-MedSAM: Implicit Medical Image Segmentation with Segment Anything [(paper)](https://arxiv.org/pdf/2311.17081.pdf)|None|
 |202311|Z. Shui et al.|Unleashing the Power of Prompt-driven Nucleus Instance Segmentation [(paper)](https://arxiv.org/pdf/2311.15939.pdf)|[Code](https://github.com/windygoo/PromptNucSeg)|
 |202311|M. Li and G. Yang et al.|Where to Begin? From Random to Foundation Model Instructed Initialization in Federated Learning for Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2311.15463.pdf)|None|
