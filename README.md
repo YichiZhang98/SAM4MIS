@@ -30,6 +30,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202312|Y. Zhang et al.|SQA-SAM: Segmentation Quality Assessment for Medical Images Utilizing the Segment Anything Model [(paper)](https://arxiv.org/pdf/2312.09899.pdf)|[Code](https://github.com/yizhezhang2000/SQA-SAM)|
 |202312|S. Chen et al.|ASLseg: Adapting SAM in the Loop for Semi-supervised Liver Tumor Segmentation [(paper)](https://arxiv.org/pdf/2312.07969.pdf)|None|
 |202312|HE. Wong et al.|ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Medical Image [(paper)](https://arxiv.org/pdf/2312.07381.pdf)|[Code](https://scribbleprompt.csail.mit.edu)|
 |202312|Y. Zhang et al.|SemiSAM: Exploring SAM for Enhancing Semi-Supervised Medical Image Segmentation with Extremely Limited Annotations [(paper)](https://arxiv.org/pdf/2312.06316.pdf)|None|
