@@ -30,6 +30,8 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202312|JG. Almeida et al.|Testing the Segment Anything Model on radiology data [(paper)](https://arxiv.org/pdf/2312.12880.pdf)|None|
+|202312|M. Barakat et al.|Towards SAMBA: Segment Anything Model for Brain Tumor Segmentation in Sub-Sharan African Populations [(paper)](https://arxiv.org/pdf/2312.11775.pdf)|None|
 |202312|Y. Zhang et al.|SQA-SAM: Segmentation Quality Assessment for Medical Images Utilizing the Segment Anything Model [(paper)](https://arxiv.org/pdf/2312.09899.pdf)|[Code](https://github.com/yizhezhang2000/SQA-SAM)|
 |202312|S. Chen et al.|ASLseg: Adapting SAM in the Loop for Semi-supervised Liver Tumor Segmentation [(paper)](https://arxiv.org/pdf/2312.07969.pdf)|None|
 |202312|HE. Wong et al.|ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Medical Image [(paper)](https://arxiv.org/pdf/2312.07381.pdf)|[Code](https://scribbleprompt.csail.mit.edu)|
@@ -79,7 +81,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 |202308|X. Yao et al.|False Negative/Positive Control for SAM on Noisy Medical Images [(paper)](https://arxiv.org/pdf/2308.10382.pdf)|[Code](https://github.com/xyimaging/FNPC)|
 |202308|B. Fazekas et al.|SAMedOCT: Adapting Segment Anything Model (SAM) for Retinal OCT [(paper)](https://arxiv.org/pdf/2308.09331.pdf)|None|
 |202308|W. Yue et al.|SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation [(paper)](https://arxiv.org/pdf/2308.08746.pdf)|[Code](https://github.com/wenxi-yue/SurgicalSAM)|
-|202308|H. Zhang et al.|CARE: A Large Scale CT Image Dataset and Clinical Applicable Benchmark Model for Rectal Cancer Segmentation [(paper)](https://arxiv.org/pdf/2308.08283.pdf)|None|
+|202308|H. Zhang et al.|CARE: A Large Scale CT Image Dataset and Clinical Applicable Benchmark Model for Rectal Cancer Segmentation [(paper)](https://arxiv.org/pdf/2308.08283.pdf)|[Code](https://github.com/kanydao/U-SAM)|
 |202308|Q. Wu et al.|Self-Prompting Large Vision Models for Few-Shot Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2308.07624.pdf)|[Code](https://github.com/PeterYYZhang/few-shot-self-prompt-SAM)|
 |202308|A. Wang et al.|SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation [(paper)](https://arxiv.org/pdf/2308.07156.pdf)|None|
 |202308|D. Shin et al.|CEmb-SAM: Segment Anything Model with Condition Embedding for Joint Learning from Heterogeneous Datasets [(paper)](https://arxiv.org/pdf/2308.06957.pdf)|None|
