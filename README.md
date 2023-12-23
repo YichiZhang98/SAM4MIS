@@ -30,6 +30,8 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202312|ZM. Colbert et al.|Repurposing Traditional U-Net Predictions for Sparse SAM Prompting in Medical Image Segmentation [(paper)](https://iopscience.iop.org/article/10.1088/2057-1976/ad17a7/meta)|None|
+|202312|W. Xie et al.|SAM Fewshot Finetuning for Anatomical Segmentation in Medical Images [(paper)](https://openaccess.thecvf.com/content/WACV2024/papers/Xie_SAM_Fewshot_Finetuning_for_Anatomical_Segmentation_in_Medical_Images_WACV_2024_paper.pdf)|None|
 |202312|JG. Almeida et al.|Testing the Segment Anything Model on radiology data [(paper)](https://arxiv.org/pdf/2312.12880.pdf)|None|
 |202312|M. Barakat et al.|Towards SAMBA: Segment Anything Model for Brain Tumor Segmentation in Sub-Sharan African Populations [(paper)](https://arxiv.org/pdf/2312.11775.pdf)|None|
 |202312|Y. Zhang et al.|SQA-SAM: Segmentation Quality Assessment for Medical Images Utilizing the Segment Anything Model [(paper)](https://arxiv.org/pdf/2312.09899.pdf)|[Code](https://github.com/yizhezhang2000/SQA-SAM)|
@@ -37,6 +39,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 |202312|HE. Wong et al.|ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Medical Image [(paper)](https://arxiv.org/pdf/2312.07381.pdf)|[Code](https://scribbleprompt.csail.mit.edu)|
 |202312|Y. Zhang et al.|SemiSAM: Exploring SAM for Enhancing Semi-Supervised Medical Image Segmentation with Extremely Limited Annotations [(paper)](https://arxiv.org/pdf/2312.06316.pdf)|None|
 |202312|Y. Zhao et al.|Segment Anything Model-guided Collaborative Learning Network for Scribble-supervised Polyp Segmentation [(paper)](https://arxiv.org/pdf/2312.00312.pdf)|None|
+|202311|N. Li et al.|Segment Anything Model for Semi-Supervised Medical Image Segmentation via Selecting Reliable Pseudo-Labels [(paper)](https://link.springer.com/chapter/10.1007/978-981-99-8141-0_11)|None|
 |202311|X. Wei et al.|I-MedSAM: Implicit Medical Image Segmentation with Segment Anything [(paper)](https://arxiv.org/pdf/2311.17081.pdf)|None|
 |202311|Z. Shui et al.|Unleashing the Power of Prompt-driven Nucleus Instance Segmentation [(paper)](https://arxiv.org/pdf/2311.15939.pdf)|[Code](https://github.com/windygoo/PromptNucSeg)|
 |202311|M. Li and G. Yang et al.|Where to Begin? From Random to Foundation Model Instructed Initialization in Federated Learning for Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2311.15463.pdf)|None|
@@ -105,7 +108,6 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 |202306|DMH. Nguyen et al.|LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching [(paper)](https://arxiv.org/pdf/2306.11925.pdf)|[Code](https://github.com/duyhominhnguyen/LVM-Med)|
 |202306|S. Chai et al.|Ladder Fine-tuning approach for SAM integrating complementary network [(paper)](https://arxiv.org/pdf/2306.12737.pdf)|[Code](https://github.com/11yxk/SAM-LST)|
 |202306|L. Zhang et al.|Segment Anything Model (SAM) for Radiation Oncology [(paper)](https://arxiv.org/pdf/2306.11730.pdf)|None|
-|202306|N. Li et al.|Segment Anything Model for Semi-Supervised Medical Image Segmentation via Selecting Reliable Pseudo-Labels [(paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477443)|None|
 |202306|G. Ning et al.|The potential of 'Segment Anything' (SAM) for universal intelligent ultrasound image guidance [(paper)](https://www.jstage.jst.go.jp/article/bst/advpub/0/advpub_2023.01119/_pdf)|None|
 |202306|C. Shen et al.|Temporally-Extended Prompts Optimization for SAM in Interactive Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2306.08958.pdf)|None|
 |202306|T. Shaharabany et al.|AutoSAM: Adapting SAM to Medical Images by Overloading the Prompt Encoder [(paper)](https://arxiv.org/pdf/2306.06370.pdf)|None|
