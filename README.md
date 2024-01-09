@@ -1,6 +1,6 @@
 # Segment Anything Model (SAM) for Medical Image Segmentation.
 
-*  **[New] We update an new version of annual review of Segment Anything Model for Medical Image Segmentation in 2023. Please refer to [the paper](https://arxiv.org/pdf/2401.03495.pdf) for more details.**
+*  **[New] We update a new version of annual review of Segment Anything Model for Medical Image Segmentation in 2023. Please refer to [the paper](https://arxiv.org/pdf/2401.03495.pdf) for more details.**
 
 *  Due to the inherent flexibility of prompting, foundation models have emerged as the predominant force in the fields of natural language processing and computer vision. The recent introduction of the Segment Anything Model (SAM) signifies a noteworthy expansion of the prompt-driven paradigm into the domain of image segmentation, thereby introducing a plethora of previously unexplored capabilities. However, the viability of its application to medical image segmentation remains uncertain, given the substantial distinctions between natural and medical images.
 
