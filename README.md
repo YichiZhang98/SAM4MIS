@@ -50,6 +50,8 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202401|H. Gu et al.|SegmentAnyBone: A Universal Model that Segments Any Bone at Any Location on MRI [(paper)](https://arxiv.org/pdf/2401.12974.pdf)|[Code](https://github.com/mazurowski-lab/SegmentAnyBone)|
+|202401|S. Li et al.|ClipSAM: CLIP and SAM Collaboration for Zero-Shot Anomaly Segmentation [(paper)](https://arxiv.org/pdf/2401.12665.pdf)|[Code](https://github.com/Lszcoding/ClipSAM)|
 |202401|JD. Gutiérrez et al.|No More Training: SAM's Zero-Shot Transfer Capabilities for Cost-Efficient Medical Image Segmentation[(paper)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10388320)|None|
 |202401|H. Wang et al.|Leveraging SAM for Single-Source Domain Generalization in Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2401.02076.pdf)|[Code](https://github.com/SARIHUST/SAMMed)|
 |202401|Z. Feng et al.|Swinsam: Fine-Grained Polyp Segmentation in Colonoscopy Images Via Segment Anything Model Integrated with a Swin Transformer Decoder [(paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4673046)|None|
