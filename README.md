@@ -50,6 +50,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202402|A. Guo et al.|ClickSAM: Fine-tuning Segment Anything Model using click prompts for ultrasound image segmentation [(paper)](https://arxiv.org/pdf/2402.05902.pdf)|None|
 |202401|J. Wan et al.|TriSAM: Tri-Plane SAM for zero-shot cortical blood vessel segmentation in VEM images [(paper)](https://arxiv.org/pdf/2401.13961.pdf)|None|
 |202401|S. Na et al.|Segment Any Cell: A SAM-based Auto-prompting Fine-tuning Framework for Nuclei Segmentation [(paper)](https://arxiv.org/pdf/2401.13220.pdf)|None|
 |202401|H. Gu et al.|SegmentAnyBone: A Universal Model that Segments Any Bone at Any Location on MRI [(paper)](https://arxiv.org/pdf/2401.12974.pdf)|[Code](https://github.com/mazurowski-lab/SegmentAnyBone)|
