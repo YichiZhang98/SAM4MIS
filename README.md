@@ -10,18 +10,11 @@
 
 
 ```
-@article{SAM4MIS-2024,
+@article{SAM4MIS,
   title={Segment Anything Model for Medical Image Segmentation: Current Applications and Future Directions},
   author={Zhang, Yichi and Shen, Zhenrong and Jiao, Rushi},
-  journal={arXiv preprint arXiv:2401.03495},
+  journal={Computers in Biology and Medicine},
   year={2024}
-}
-
-@article{SAM4MIS-2023,
-  title={How Segment Anything Model (SAM) Boost Medical Image Segmentation?},
-  author={Zhang, Yichi and Jiao, Rushi},
-  journal={arXiv preprint arXiv:2305.03678},
-  year={2023}
 }
 ```
 
@@ -50,6 +43,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202402|H. Wu et al.|Tumor segmentation on whole slide images: training or prompting? [(paper)](https://arxiv.org/pdf/2402.13932.pdf)|None|
 |202402|P. Farmanifard et al.|Iris-SAM: Iris Segmentation Using a Foundational Model [(paper)](https://arxiv.org/pdf/2402.06497.pdf)|None|
 |202402|A. Guo et al.|ClickSAM: Fine-tuning Segment Anything Model using click prompts for ultrasound image segmentation [(paper)](https://arxiv.org/pdf/2402.05902.pdf)|None|
 |202401|J. Wan et al.|TriSAM: Tri-Plane SAM for zero-shot cortical blood vessel segmentation in VEM images [(paper)](https://arxiv.org/pdf/2401.13961.pdf)|None|
