@@ -1,22 +1,25 @@
 # Segment Anything Model (SAM) for Medical Image Segmentation.
 
-*  **[New] We update a new version of annual review of Segment Anything Model for Medical Image Segmentation in 2023. Please refer to [the paper](https://arxiv.org/pdf/2401.03495.pdf) for more details.**
-
-*  Due to the inherent flexibility of prompting, foundation models have emerged as the predominant force in the fields of natural language processing and computer vision. The recent introduction of the Segment Anything Model (SAM) signifies a noteworthy expansion of the prompt-driven paradigm into the domain of image segmentation, thereby introducing a plethora of previously unexplored capabilities. However, the viability of its application to medical image segmentation remains uncertain, given the substantial distinctions between natural and medical images.
-
-*  In this work, we provide a comprehensive overview of recent endeavors aimed at extending the efficacy of SAM to medical image segmentation tasks, encompassing both empirical benchmarking and methodological adaptations. Additionally, we explore potential avenues for future research directions in SAM's role within medical image segmentation. 
-
-*  This repo will continue to track and summarize the latest research progress of SAM in medical image segmentation to support ongoing research endeavors. If you find this project helpful, please consider stars or citing. Feel free to contact for any suggestions.
-
-
 ```
 @article{SAM4MIS,
   title={Segment Anything Model for Medical Image Segmentation: Current Applications and Future Directions},
   author={Zhang, Yichi and Shen, Zhenrong and Jiao, Rushi},
   journal={Computers in Biology and Medicine},
+  volume={171},
+  pages={108238},
   year={2024}
 }
 ```
+
+
+*  Due to the inherent flexibility of prompting, foundation models have emerged as the predominant force in the fields of natural language processing and computer vision. The recent introduction of the Segment Anything Model (SAM) signifies a noteworthy expansion of the prompt-driven paradigm into the domain of image segmentation, thereby introducing a plethora of previously unexplored capabilities. However, the viability of its application to medical image segmentation remains uncertain, given the substantial distinctions between natural and medical images.
+
+*  In this work, we provide a comprehensive overview of recent endeavors aimed at extending the efficacy of SAM to medical image segmentation tasks, encompassing both empirical benchmarking and methodological adaptations. Additionally, we explore potential avenues for future research directions in SAM's role within medical image segmentation. Please refer to [the paper](https://arxiv.org/pdf/2401.03495.pdf) for more details.
+
+*  This repo will continue to track and summarize the latest research progress of SAM in medical image segmentation to support ongoing research endeavors. If you find this project helpful, please consider stars or citing. Feel free to contact for any suggestions.
+
+
+
 
 ## A brief chronology of Segment Anything Model (SAM) and its variants for medical image segmentation in 2023.
 
@@ -43,6 +46,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202402|Z. Chen et al.|UN-SAM: Universal Prompt-Free Segmentation for Generalized Nuclei Images [(paper)](https://arxiv.org/pdf/2402.16663.pdf)|[Code](https://github.com/CUHK-AIM-Group/UN-SAM)|
 |202402|H. Wu et al.|Tumor segmentation on whole slide images: training or prompting? [(paper)](https://arxiv.org/pdf/2402.13932.pdf)|None|
 |202402|P. Farmanifard et al.|Iris-SAM: Iris Segmentation Using a Foundational Model [(paper)](https://arxiv.org/pdf/2402.06497.pdf)|None|
 |202402|A. Guo et al.|ClickSAM: Fine-tuning Segment Anything Model using click prompts for ultrasound image segmentation [(paper)](https://arxiv.org/pdf/2402.05902.pdf)|None|
