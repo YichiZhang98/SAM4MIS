@@ -43,6 +43,8 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202403|J. Wang et al.|ProMISe: Promptable Medical Image Segmentation using SAM [(paper)](https://arxiv.org/pdf/2403.04164.pdf)|None|
+|202402|L. Zhang et al.|BLO-SAM: Bi-Level Optimization Based Finetuning of the Segment Anything Model for Overfitting-Preventing Semantic Segmentation [(paper)](https://arxiv.org/pdf/2402.16338.pdf)|[Code](https://github.com/importZL/BLO-SAM)|
 |202402|KJ. Oguine et al.|From Generalization to Precision: Exploring SAM for Tool Segmentation in Surgical Environments [(paper)](https://arxiv.org/pdf/2402.17972.pdf)|None|
 |202402|J. Ren et al.|Segment anything model for head and neck tumor segmentation with CT, PET and MRI multi-modality images [(paper)](https://arxiv.org/pdf/2402.17454.pdf)|None|
 |202402|Z. Chen et al.|UN-SAM: Universal Prompt-Free Segmentation for Generalized Nuclei Images [(paper)](https://arxiv.org/pdf/2402.16663.pdf)|[Code](https://github.com/CUHK-AIM-Group/UN-SAM)|
