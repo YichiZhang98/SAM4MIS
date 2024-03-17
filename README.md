@@ -43,6 +43,8 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202403|H. Liu et al.|WSI-SAM: Multi-resolution Segment Anything Model (SAM) for histopathology whole-slide images [(paper)](https://arxiv.org/pdf/2403.09257.pdf)|[Code](https://github.com/HongLiuuuuu/WSI-SAM)|
+|202403|Y. Wang et al.|SAMDA: Leveraging SAM on Few-Shot Domain Adaptation for Electronic Microscopy Segmentation [(paper)](https://arxiv.org/pdf/2403.07951.pdf)|None|
 |202403|Y. Liu et al.|FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2403.05408.pdf)|[Code](https://github.com/LIU-YUXI/FedFMS)|
 |202403|C. Zhao et al.|Part-aware Personalized Segment Anything Model for Patient-Specific Segmentation [(paper)](https://arxiv.org/pdf/2403.05433.pdf)|None|
 |202403|J. Wang et al.|ProMISe: Promptable Medical Image Segmentation using SAM [(paper)](https://arxiv.org/pdf/2403.04164.pdf)|None|
