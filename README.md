@@ -43,6 +43,10 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202403|Z. Cheng et al.|Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding [(paper)](https://arxiv.org/pdf/2403.18271.pdf)|[Code](https://github.com/Cccccczh404/H-SAM)|
+|202403|Y. Liu et al.|Segment Any Medical Model Extended [(paper)](https://arxiv.org/pdf/2403.18114.pdf)|None|
+|202403|P. Kulkarni et al.|Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations [(paper)](https://arxiv.org/pdf/2403.15218.pdf)|None|
+|202403|H. Guo et al.|Towards a Comprehensive, Efficient and Promptable Anatomic Structure Segmentation Model using 3D Whole-body CT Scans [(paper)](https://arxiv.org/pdf/2403.15063.pdf)|None|
 |202403|S. Li et al.|Concatenate, Fine-tuning, Re-training: A SAM-enabled Framework for Semi-supervised 3D Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2403.11229.pdf)|[Code](https://github.com/ShumengLI/CFR)|
 |202403|M. Jiang et al.|Uncertainty-Aware Adapter: Adapting Segment Anything Model (SAM) for Ambiguous Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2403.10931.pdf)|None|
 |202403|Z. Chen et al.|Cardiac Magnetic Resonance 2D+T Short- and Long-axis Segmentation via Spatio-temporal SAM Adaptation [(paper)](https://arxiv.org/pdf/2403.10009.pdf)|None|
