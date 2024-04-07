@@ -43,6 +43,9 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202404|Y. Ding et al.|Barely-supervised Brain Tumor Segmentation via Employing Segment Anything Model [(paper)](https://ieeexplore.ieee.org/abstract/document/10491099)|None|
+|202404|Y. Zhu et al.|SAM-Att: A Prompt-free SAM-related Model with an Attention Module for Automatic Segmentation of the Left Ventricle in Echocardiography [(paper)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10488364)|None|
+|202404|Y. Liu et al.|Universal 3D CT lesion segmentation using SAM with RECIST annotation [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12926/1292605/Universal-3D-CT-lesion-segmentation-using-SAM-with-RECIST-annotation/10.1117/12.3006527.short#_=_)|None|
 |202403|Z. Cheng et al.|Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding [(paper)](https://arxiv.org/pdf/2403.18271.pdf)|[Code](https://github.com/Cccccczh404/H-SAM)|
 |202403|Y. Liu et al.|Segment Any Medical Model Extended [(paper)](https://arxiv.org/pdf/2403.18114.pdf)|None|
 |202403|P. Kulkarni et al.|Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations [(paper)](https://arxiv.org/pdf/2403.15218.pdf)|None|
