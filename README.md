@@ -43,6 +43,9 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202404|Z. Tu et al.|Ultrasound SAM Adapter: Adapting SAM for Breast Lesion Segmentation in Ultrasound Images [(paper)](https://arxiv.org/pdf/2404.14837.pdf)|[Code](https://github.com/bscs12/BUSSAM)|
+|202404|Y. Sheng et al.|Surgical-DeSAM: Decoupling SAM for Instrument Segmentation in Robotic Surgery [(paper)](https://arxiv.org/pdf/2404.14040.pdf)|None|
+|202404|J. Yu et al.|Adapting SAM for Surgical Instrument Tracking and Segmentation in Endoscopic Submucosal Dissection Videos [(paper)](https://arxiv.org/pdf/2404.10640.pdf)|None|
 |202404|H. Gu et al.|How to build the best medical image segmentation algorithm using foundation models: a comprehensive empirical study with Segment Anything Model [(paper)](https://arxiv.org/pdf/2404.09957.pdf)|[Code](https://github.com/mazurowski-lab/finetune-SAM)|
 |202404|W. Abebe et al.|SAM-I-Am: Semantic Boosting for Zero-shot Atomic-Scale Electron Micrograph Segmentation [(paper)](https://arxiv.org/pdf/2404.06638.pdf)|None|
 |202404|S. Aleem et al.|Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero-shot Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2404.06362.pdf)|None|
