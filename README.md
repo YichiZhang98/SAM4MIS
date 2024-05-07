@@ -43,6 +43,8 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202404|H. Zhou et al.|AGSAM: Agent-Guided Segment Anything Model for Automatic Segmentation in Few-Shot Scenarios [(paper)](https://www.mdpi.com/2306-5354/11/5/447)|None|
+|202404|V. Zohranyan et al.|Dr-SAM: An End-to-End Framework for Vascular Segmentation, Diameter Estimation, and Anomaly Detection on Angiography Images [(paper)](https://arxiv.org/pdf/2404.17029.pdf)|[Code](https://github.com/vazgenzohranyan/Dr.SAM)|
 |202404|Z. Tu et al.|Ultrasound SAM Adapter: Adapting SAM for Breast Lesion Segmentation in Ultrasound Images [(paper)](https://arxiv.org/pdf/2404.14837.pdf)|[Code](https://github.com/bscs12/BUSSAM)|
 |202404|Y. Sheng et al.|Surgical-DeSAM: Decoupling SAM for Instrument Segmentation in Robotic Surgery [(paper)](https://arxiv.org/pdf/2404.14040.pdf)|None|
 |202404|J. Yu et al.|Adapting SAM for Surgical Instrument Tracking and Segmentation in Endoscopic Submucosal Dissection Videos [(paper)](https://arxiv.org/pdf/2404.10640.pdf)|None|
