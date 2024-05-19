@@ -36,6 +36,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Dataset|
 |---|---|---|---|
+|202404|F. Bai et al.|M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models [(paper)](https://arxiv.org/pdf/2404.00578)|[Link](https://github.com/BAAI-DCAI/M3D)|
 |202311|J. Ye et al.|SA-Med2D-20M Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks [(paper)](https://arxiv.org/pdf/2311.11969.pdf)|[Link](https://openxlab.org.cn/datasets/GMAI/SA-Med2D-20M)|
 
 
@@ -43,6 +44,8 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202405|TJ. Chan et al.|SAM3D: Zero-Shot Semi-Automatic Segmentation in 3D Medical Images with the Segment Anything Model [(paper)](https://arxiv.org/pdf/2405.06786)|None|
+|202405|HL. Zedda et al.|SAMMI: Segment Anything Model for Malaria Identification [(paper)](https://iris.unica.it/bitstream/11584/397665/1/2024_VISAPP_SAM.pdf)|None|
 |202404|H. Zhou et al.|AGSAM: Agent-Guided Segment Anything Model for Automatic Segmentation in Few-Shot Scenarios [(paper)](https://www.mdpi.com/2306-5354/11/5/447)|None|
 |202404|V. Zohranyan et al.|Dr-SAM: An End-to-End Framework for Vascular Segmentation, Diameter Estimation, and Anomaly Detection on Angiography Images [(paper)](https://arxiv.org/pdf/2404.17029.pdf)|[Code](https://github.com/vazgenzohranyan/Dr.SAM)|
 |202404|Z. Tu et al.|Ultrasound SAM Adapter: Adapting SAM for Breast Lesion Segmentation in Ultrasound Images [(paper)](https://arxiv.org/pdf/2404.14837.pdf)|[Code](https://github.com/bscs12/BUSSAM)|
