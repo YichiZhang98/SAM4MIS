@@ -44,6 +44,10 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202405|Y. Gu et al.|LeSAM: Adapt Segment Anything Model for medical lesion segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/10540651)|None|
+|202405|J. Leng et al.|Development of UroSAM: A Machine Learning Model to Automatically Identify Kidney Stone Composition from Endoscopic Video [(paper)](https://www.liebertpub.com/doi/abs/10.1089/end.2023.0740)|None|
+|202405|MM. Rahman et al.|PP-SAM: Perturbed Prompts for Robust Adaptation of Segment Anything Model for Polyp Segmentation [(paper)](https://arxiv.org/pdf/2405.16740)|[Code](https://github.com/SLDGroup/PP-SAM)|
+|202405|X. Zhang et al.|A Foundation Model for Brain Lesion Segmentation with Mixture of Modality Experts [(paper)](https://arxiv.org/pdf/2405.10246)|[Code](https://github.com/ZhangxinruBIT/MoME)|
 |202405|TJ. Chan et al.|SAM3D: Zero-Shot Semi-Automatic Segmentation in 3D Medical Images with the Segment Anything Model [(paper)](https://arxiv.org/pdf/2405.06786)|None|
 |202405|HL. Zedda et al.|SAMMI: Segment Anything Model for Malaria Identification [(paper)](https://iris.unica.it/bitstream/11584/397665/1/2024_VISAPP_SAM.pdf)|None|
 |202404|H. Zhou et al.|AGSAM: Agent-Guided Segment Anything Model for Automatic Segmentation in Few-Shot Scenarios [(paper)](https://www.mdpi.com/2306-5354/11/5/447)|None|
