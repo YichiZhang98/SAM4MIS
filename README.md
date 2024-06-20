@@ -31,7 +31,6 @@
 Segment Anything Model (SAM) uses vision transformer-based image encoder to extract image features and compute an image embedding, and prompt encoder to embed prompts and incorporate user interactions. Then extranted information from two encoders are combined to alightweight mask decoder to generate segmentation results based on the image embedding, prompt embedding, and output token. For more details, please refer to the [original paper](https://arxiv.org/pdf/2304.02643.pdf).
 
 
-
 ## Large-scale Datasets for Foundation Models for Medical Imaging.
 
 |Date|Authors|Title|Dataset|
@@ -40,10 +39,15 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 |202311|J. Ye et al.|SA-Med2D-20M Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks [(paper)](https://arxiv.org/pdf/2311.11969.pdf)|[Link](https://openxlab.org.cn/datasets/GMAI/SA-Med2D-20M)|
 
 
-## Literature Reviews of Applying SAM for Medical Image Segmentation.
+## Literature Reviews of Foundation Models / SAM for Medical Image Segmentation.
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202406|X. Deng et al.|MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation [(paper)](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_MemSAM_Taming_Segment_Anything_Model_for_Echocardiography_Video_Segmentation_CVPR_2024_paper.pdf)|[Code](https://github.com/dengxl0520/MemSAM)|
+|202406|Yunhe Gao|Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation [(paper)](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_Training_Like_a_Medical_Resident_Context-Prior_Learning_Toward_Universal_Medical_CVPR_2024_paper.pdf)|[Code](https://github.com/yhygao/universal-medical-image-segmentation)|
+|202406|C.D Albelda et al.|How SAM Perceives Different mp-MRI Brain Tumor Domains? [(paper)](https://openaccess.thecvf.com/content/CVPR2024W/DEF-AI-MIA/papers/Diana-Albelda_How_SAM_Perceives_Different_mp-MRI_Brain_Tumor_Domains_CVPRW_2024_paper.pdf)|[Code](github.com/vpulab/med-sam-brain)|
+|202406|T. Huang et al.|Improving Segment Anything on the Fly: Auxiliary Online Learning and Adaptive Fusion for Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2406.00956)|[Code](https://sam-auxol.github.io/AuxOL/)|
+|202406|B. Towle et al.|SimSAM: Zero-shot Medical Image Segmentation via Simulated Interaction [(paper)](https://arxiv.org/pdf/2406.00663)|[Code](https://github.com/BenjaminTowle/SimSAM)|
 |202405|Y. Gu et al.|LeSAM: Adapt Segment Anything Model for medical lesion segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/10540651)|None|
 |202405|J. Leng et al.|Development of UroSAM: A Machine Learning Model to Automatically Identify Kidney Stone Composition from Endoscopic Video [(paper)](https://www.liebertpub.com/doi/abs/10.1089/end.2023.0740)|None|
 |202405|MM. Rahman et al.|PP-SAM: Perturbed Prompts for Robust Adaptation of Segment Anything Model for Polyp Segmentation [(paper)](https://arxiv.org/pdf/2405.16740)|[Code](https://github.com/SLDGroup/PP-SAM)|
