@@ -39,10 +39,23 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 |202311|J. Ye et al.|SA-Med2D-20M Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks [(paper)](https://arxiv.org/pdf/2311.11969.pdf)|[Link](https://openxlab.org.cn/datasets/GMAI/SA-Med2D-20M)|
 
 
+## CVPR2024 Workshop: Segment Anything in Medical Images on Laptop.
+
+[(Challenge Website)](https://www.codabench.org/competitions/1847/)
+[(Papers)](https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/MedSAMonLaptop#tab-active-submissions)
+
+
 ## Literature Reviews of Foundation Models / SAM for Medical Image Segmentation.
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202407|Y. Gao et al.|MBA-Net: SAM-driven Bidirectional Aggregation Network for Ovarian Tumor Segmentation [(paper)](https://arxiv.org/pdf/2407.05984)|None|
+|202407|J. Miao et al.|Cross Prompting Consistency with Segment Anything Model for Semi-supervised Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2407.05416)|[Code](https://github.com/JuzhengMiao/CPC-SAM)|
+|202407|H. Li et al.|Cross Prompting Consistency with Segment Anything Model for Semi-supervised Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2407.05416)|[Code](https://github.com/JuzhengMiao/CPC-SAM)|
+|202407|G. Wang et al.|SAM-Med3D-MoE: Towards a Non-Forgetting Segment Anything Model via Mixture of Experts for 3D Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2407.04938)|None|
+|202407|Z. Zhang et al.|Quantification of cardiac capillarization in basement-membrane-immunostained myocardial slices using Segment Anything Model [(paper)](https://www.nature.com/articles/s41598-024-65567-3)|None|
+|202407|H. Li et al.|ASPS: Augmented Segment Anything Model for Polyp Segmentation [(paper)](https://arxiv.org/pdf/2407.00718)|[Code](https://github.com/HuiqianLi/ASPS)|
+|202406|Y. Xie et al.|SimTxtSeg: Weakly-Supervised Medical Image Segmentation with Simple Text Cues [(paper)](https://arxiv.org/pdf/2406.19364)|None|
 |202406|X. Deng et al.|MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation [(paper)](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_MemSAM_Taming_Segment_Anything_Model_for_Echocardiography_Video_Segmentation_CVPR_2024_paper.pdf)|[Code](https://github.com/dengxl0520/MemSAM)|
 |202406|Yunhe Gao|Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation [(paper)](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_Training_Like_a_Medical_Resident_Context-Prior_Learning_Toward_Universal_Medical_CVPR_2024_paper.pdf)|[Code](https://github.com/yhygao/universal-medical-image-segmentation)|
 |202406|C.D Albelda et al.|How SAM Perceives Different mp-MRI Brain Tumor Domains? [(paper)](https://openaccess.thecvf.com/content/CVPR2024W/DEF-AI-MIA/papers/Diana-Albelda_How_SAM_Perceives_Different_mp-MRI_Brain_Tumor_Domains_CVPRW_2024_paper.pdf)|[Code](github.com/vpulab/med-sam-brain)|
@@ -204,3 +217,4 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 |202304|S. Roy et al.|SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Model [(paper)](https://arxiv.org/pdf/2304.05396.pdf)|None|
 |202304|S. Mohapatra et al.|SAM vs BET: A Comparative Study for Brain Extraction and Segmentation of Magnetic Resonance Images using Deep Learning [(paper)](https://arxiv.org/pdf/2304.04738.pdf)|None|
 |202304|R. Deng et al.|Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging [(paper)](https://arxiv.org/pdf/2304.04155.pdf)|None|
+
