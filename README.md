@@ -18,34 +18,69 @@
 ```
 
 
-## A brief chronology of Segment Anything Model (SAM) and its variants for medical image segmentation in 2023.
+## Table of Contents
+
+- [Introduction: About SAM & SAM2](#introduction)
+- [Literature Reviews of SAM 2 for Medical Image Segmentation](#sam24mis)
+- [Literature Reviews of SAM for Medical Image Segmentation](#sam4mis)
+- [Large-scale Datasets for Developing Medical Foundation Models](#dataset)
+- [CVPR2024 Workshop: Segment Anything in Medical Images on Laptop](#cvpr24)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## About Segment Anything Model (SAM) {#introduction}
 
 ![image](https://github.com/YichiZhang98/SAM4MIS/blob/main/timeline.png)
 
-
-
-## About Segment Anything Model (SAM)
+A brief chronology of Segment Anything Model (SAM) and its variants for medical image segmentation in 2023.
 
 ![image](https://github.com/YichiZhang98/SAM4MIS/blob/main/SAM_v2.jpg)
 
 Segment Anything Model (SAM) uses vision transformer-based image encoder to extract image features and compute an image embedding, and prompt encoder to embed prompts and incorporate user interactions. Then extranted information from two encoders are combined to alightweight mask decoder to generate segmentation results based on the image embedding, prompt embedding, and output token. For more details, please refer to the [original paper](https://arxiv.org/pdf/2304.02643.pdf).
 
 
-## Large-scale Datasets for Foundation Models for Medical Imaging.
 
-|Date|Authors|Title|Dataset|
+
+
+
+
+
+
+
+## Literature Reviews of SAM 2 Adaptions for Medical Image Segmentation. {#sam24mis}
+
+*  [New] The SAM2 model was released. See [paper](https://arxiv.org/pdf/2408.00714) and [code](https://github.com/facebookresearch/segment-anything-2). The summary of applications & adaptions of SAM2 for medical image segmentation is organized as follows.
+
 |---|---|---|---|
-|202404|F. Bai et al.|M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models [(paper)](https://arxiv.org/pdf/2404.00578)|[Link](https://github.com/BAAI-DCAI/M3D)|
-|202311|J. Ye et al.|SA-Med2D-20M Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks [(paper)](https://arxiv.org/pdf/2311.11969.pdf)|[Link](https://openxlab.org.cn/datasets/GMAI/SA-Med2D-20M)|
+|202408|J. Yu et al.|SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation [(paper)](https://arxiv.org/pdf/2408.04593)|None|
+|202408|T. Chen et al.|SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More [(paper)](https://arxiv.org/pdf/2408.04579)|None|
+|202408|S. Sengupta et al.|Is SAM 2 Better than SAM in Medical Image Segmentation? [(paper)](https://arxiv.org/pdf/2408.04212)|None|
+|202408|Y. Shen et al.|Performance and Non-adversarial Robustness of the Segment Anything Model 2 in Surgical Video Segmentation [(paper)](https://arxiv.org/pdf/2408.04098)|None|
+|202408|Z. Yan et al.|Biomedical SAM 2: Segment Anything in Biomedical Images and Videos [(paper)](https://arxiv.org/pdf/2408.03286)|None|
+|202408|C. Shen et al.|Interactive 3D Medical Image Segmentation with SAM 2 [(paper)](https://arxiv.org/pdf/2408.02635)|[Code](https://github.com/Chuyun-Shen/SAM_2_Medical_3D)|
+|202408|A. Lou et al.|Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2408.01648)|None|
+|202408|J. Zhu et al.|Medical SAM 2: Segment medical images as video via Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2408.00874)|[Code](https://github.com/MedicineToken/Medical-SAM2)|
+|202408|H. Dong et al.|Segment anything model 2: an application to 2D and 3D medical images [(paper)](https://arxiv.org/abs/2408.00756)|None|
 
 
-## CVPR2024 Workshop: Segment Anything in Medical Images on Laptop.
-
-[(Challenge Website)](https://www.codabench.org/competitions/1847/)
-[(Papers)](https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/MedSAMonLaptop#tab-active-submissions)
 
 
-## Literature Reviews of Foundation Models / SAM for Medical Image Segmentation.
+## Literature Reviews of Foundation Models / SAM for Medical Image Segmentation. {#sam4mis}
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
@@ -217,4 +252,22 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 |202304|S. Roy et al.|SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Model [(paper)](https://arxiv.org/pdf/2304.05396.pdf)|None|
 |202304|S. Mohapatra et al.|SAM vs BET: A Comparative Study for Brain Extraction and Segmentation of Magnetic Resonance Images using Deep Learning [(paper)](https://arxiv.org/pdf/2304.04738.pdf)|None|
 |202304|R. Deng et al.|Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging [(paper)](https://arxiv.org/pdf/2304.04155.pdf)|None|
+
+
+## Large-scale Datasets for Developing Medical Foundation Models.{#dataset}
+
+|Date|Authors|Title|Dataset|
+|---|---|---|---|
+|202404|F. Bai et al.|M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models [(paper)](https://arxiv.org/pdf/2404.00578)|[Link](https://github.com/BAAI-DCAI/M3D)|
+|202311|J. Ye et al.|SA-Med2D-20M Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks [(paper)](https://arxiv.org/pdf/2311.11969.pdf)|[Link](https://openxlab.org.cn/datasets/GMAI/SA-Med2D-20M)|
+
+
+## CVPR2024 Workshop: Segment Anything in Medical Images on Laptop.{#cvpr24}
+
+[(Challenge Website)](https://www.codabench.org/competitions/1847/)
+[(Papers)](https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/MedSAMonLaptop#tab-active-submissions)
+
+The field of medical image segmentation is currently experiencing a paradigm shift, moving from specialized models designed for individual tasks to foundation models capable of managing a multitude of segmentation scenarios. 
+This challenge seeks universal promptable medical image segmentation models that are deployable on laptops or other edge devices without reliance on GPUs.
+
 
