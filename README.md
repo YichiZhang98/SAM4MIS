@@ -43,7 +43,7 @@
 
 
 
-## About Segment Anything Model (SAM) {#introduction}
+## About Segment Anything Model (SAM) <div id="introduction"></div>
 
 ![image](https://github.com/YichiZhang98/SAM4MIS/blob/main/timeline.png)
 
@@ -62,7 +62,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 
 
-## Literature Reviews of SAM 2 Adaptions for Medical Image Segmentation. {#sam24mis}
+## Literature Reviews of SAM 2 Adaptions for Medical Image Segmentation. <div id="sam24mis"></div>
 
 *  [New] The SAM2 model was released. See [paper](https://arxiv.org/pdf/2408.00714) and [code](https://github.com/facebookresearch/segment-anything-2). The summary of applications & adaptions of SAM2 for medical image segmentation is organized as follows.
 
@@ -80,7 +80,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 
 
-## Literature Reviews of Foundation Models / SAM for Medical Image Segmentation. {#sam4mis}
+## Literature Reviews of Foundation Models / SAM for Medical Image Segmentation. <div id="sam4mis"></div>
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
@@ -254,7 +254,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 |202304|R. Deng et al.|Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging [(paper)](https://arxiv.org/pdf/2304.04155.pdf)|None|
 
 
-## Large-scale Datasets for Developing Medical Foundation Models.{#dataset}
+## Large-scale Datasets for Developing Medical Foundation Models.<div id="dataset"></div>
 
 |Date|Authors|Title|Dataset|
 |---|---|---|---|
@@ -262,7 +262,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 |202311|J. Ye et al.|SA-Med2D-20M Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks [(paper)](https://arxiv.org/pdf/2311.11969.pdf)|[Link](https://openxlab.org.cn/datasets/GMAI/SA-Med2D-20M)|
 
 
-## CVPR2024 Workshop: Segment Anything in Medical Images on Laptop.{#cvpr24}
+## CVPR2024 Workshop: Segment Anything in Medical Images on Laptop.<div id="cvpr24"></div>
 
 [(Challenge Website)](https://www.codabench.org/competitions/1847/)
 [(Papers)](https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/MedSAMonLaptop#tab-active-submissions)
