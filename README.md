@@ -68,11 +68,13 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202408|AS. Yu et al.|Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2 [(paper)](https://arxiv.org/pdf/2408.04762)|None|
 |202408|J. Yu et al.|SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation [(paper)](https://arxiv.org/pdf/2408.04593)|None|
 |202408|T. Chen et al.|SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More [(paper)](https://arxiv.org/pdf/2408.04579)|None|
 |202408|S. Sengupta et al.|Is SAM 2 Better than SAM in Medical Image Segmentation? [(paper)](https://arxiv.org/pdf/2408.04212)|None|
 |202408|Y. Shen et al.|Performance and Non-adversarial Robustness of the Segment Anything Model 2 in Surgical Video Segmentation [(paper)](https://arxiv.org/pdf/2408.04098)|None|
-|202408|J. Ma et al.|Segment Anything in Medical Images and Videos: Benchmark and Deployment [(paper)](https://arxiv.org/pdf/2408.03322)|[Code]( https://github.com/bowang-lab/MedSAM)|
+|202408|M. Zhang et al.|SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology [(paper)](https://arxiv.org/pdf/2408.03651)|[Code](https://github.com/simzhangbest/SAM2PATH)|
+|202408|J. Ma et al.|Segment Anything in Medical Images and Videos: Benchmark and Deployment [(paper)](https://arxiv.org/pdf/2408.03322)|[Code](https://github.com/bowang-lab/MedSAM)|
 |202408|Z. Yan et al.|Biomedical SAM 2: Segment Anything in Biomedical Images and Videos [(paper)](https://arxiv.org/pdf/2408.03286)|None|
 |202408|C. Shen et al.|Interactive 3D Medical Image Segmentation with SAM 2 [(paper)](https://arxiv.org/pdf/2408.02635)|[Code](https://github.com/Chuyun-Shen/SAM_2_Medical_3D)|
 |202408|A. Lou et al.|Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2408.01648)|None|
@@ -89,8 +91,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 |202408|X. Wei et al.|PromptSAM+: Malware Detection based on Prompt Segment Anything Model [(paper)](https://arxiv.org/pdf/2408.02066)|[Code](https://github.com/XingYuanWei/PromptSAM)|
 |202407|J. Cai et al.|PESAM: Privacy-Enhanced Segment Anything Model for Medical Image Segmentation [(paper)](https://link.springer.com/chapter/10.1007/978-981-97-5581-3_8)|None|
 |202407|M. Asokan et al.|A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation [(paper)](https://arxiv.org/pdf/2407.21739)|[Code](https://github.com/BioMedIA-MBZUAI/FLAP-SAM)|
-|202407|SN. Gowda et al.|CC-SAM: SAM with Cross-feature Attention and Context for Ultrasound Image Segmentation
- [(paper)](https://arxiv.org/pdf/2408.00181)|None|
+|202407|SN. Gowda et al.|CC-SAM: SAM with Cross-feature Attention and Context for Ultrasound Image Segmentation[(paper)](https://arxiv.org/pdf/2408.00181)|None|
 |202407|X. Huo et al.|Dr-SAM: U-Shape Structure Segment Anything Model for Generalizable Medical Image Segmentation [(paper)](https://link.springer.com/chapter/10.1007/978-981-97-5600-1_17)|None|
 |202407|H. Fang et al.|SAM-MIL: A Spatial Contextual Aware Multiple Instance Learning Approach for Whole Slide Image Classification [(paper)](https://arxiv.org/pdf/2407.17689)|None|
 |202407|Q. Xu et al.|ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2407.14153)|[Code](https://github.com/xq141839/ESP-MedSAM)|
