@@ -18,6 +18,7 @@
   year={2024}
 }
 ```
+*  Last update 2024-8-13
 
 
 ## Table of Contents
@@ -30,22 +31,9 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## About Segment Anything Model (SAM) <div id="introduction"></div>
+
+Segment Anything Model (SAM) uses vision transformer-based image encoder to extract image features and compute an image embedding, and prompt encoder to embed prompts and incorporate user interactions. Then extranted information from two encoders are combined to alightweight mask decoder to generate segmentation results based on the image embedding, prompt embedding, and output token. For more details, please refer to the [original paper of SAM](https://arxiv.org/pdf/2304.02643.pdf).
 
 ![image](https://github.com/YichiZhang98/SAM4MIS/blob/main/SAM_v2.jpg)
 
@@ -53,21 +41,14 @@
 
 A brief chronology of Segment Anything Model (SAM) and its variants for medical image segmentation in 2023 [(paper)](https://www.sciencedirect.com/science/article/pii/S0010482524003226).
 
-Segment Anything Model (SAM) uses vision transformer-based image encoder to extract image features and compute an image embedding, and prompt encoder to embed prompts and incorporate user interactions. Then extranted information from two encoders are combined to alightweight mask decoder to generate segmentation results based on the image embedding, prompt embedding, and output token. For more details, please refer to the [original paper of SAM](https://arxiv.org/pdf/2304.02643.pdf).
-
-
-
-
-
-
-
-
 
 
 ## Literature Reviews of SAM 2 Adaptions for Medical Image Segmentation. <div id="sam24mis"></div>
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202408|Y. Yamagishi et al.|Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging [(paper)](https://arxiv.org/pdf/2408.06170)|None|
+|202408|M. Mansoori et al.|Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection [(paper)](https://arxiv.org/pdf/https://arxiv.org/pdf/2408.05892)|[Code](https://github.com/ sajjad-sh33/Polyp-SAM-2)|
 |202408|AS. Yu et al.|Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2 [(paper)](https://arxiv.org/pdf/2408.04762)|None|
 |202408|J. Yu et al.|SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation [(paper)](https://arxiv.org/pdf/2408.04593)|None|
 |202408|T. Chen et al.|SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More [(paper)](https://arxiv.org/pdf/2408.04579)|None|
@@ -88,6 +69,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202408|J. Wei et al.|SAM-FNet: SAM-Guided Fusion Network for Laryngo-Pharyngeal Tumor Detection [(paper)](https://arxiv.org/pdf/https://arxiv.org/pdf/2408.05426)|[Code](https://github.com/VVJia/SAM-FNet)|
 |202408|X. Wei et al.|PromptSAM+: Malware Detection based on Prompt Segment Anything Model [(paper)](https://arxiv.org/pdf/2408.02066)|[Code](https://github.com/XingYuanWei/PromptSAM)|
 |202407|J. Cai et al.|PESAM: Privacy-Enhanced Segment Anything Model for Medical Image Segmentation [(paper)](https://link.springer.com/chapter/10.1007/978-981-97-5581-3_8)|None|
 |202407|M. Asokan et al.|A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation [(paper)](https://arxiv.org/pdf/2407.21739)|[Code](https://github.com/BioMedIA-MBZUAI/FLAP-SAM)|
