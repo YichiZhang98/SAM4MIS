@@ -1,12 +1,11 @@
 # SAM & SAM 2 for Medical Image Segmentation.
 
-*  Due to the inherent flexibility of prompting, foundation models have emerged as the predominant force in the fields of natural language processing and computer vision. The recent introduction of the Segment Anything Model (SAM) signifies a noteworthy expansion of the prompt-driven paradigm into the domain of image segmentation, thereby introducing a plethora of previously unexplored capabilities. However, the viability of its application to medical image segmentation remains uncertain, given the substantial distinctions between natural and medical images.
+*  Due to the inherent flexibility of prompting, foundation models have emerged as the predominant force in the fields of natural language processing and computer vision. The introduction of the Segment Anything Model (SAM) [(paper)](https://arxiv.org/pdf/2304.02643.pdf) and SAM2 [(paper)](https://arxiv.org/pdf/2408.00714) signifies a noteworthy expansion of the prompt-driven paradigm into the domain of image/video segmentation, introducing a plethora of previously unexplored capabilities. 
 
-*  In this work, we provide a comprehensive overview of recent endeavors aimed at extending the efficacy of SAM to medical image segmentation tasks, encompassing both empirical benchmarking and methodological adaptations. Additionally, we explore potential avenues for future research directions in SAM's role within medical image segmentation. Please refer to [the paper](https://arxiv.org/pdf/2401.03495.pdf) for more details.
+*  We provide a comprehensive survey of recent endeavors aimed at extending the efficacy of SAM to medical image segmentation tasks, encompassing both empirical benchmarking and methodological adaptations. Additionally, we explore potential avenues for future research directions in SAM's role within medical image segmentation. Please refer to [the paper](https://arxiv.org/pdf/2401.03495.pdf) for more details.
 
 *  This repo will continue to track and summarize the latest research progress of SAM in medical image segmentation to support ongoing research endeavors. If you find this project helpful, please consider stars or citing. Feel free to contact for any suggestions. If you would like to contribute, please open an issue.
 
-*  [News] The SAM2 model was released. See [paper](https://arxiv.org/pdf/2408.00714) and [code](https://github.com/facebookresearch/segment-anything-2). 
 
 ```
 @article{SAM4MIS,
@@ -39,7 +38,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 ![image](https://github.com/YichiZhang98/SAM4MIS/blob/main/timeline.png)
 
-A brief chronology of Segment Anything Model (SAM) and its variants for medical image segmentation in 2023 [(paper)](https://www.sciencedirect.com/science/article/pii/S0010482524003226).
+A brief chronology of Segment Anything Model (SAM) and its variants for medical image segmentation in 2023.
 
 
 
@@ -48,7 +47,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 |Date|Authors|Title|Code|
 |---|---|---|---|
 |202408|Y. Yamagishi et al.|Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging [(paper)](https://arxiv.org/pdf/2408.06170)|None|
-|202408|M. Mansoori et al.|Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection [(paper)](https://arxiv.org/pdf/https://arxiv.org/pdf/2408.05892)|[Code](https://github.com/ sajjad-sh33/Polyp-SAM-2)|
+|202408|M. Mansoori et al.|Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection [(paper)](https://arxiv.org/pdf/https://arxiv.org/pdf/2408.05892)|[Code](https://github.com/sajjad-sh33/Polyp-SAM-2)|
 |202408|AS. Yu et al.|Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2 [(paper)](https://arxiv.org/pdf/2408.04762)|None|
 |202408|J. Yu et al.|SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation [(paper)](https://arxiv.org/pdf/2408.04593)|None|
 |202408|T. Chen et al.|SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More [(paper)](https://arxiv.org/pdf/2408.04579)|None|
