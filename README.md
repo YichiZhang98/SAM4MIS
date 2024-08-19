@@ -17,7 +17,7 @@
   year={2024}
 }
 ```
-*  Last update 2024-8-13
+*  Last update 2024-8-19
 
 
 ## Table of Contents
@@ -46,8 +46,9 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202408|H. Liu et al.|Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning [(paper)](https://arxiv.org/pdf/2408.07931)|[Code](https://github.com/jinlab-imvr/Surgical-SAM-2)|
 |202408|Y. Yamagishi et al.|Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging [(paper)](https://arxiv.org/pdf/2408.06170)|None|
-|202408|M. Mansoori et al.|Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection [(paper)](https://arxiv.org/pdf/https://arxiv.org/pdf/2408.05892)|[Code](https://github.com/sajjad-sh33/Polyp-SAM-2)|
+|202408|M. Mansoori et al.|Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection [(paper)](https://arxiv.org/pdf/2408.05892)|[Code](https://github.com/sajjad-sh33/Polyp-SAM-2)|
 |202408|AS. Yu et al.|Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2 [(paper)](https://arxiv.org/pdf/2408.04762)|None|
 |202408|J. Yu et al.|SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation [(paper)](https://arxiv.org/pdf/2408.04593)|None|
 |202408|T. Chen et al.|SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More [(paper)](https://arxiv.org/pdf/2408.04579)|None|
