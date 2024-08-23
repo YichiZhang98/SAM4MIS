@@ -4,7 +4,7 @@
 
 *  We provide a comprehensive survey of recent endeavors aimed at extending the efficacy of SAM to medical image segmentation tasks, encompassing both empirical benchmarking and methodological adaptations. Additionally, we explore potential avenues for future research directions in SAM's role within medical image segmentation. Please refer to [the paper](https://arxiv.org/pdf/2401.03495.pdf) for more details.
 
-*  This repo will continue to track and summarize the latest research progress of SAM in medical image segmentation to support ongoing research endeavors. If you find this project helpful, please consider stars or citing. Feel free to contact for any suggestions. If you would like to contribute, please open an issue.
+*  This repo will continue to track and summarize the latest research progress of SAM & SAM2 in medical image segmentation to support ongoing research endeavors. If you find this project helpful, please consider stars or citing. Feel free to contact for any suggestions. If you would like to contribute, please open an issue.
 
 
 ```
@@ -16,8 +16,15 @@
   pages={108238},
   year={2024}
 }
+
+@article{SAM2-MIS,
+  title={Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey},
+  author={Zhang, Yichi and Shen, Zhenrong},
+  journal={arXiv preprint},
+  year={2024}
+}
 ```
-*  Last update 2024-8-21
+*  Last update 2024-8-23
 
 
 ## Table of Contents
@@ -38,9 +45,11 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 ![image](https://github.com/YichiZhang98/SAM4MIS/blob/main/SAM2-Framework.png)
 
+A brief chronology of Segment Anything Model (SAM) and its variants for medical image segmentation in 2023.
+
 ![image](https://github.com/YichiZhang98/SAM4MIS/blob/main/timeline.png)
 
-A brief chronology of Segment Anything Model (SAM) and its variants for medical image segmentation in 2023.
+
 
 
 
@@ -48,6 +57,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202408|Y. He et al.|A Short Review and Evaluation of SAM2’s Performance in 3D CT Image Segmentation [(paper)](https://arxiv.org/pdf/2408.11210)|[Code](https://github.com/Project-MONAI/VISTA)|
+|202408|X. Xiong et al.|SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2408.08870)|[Code](https://github.com/WZH0120/SAM2-UNet)|
 |202408|H. Liu et al.|Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning [(paper)](https://arxiv.org/pdf/2408.07931)|[Code](https://github.com/jinlab-imvr/Surgical-SAM-2)|
 |202408|Y. Yamagishi et al.|Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging [(paper)](https://arxiv.org/pdf/2408.06170)|None|
 |202408|M. Mansoori et al.|Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection [(paper)](https://arxiv.org/pdf/2408.05892)|[Code](https://github.com/sajjad-sh33/Polyp-SAM-2)|
