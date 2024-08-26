@@ -4,6 +4,8 @@
 
 *  We provide a comprehensive survey of recent endeavors aimed at extending the efficacy of SAM to medical image segmentation tasks, encompassing both empirical benchmarking and methodological adaptations. Additionally, we explore potential avenues for future research directions in SAM's role within medical image segmentation. Please refer to [the paper](https://arxiv.org/pdf/2401.03495.pdf) for more details.
 
+*  [New!] Following our previous work, we provide a survey [(paper)](https://arxiv.org/pdf/2408.12889.pdf) of recent innovations and applications of SAM2 for the segmentation of biomedical images and videos.
+
 *  This repo will continue to track and summarize the latest research progress of SAM & SAM2 in medical image segmentation to support ongoing research endeavors. If you find this project helpful, please consider stars or citing. Feel free to contact for any suggestions. If you would like to contribute, please open an issue.
 
 
@@ -20,11 +22,12 @@
 @article{SAM2-MIS,
   title={Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey},
   author={Zhang, Yichi and Shen, Zhenrong},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2408.12889},
   year={2024}
 }
 ```
-*  Last update 2024-8-23
+
+*  Last update 2024-8-26
 
 
 ## Table of Contents
@@ -82,6 +85,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202408|S. Kato et al.|Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes [(paper)](https://arxiv.org/pdf/2408.12406)|[Code](https://github.com/usagisukisuki/G-SAM)|
+|202407|C. Zhou et al.|SAM-SP: Self-Prompting Makes SAM Great Again [(paper)](https://arxiv.org/pdf/2408.12364)|None|
 |202408|S. Yang et al.|SAM-UNet: Enhancing Zero-Shot Segmentation of SAM for Universal Medical Images [(paper)](https://arxiv.org/pdf/2408.09886)|[Code](https://github.com/Hhankyangg/sam-unet)|
 |202408|J. Wei et al.|SAM-FNet: SAM-Guided Fusion Network for Laryngo-Pharyngeal Tumor Detection [(paper)](https://arxiv.org/pdf/2408.05426)|[Code](https://github.com/VVJia/SAM-FNet)|
 |202408|X. Wei et al.|PromptSAM+: Malware Detection based on Prompt Segment Anything Model [(paper)](https://arxiv.org/pdf/2408.02066)|[Code](https://github.com/XingYuanWei/PromptSAM)|
