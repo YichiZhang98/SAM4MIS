@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2024-8-28
+*  Last update 2024-9-4
 
 
 ## Table of Contents
@@ -86,6 +86,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202409|Y. Liu et al.|When 3D Partial Points Meets SAM: Tooth Point Cloud Segmentation with Sparse Labels [(paper)](https://arxiv.org/pdf/2409.01691)|[Code](https://github.com/CUHK-AIM-Group/SAMTooth)|
+|202409|X. Zheng et al.|Curriculum Prompting Foundation Models for Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2409.00695)|[Code](https://github.com/AnnaZzz-zxq/Curriculum-Prompting)|
 |202408|S. Kato et al.|Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes [(paper)](https://arxiv.org/pdf/2408.12406)|[Code](https://github.com/usagisukisuki/G-SAM)|
 |202407|C. Zhou et al.|SAM-SP: Self-Prompting Makes SAM Great Again [(paper)](https://arxiv.org/pdf/2408.12364)|None|
 |202408|S. Yang et al.|SAM-UNet: Enhancing Zero-Shot Segmentation of SAM for Universal Medical Images [(paper)](https://arxiv.org/pdf/2408.09886)|[Code](https://github.com/Hhankyangg/sam-unet)|
