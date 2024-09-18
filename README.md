@@ -60,11 +60,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
-
 |202408|M. Mansoori et al.|Self-Prompting Polyp Segmentation in Colonoscopy using Hybrid Yolo-SAM 2 Model [(paper)](https://arxiv.org/pdf/2409.09484)|[Code](https://github.com/sajjad-sh33/YOLO_SAM2)|
 |202408|X. Chen et al.|SAM-OCTA2: Layer Sequence OCTA Segmentation with Fine-tuned Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2409.09286)|[Code](https://github.com/ShellRedia/SAM-OCTA2)|
-
-
 |202408|L. Zhao et al.|Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models [(paper)](https://arxiv.org/pdf/2408.08813)|None|
 |202408|Z. Yildiz et al.|SAM & SAM 2 in 3D Slicer: SegmentWithSAM Extension for Annotating Medical Images [(paper)](https://arxiv.org/pdf/2408.15224)|[Code](https://github.com/mazurowski-lab/SlicerSegmentWithSAM)|
 |202408|Y. He et al.|A Short Review and Evaluation of SAM2’s Performance in 3D CT Image Segmentation [(paper)](https://arxiv.org/pdf/2408.11210)|[Code](https://github.com/Project-MONAI/VISTA)|
