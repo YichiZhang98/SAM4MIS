@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2024-9-10
+*  Last update 2024-9-18
 
 
 ## Table of Contents
@@ -60,6 +60,11 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+
+|202408|M. Mansoori et al.|Self-Prompting Polyp Segmentation in Colonoscopy using Hybrid Yolo-SAM 2 Model [(paper)](https://arxiv.org/pdf/2409.09484)|[Code](https://github.com/sajjad-sh33/YOLO_SAM2)|
+|202408|X. Chen et al.|SAM-OCTA2: Layer Sequence OCTA Segmentation with Fine-tuned Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2409.09286)|[Code](https://github.com/ShellRedia/SAM-OCTA2)|
+
+
 |202408|L. Zhao et al.|Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models [(paper)](https://arxiv.org/pdf/2408.08813)|None|
 |202408|Z. Yildiz et al.|SAM & SAM 2 in 3D Slicer: SegmentWithSAM Extension for Annotating Medical Images [(paper)](https://arxiv.org/pdf/2408.15224)|[Code](https://github.com/mazurowski-lab/SlicerSegmentWithSAM)|
 |202408|Y. He et al.|A Short Review and Evaluation of SAM2’s Performance in 3D CT Image Segmentation [(paper)](https://arxiv.org/pdf/2408.11210)|[Code](https://github.com/Project-MONAI/VISTA)|
@@ -87,6 +92,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202409|H. Wang et al.|Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images [(paper)](https://arxiv.org/pdf/2409.08492)|[Code](https://github.com/xmed-lab/TP-Mamba)|
+|202409|AS. Wahd et al.|Sam2Rad: A Segmentation Model for Medical Images with Learnable Prompts [(paper)](https://arxiv.org/pdf/2409.06821)|[Code](https://github.com/aswahd/SamRadiology)|
 |202409|Y. Liu et al.|When 3D Partial Points Meets SAM: Tooth Point Cloud Segmentation with Sparse Labels [(paper)](https://arxiv.org/pdf/2409.01691)|[Code](https://github.com/CUHK-AIM-Group/SAMTooth)|
 |202409|X. Zheng et al.|Curriculum Prompting Foundation Models for Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2409.00695)|[Code](https://github.com/AnnaZzz-zxq/Curriculum-Prompting)|
 |202408|S. Kato et al.|Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes [(paper)](https://arxiv.org/pdf/2408.12406)|[Code](https://github.com/usagisukisuki/G-SAM)|
