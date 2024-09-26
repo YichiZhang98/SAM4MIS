@@ -89,6 +89,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202407|G. Huang et al.|MCICSAM: Monte Carlo-guided Interpolation Consistency Segment Anything Model for Semi-Supervised Prostate Zone Segmentation [(paper)](https://arxiv.org/pdf/2409.13371)|None|
 |202409|H. Wang et al.|Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images [(paper)](https://arxiv.org/pdf/2409.08492)|[Code](https://github.com/xmed-lab/TP-Mamba)|
 |202409|AS. Wahd et al.|Sam2Rad: A Segmentation Model for Medical Images with Learnable Prompts [(paper)](https://arxiv.org/pdf/2409.06821)|[Code](https://github.com/aswahd/SamRadiology)|
 |202409|Y. Liu et al.|When 3D Partial Points Meets SAM: Tooth Point Cloud Segmentation with Sparse Labels [(paper)](https://arxiv.org/pdf/2409.01691)|[Code](https://github.com/CUHK-AIM-Group/SAMTooth)|
