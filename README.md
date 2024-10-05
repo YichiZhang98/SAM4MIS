@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2024-9-26
+*  Last update 2024-10-6
 
 
 ## Table of Contents
@@ -89,7 +89,12 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
-|202407|G. Huang et al.|MCICSAM: Monte Carlo-guided Interpolation Consistency Segment Anything Model for Semi-Supervised Prostate Zone Segmentation [(paper)](https://arxiv.org/pdf/2409.13371)|None|
+|202410|Q. Liu et al.|Adapting Segment Anything Model to Melanoma Segmentation in Microscopy Slide Images [(paper)](https://arxiv.org/pdf/2410.02207)|None|
+|202410|I. Häkkinen et al.|Medical Image Segmentation with SAM-generated Annotations [(paper)](https://arxiv.org/pdf/2409.20253)|None|
+|202409|M. Gaillochet et al.|Automating MedSAM by Learning Prompts with Weak Few-Shot Supervision [(paper)](https://arxiv.org/pdf/2409.20293)|[Code](https://github.com/Minimel/MedSAMWeakFewShotPromptAutomation)|
+|202409|T. Koleilat et al.|MedCLIP-SAMv2: Towards Universal Text-Driven Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2409.19483)|[Code](https://github.com/HealthX-Lab/MedCLIP-SAMv2)|
+|202409|A. Senbi et al.|Towards Ground-truth-free Evaluation of Any Segmentation in Medical Images [(paper)](https://arxiv.org/pdf/2409.14874)|[Code](https://github.com/ahjolsenbics/EvanySeg)|
+|202409|G. Huang et al.|MCICSAM: Monte Carlo-guided Interpolation Consistency Segment Anything Model for Semi-Supervised Prostate Zone Segmentation [(paper)](https://arxiv.org/pdf/2409.13371)|None|
 |202409|H. Wang et al.|Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images [(paper)](https://arxiv.org/pdf/2409.08492)|[Code](https://github.com/xmed-lab/TP-Mamba)|
 |202409|AS. Wahd et al.|Sam2Rad: A Segmentation Model for Medical Images with Learnable Prompts [(paper)](https://arxiv.org/pdf/2409.06821)|[Code](https://github.com/aswahd/SamRadiology)|
 |202409|Y. Liu et al.|When 3D Partial Points Meets SAM: Tooth Point Cloud Segmentation with Sparse Labels [(paper)](https://arxiv.org/pdf/2409.01691)|[Code](https://github.com/CUHK-AIM-Group/SAMTooth)|
