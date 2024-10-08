@@ -89,6 +89,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202410|C. Qin et al.|DB-SAM: Delving into High Quality Universal Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2410.04172)|[Code](https://github.com/AlfredQin/DB-SAM)|
 |202410|Z. Wei et al.|Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation [(paper)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_50)|[Code](https://github.com/wkklavis/DAPSAM)|
 |202410|Z. Xu et al.|FM-ABS: Promptable Foundation Model Drives Active Barely Supervised Learning for 3D Medical Image Segmentation [(paper)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_28)|None|
 |202410|Y. Liu et al.|FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation [(paper)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_27)|[Code](https://github.com/LIU-YUXI/FedFMS)|
@@ -109,7 +110,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 |202409|Y. Liu et al.|When 3D Partial Points Meets SAM: Tooth Point Cloud Segmentation with Sparse Labels [(paper)](https://arxiv.org/pdf/2409.01691)|[Code](https://github.com/CUHK-AIM-Group/SAMTooth)|
 |202409|X. Zheng et al.|Curriculum Prompting Foundation Models for Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2409.00695)|[Code](https://github.com/AnnaZzz-zxq/Curriculum-Prompting)|
 |202408|S. Kato et al.|Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes [(paper)](https://arxiv.org/pdf/2408.12406)|[Code](https://github.com/usagisukisuki/G-SAM)|
-|202407|C. Zhou et al.|SAM-SP: Self-Prompting Makes SAM Great Again [(paper)](https://arxiv.org/pdf/2408.12364)|None|
+|202408|C. Zhou et al.|SAM-SP: Self-Prompting Makes SAM Great Again [(paper)](https://arxiv.org/pdf/2408.12364)|None|
 |202408|S. Yang et al.|SAM-UNet: Enhancing Zero-Shot Segmentation of SAM for Universal Medical Images [(paper)](https://arxiv.org/pdf/2408.09886)|[Code](https://github.com/Hhankyangg/sam-unet)|
 |202408|J. Wei et al.|SAM-FNet: SAM-Guided Fusion Network for Laryngo-Pharyngeal Tumor Detection [(paper)](https://arxiv.org/pdf/2408.05426)|[Code](https://github.com/VVJia/SAM-FNet)|
 |202408|X. Wei et al.|PromptSAM+: Malware Detection based on Prompt Segment Anything Model [(paper)](https://arxiv.org/pdf/2408.02066)|[Code](https://github.com/XingYuanWei/PromptSAM)|
