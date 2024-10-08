@@ -89,6 +89,15 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202410|Z. Wei et al.|Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation [(paper)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_50)|[Code](https://github.com/wkklavis/DAPSAM)|
+|202410|Z. Xu et al.|FM-ABS: Promptable Foundation Model Drives Active Barely Supervised Learning for 3D Medical Image Segmentation [(paper)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_28)|None|
+|202410|Y. Liu et al.|FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation [(paper)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_27)|[Code](https://github.com/LIU-YUXI/FedFMS)|
+|202410|F. Lyu et al.|Superpixel-Guided Segment Anything Model for Liver Tumor Segmentation with Couinaud Segment Prompt [(paper)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_64)|None|
+|202410|H. Shi et al.|Mask-Enhanced Segment Anything Model for Tumor Lesion Semantic Segmentation [(paper)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_38)|[Code](https://github.com/nanase1025/M-SAM)|
+|202410|Y. Huang et al.|Optimizing Efficiency and Effectiveness in Sequential Prompt Strategy for SAM Using Reinforcement Learning [(paper)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_45)|None|
+|202410|W. Li et al.|TP-DRSeg: Improving Diabetic Retinopathy Lesion Segmentation with Explicit Text-Prompts Assisted SAM [(paper)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_70)|[Code](https://github.com/wxliii/TP-DRSeg)|
+|202410|X. Lin et al.|Beyond Adapting SAM: Towards End-to-End Ultrasound Image Segmentation via Auto Prompting [(paper)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_3)|[Code](https://github.com/xianlin7/SAMUS)|
+|202410|Y. Zhao et al.|CryoSAM: Training-Free CryoET Tomogram Segmentation with Foundation Models [(paper)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_12)|[Code](https://github.com/xulabs/aitom)|
 |202410|Q. Liu et al.|Adapting Segment Anything Model to Melanoma Segmentation in Microscopy Slide Images [(paper)](https://arxiv.org/pdf/2410.02207)|None|
 |202410|I. Häkkinen et al.|Medical Image Segmentation with SAM-generated Annotations [(paper)](https://arxiv.org/pdf/2409.20253)|None|
 |202409|M. Gaillochet et al.|Automating MedSAM by Learning Prompts with Weak Few-Shot Supervision [(paper)](https://arxiv.org/pdf/2409.20293)|[Code](https://github.com/Minimel/MedSAMWeakFewShotPromptAutomation)|
