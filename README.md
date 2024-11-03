@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2024-10-14
+*  Last update 2024-11-03
 
 
 ## Table of Contents
@@ -89,6 +89,10 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202410|X. Ouyang et al.|Towards a general computed tomography image segmentation model for anatomical structures and lesions [(paper)](https://www.nature.com/articles/s44172-024-00287-0)|None|
+|202410|Y. Zhang et al.|SemiSAM: Enhancing Semi-Supervised Medical Image Segmentation via SAM-Assisted Consistency Regularization [(paper)](https://arxiv.org/pdf/2312.06316)|[Code](https://github.com/YichiZhang98/SemiSAM)|
+|202410|Y. Li et al.|Plug-and-play segment anything model improves nnUNet performance [(paper)](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.17481)|[Code](https://github.com/Kent0n-Li/nnSAM)|
+|202410|J. Wei et al.|SAM-Swin: SAM-Driven Dual-Swin Transformers with Adaptive Lesion Enhancement for Laryngo-Pharyngeal Tumor Detection [(paper)](https://arxiv.org/pdf/2410.21813)|[Code](https://github.com/VVJia/SAM-Swin)|
 |202410|Y. Wen et al.|Generalizing Segmentation Foundation Model Under Sim-to-real Domain-shift for Guidewire Segmentation in X-ray Fluoroscopy [(paper)](https://arxiv.org/pdf/2410.07460)|None|
 |202410|C. Qin et al.|DB-SAM: Delving into High Quality Universal Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2410.04172)|[Code](https://github.com/AlfredQin/DB-SAM)|
 |202410|Z. Wei et al.|Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation [(paper)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_50)|[Code](https://github.com/wkklavis/DAPSAM)|
@@ -191,7 +195,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 |202312|Y. Zhang et al.|SQA-SAM: Segmentation Quality Assessment for Medical Images Utilizing the Segment Anything Model [(paper)](https://arxiv.org/pdf/2312.09899.pdf)|[Code](https://github.com/yizhezhang2000/SQA-SAM)|
 |202312|S. Chen et al.|ASLseg: Adapting SAM in the Loop for Semi-supervised Liver Tumor Segmentation [(paper)](https://arxiv.org/pdf/2312.07969.pdf)|None|
 |202312|HE. Wong et al.|ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Medical Image [(paper)](https://arxiv.org/pdf/2312.07381.pdf)|[Code](https://scribbleprompt.csail.mit.edu)|
-|202312|Y. Zhang et al.|SemiSAM: Exploring SAM for Enhancing Semi-Supervised Medical Image Segmentation with Extremely Limited Annotations [(paper)](https://arxiv.org/pdf/2312.06316.pdf)|None|
+|202312|Y. Zhang et al.|SemiSAM: Exploring SAM for Enhancing Semi-Supervised Medical Image Segmentation with Extremely Limited Annotations [(paper)](https://arxiv.org/pdf/2312.06316.pdf)||[Code](https://github.com/YichiZhang98/SemiSAM)|
 |202312|Y. Zhao et al.|Segment Anything Model-guided Collaborative Learning Network for Scribble-supervised Polyp Segmentation [(paper)](https://arxiv.org/pdf/2312.00312.pdf)|None|
 |202311|N. Li et al.|Segment Anything Model for Semi-Supervised Medical Image Segmentation via Selecting Reliable Pseudo-Labels [(paper)](https://link.springer.com/chapter/10.1007/978-981-99-8141-0_11)|None|
 |202311|X. Wei et al.|I-MedSAM: Implicit Medical Image Segmentation with Segment Anything [(paper)](https://arxiv.org/pdf/2311.17081.pdf)|None|
