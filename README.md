@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2024-11-03
+*  Last update 2024-11-29
 
 
 ## Table of Contents
@@ -89,6 +89,16 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202411|B. Wittmann et al.|vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation [(paper)](https://arxiv.org/pdf/2411.17386)|[Code](https://github.com/bwittmann/vesselFM)|
+|202411|J. Xu et al.|SAM-MPA:Applying SAM to Few-shot Medical Image Segmentation using Mask Propagation and
+ Auto-prompting [(paper)](https://arxiv.org/pdf/2411.17363)|None|
+|202411|H. Yoon et al.|Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain [(paper)](https://arxiv.org/pdf/2411.16123)|None|
+|202411|G. Xu et al.|A SAM-guided and Match-based Semi-Supervised Segmentation Framework for Medical Imaging  [(paper)](https://arxiv.org/pdf/2411.16949)|[Code](https://github.com/apple1986/SAMatch)|
+|202411|Y. Fu et al.|CoSAM: Self-Correcting SAM for Domain Generalization in 2D Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2411.10136)|None|
+|202411|J. Huo et al.|SAM-I2I: Unleash The Power Of SEGMENT ANYTHING MODEL FOR MEDICAL
+IMAGE TRANSLATION [(paper)](https://arxiv.org/pdf/2411.12755)|None|
+|202411|R. Keuth et al.|SAM Carries the Burden: A Semi-Supervised Approach Refining Pseudo Labels for Medical Segmentation [(paper)](https://arxiv.org/pdf/2411.12602)|[Code](https://github.com/multimodallearning/SamCarriesTheBurden)|
+|202411|W. Shi et al.|Segment anything model for few-shot medical image segmentation with domain tuning [(paper)](https://link.springer.com/article/10.1007/s40747-024-01625-7)|None|
 |202410|X. Ouyang et al.|Towards a general computed tomography image segmentation model for anatomical structures and lesions [(paper)](https://www.nature.com/articles/s44172-024-00287-0)|None|
 |202410|Y. Zhang et al.|SemiSAM: Enhancing Semi-Supervised Medical Image Segmentation via SAM-Assisted Consistency Regularization [(paper)](https://arxiv.org/pdf/2312.06316)|[Code](https://github.com/YichiZhang98/SemiSAM)|
 |202410|Y. Li et al.|Plug-and-play segment anything model improves nnUNet performance [(paper)](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.17481)|[Code](https://github.com/Kent0n-Li/nnSAM)|
@@ -302,6 +312,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Dataset|
 |---|---|---|---|
+|202411|J. Cheng et al.|Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline [(paper)](https://arxiv.org/pdf/2411.12814)|[Code](https://github.com/uni-medical/IMIS-Bench)|
 |202404|F. Bai et al.|M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models [(paper)](https://arxiv.org/pdf/2404.00578)|[Link](https://github.com/BAAI-DCAI/M3D)|
 |202311|J. Ye et al.|SA-Med2D-20M Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks [(paper)](https://arxiv.org/pdf/2311.11969.pdf)|[Link](https://openxlab.org.cn/datasets/GMAI/SA-Med2D-20M)|
 
