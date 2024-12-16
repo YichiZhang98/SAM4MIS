@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2024-11-29
+*  Last update 2024-12-16
 
 
 ## Table of Contents
@@ -60,6 +60,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202411|Z. Li et al.|Adapting SAM2 Model from Natural Images for Tooth Segmentation in Dental Panoramic X-Ray Images [(paper)](https://www.mdpi.com/1099-4300/26/12/1059)|None|
 |202408|M. Mansoori et al.|Self-Prompting Polyp Segmentation in Colonoscopy using Hybrid Yolo-SAM 2 Model [(paper)](https://arxiv.org/pdf/2409.09484)|[Code](https://github.com/sajjad-sh33/YOLO_SAM2)|
 |202408|X. Chen et al.|SAM-OCTA2: Layer Sequence OCTA Segmentation with Fine-tuned Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2409.09286)|[Code](https://github.com/ShellRedia/SAM-OCTA2)|
 |202408|L. Zhao et al.|Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models [(paper)](https://arxiv.org/pdf/2408.08813)|None|
@@ -89,6 +90,11 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202412|T. Ward et al.|Annotation-Efficient Task Guidance for Medical Segment Anything [(paper)](https://arxiv.org/pdf/2412.08575)|[Code](https://github.com/tbwa233/SAM-Mix)|
+|202412|Y. Luo et al.|Med-FastSAM: Improving Transfer Efficiency of SAM to Domain-Generalised Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2412.08575)|[Code](https://github.com/GalacticHogrider/Med-FastSAM)|
+|202412|X. Gao et al.|RefSAM3D: Adapting SAM with Cross-modal Reference for 3D Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2412.05605)|None|
+|202412|Y. Luo et al.|BiASAM: Bidirectional-attention guided Segment Anything Model for Very Few-shot Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/10787063)|[Code](https://github.com/ggllllll/BiASAM-.git)|
+|202412|J. Hu et al.|EchoONE: Segmenting Multiple echocardiography Planes in One Model [(paper)](https://arxiv.org/pdf/2412.02993)|[Code](https://github.com/a2502503/EchoONE)|
 |202411|B. Wittmann et al.|vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation [(paper)](https://arxiv.org/pdf/2411.17386)|[Code](https://github.com/bwittmann/vesselFM)|
 |202411|J. Xu et al.|SAM-MPA:Applying SAM to Few-shot Medical Image Segmentation using Mask Propagation and Auto-prompting [(paper)](https://arxiv.org/pdf/2411.17363)|None|
 |202411|H. Yoon et al.|Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain [(paper)](https://arxiv.org/pdf/2411.16123)|None|
