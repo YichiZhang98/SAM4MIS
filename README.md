@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2024-12-16
+*  Last update 2024-12-24
 
 
 ## Table of Contents
@@ -90,6 +90,10 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202412|K. Huang et al.|MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance [(paper)](https://arxiv.org/pdf/2412.15058)|[Code](https://multiverseg.csail.mit.edu/)|
+|202412|X. Shao et al.|Memorizing SAM: 3D Medical Segment Anything Model with Memorizing Transformer [(paper)](https://arxiv.org/pdf/2412.13908)|[Code](https://github.com/swedfr/memorizingSAM)|
+|202412|K. Huang et al.|Learnable Prompting SAM-induced Knowledge Distillation for Semi-supervised Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2412.13742)|[Code](https://github.com/taozh2017/KnowSAM)|
+|202412|S. Huang et al.|SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2412.12660)|None|
 |202412|T. Ward et al.|Annotation-Efficient Task Guidance for Medical Segment Anything [(paper)](https://arxiv.org/pdf/2412.08575)|[Code](https://github.com/tbwa233/SAM-Mix)|
 |202412|Y. Luo et al.|Med-FastSAM: Improving Transfer Efficiency of SAM to Domain-Generalised Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2412.08575)|[Code](https://github.com/GalacticHogrider/Med-FastSAM)|
 |202412|X. Gao et al.|RefSAM3D: Adapting SAM with Cross-modal Reference for 3D Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2412.05605)|None|
