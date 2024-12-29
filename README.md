@@ -322,7 +322,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Dataset|
 |---|---|---|---|
-|202411|J. Cheng et al.|Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline [(paper)](https://arxiv.org/pdf/2411.12814)|[Code](https://github.com/uni-medical/IMIS-Bench)|
+|202411|J. Cheng et al.|Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline [(paper)](https://arxiv.org/pdf/2411.12814)|[Link](https://github.com/uni-medical/IMIS-Bench)|
 |202404|F. Bai et al.|M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models [(paper)](https://arxiv.org/pdf/2404.00578)|[Link](https://github.com/BAAI-DCAI/M3D)|
 |202311|J. Ye et al.|SA-Med2D-20M Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks [(paper)](https://arxiv.org/pdf/2311.11969.pdf)|[Link](https://openxlab.org.cn/datasets/GMAI/SA-Med2D-20M)|
 
