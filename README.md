@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2024-12-24
+*  Last update 2024-12-29
 
 
 ## Table of Contents
@@ -90,6 +90,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202412|Y. Wu et al.|Trans-SAM: Transfer Segment Anything Model to medical image segmentation with Parameter-Efficient Fine-Tuning [(paper)](https://www.sciencedirect.com/science/article/pii/S0950705124015430)|[Code](https://github.com/wuyanlin-wyl/Trans-SAM)|
+|202412|F. Zhong et al.|MEAT-SAM: More Efficient Automated Tongue Segmentation Model [(paper)](https://ieeexplore.ieee.org/abstract/document/10816397)|None|
 |202412|K. Huang et al.|MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance [(paper)](https://arxiv.org/pdf/2412.15058)|[Code](https://multiverseg.csail.mit.edu/)|
 |202412|X. Shao et al.|Memorizing SAM: 3D Medical Segment Anything Model with Memorizing Transformer [(paper)](https://arxiv.org/pdf/2412.13908)|[Code](https://github.com/swedfr/memorizingSAM)|
 |202412|K. Huang et al.|Learnable Prompting SAM-induced Knowledge Distillation for Semi-supervised Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2412.13742)|[Code](https://github.com/taozh2017/KnowSAM)|
