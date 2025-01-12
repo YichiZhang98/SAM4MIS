@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2024-12-29
+*  Last update 2025-1-12
 
 
 ## Table of Contents
@@ -90,6 +90,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202501|J. Hu et al.|SPA: Leveraging the SAM with Spatial Priors Adapter for Enhanced Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10829779)|None|
+|202412|D. Fan et al.|MA-SAM: A Multi-atlas Guided SAM Using Pseudo Mask Prompts without Manual Annotation for Spine Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10819446)|[Code](https://github.com/findingway221/ma-sam)|
 |202412|Y. Wu et al.|Trans-SAM: Transfer Segment Anything Model to medical image segmentation with Parameter-Efficient Fine-Tuning [(paper)](https://www.sciencedirect.com/science/article/pii/S0950705124015430)|[Code](https://github.com/wuyanlin-wyl/Trans-SAM)|
 |202412|F. Zhong et al.|MEAT-SAM: More Efficient Automated Tongue Segmentation Model [(paper)](https://ieeexplore.ieee.org/abstract/document/10816397)|None|
 |202412|HE. Wong et al.|MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance [(paper)](https://arxiv.org/pdf/2412.15058)|[Code](https://multiverseg.csail.mit.edu/)|
