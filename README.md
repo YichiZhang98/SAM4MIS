@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-1-12
+*  Last update 2025-1-29
 
 
 ## Table of Contents
@@ -60,6 +60,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202501|G. Hoyer et al.|Scalable Evaluation Framework for Foundation Models in Musculoskeletal MRI Bridging Computational Innovation with Clinical Utility   [(paper)](https://arxiv.org/pdf/2501.13376)|None|
+|202501|X. He et al.|Few-Shot Adaptation of Training-Free Foundation Model for 3D Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2501.09138)|None|
 |202411|Z. Li et al.|Adapting SAM2 Model from Natural Images for Tooth Segmentation in Dental Panoramic X-Ray Images [(paper)](https://www.mdpi.com/1099-4300/26/12/1059)|None|
 |202408|M. Mansoori et al.|Self-Prompting Polyp Segmentation in Colonoscopy using Hybrid Yolo-SAM 2 Model [(paper)](https://arxiv.org/pdf/2409.09484)|[Code](https://github.com/sajjad-sh33/YOLO_SAM2)|
 |202408|X. Chen et al.|SAM-OCTA2: Layer Sequence OCTA Segmentation with Fine-tuned Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2409.09286)|[Code](https://github.com/ShellRedia/SAM-OCTA2)|
@@ -90,6 +92,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202501|D. Tan et al.|Tongue-LiteSAM: A Lightweight Model for Tongue Image Segmentation With Zero-Shot [(paper)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10838509)|None|
+|202501|Z. Yan et al.|PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2501.06692)|None|
 |202501|J. Hu et al.|SPA: Leveraging the SAM with Spatial Priors Adapter for Enhanced Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10829779)|None|
 |202412|D. Fan et al.|MA-SAM: A Multi-atlas Guided SAM Using Pseudo Mask Prompts without Manual Annotation for Spine Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10819446)|[Code](https://github.com/findingway221/ma-sam)|
 |202412|Y. Wu et al.|Trans-SAM: Transfer Segment Anything Model to medical image segmentation with Parameter-Efficient Fine-Tuning [(paper)](https://www.sciencedirect.com/science/article/pii/S0950705124015430)|[Code](https://github.com/wuyanlin-wyl/Trans-SAM)|
