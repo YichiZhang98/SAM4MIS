@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-1-29
+*  Last update 2025-2-8
 
 
 ## Table of Contents
@@ -92,6 +92,9 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202502|Y. Shen et al.|ProtoSAM-3D: Interactive semantic segmentation in volumetric medical imaging via a Segment Anything Model and mask-level prototypes [(paper)](https://www.sciencedirect.com/science/article/pii/S0895611125000102?casa_token=wILYi_LqOyEAAAAA:qi89B277uJgwdOXK3JrEAvmHRADSN8yuirCWWHuIq9dzFNCzs_rnhT1Wpt3XUvRUT0RAFnWG)|None|
+|202502|B. Xie et al.|Self-Prompt SAM: Medical Image Segmentation via Automatic Prompt SAM Adaptation [(paper)](https://arxiv.org/pdf/2502.00630)|None|
+|202501|X. He et al.|Few-Shot Adaptation of Training-Free Foundation Model for 3D Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2501.09138)|None|
 |202501|D. Tan et al.|Tongue-LiteSAM: A Lightweight Model for Tongue Image Segmentation With Zero-Shot [(paper)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10838509)|None|
 |202501|Z. Yan et al.|PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2501.06692)|None|
 |202501|J. Hu et al.|SPA: Leveraging the SAM with Spatial Priors Adapter for Enhanced Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10829779)|None|
