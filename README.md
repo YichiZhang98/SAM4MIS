@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-2-8
+*  Last update 2025-2-27
 
 
 ## Table of Contents
@@ -60,7 +60,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
-|202501|G. Hoyer et al.|Scalable Evaluation Framework for Foundation Models in Musculoskeletal MRI Bridging Computational Innovation with Clinical Utility   [(paper)](https://arxiv.org/pdf/2501.13376)|None|
+|202502|B. Xie et al.|RFMedSAM2: Automatic Prompt Refinement for Enhanced Volumetric Medical Image Segmentation with SAM 2 [(paper)](https://arxiv.org/pdf/2502.02741)|None|
+|202501|G. Hoyer et al.|Scalable Evaluation Framework for Foundation Models in Musculoskeletal MRI Bridging Computational Innovation with Clinical Utility [(paper)](https://arxiv.org/pdf/2501.13376)|None|
 |202501|X. He et al.|Few-Shot Adaptation of Training-Free Foundation Model for 3D Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2501.09138)|None|
 |202411|Z. Li et al.|Adapting SAM2 Model from Natural Images for Tooth Segmentation in Dental Panoramic X-Ray Images [(paper)](https://www.mdpi.com/1099-4300/26/12/1059)|None|
 |202408|M. Mansoori et al.|Self-Prompting Polyp Segmentation in Colonoscopy using Hybrid Yolo-SAM 2 Model [(paper)](https://arxiv.org/pdf/2409.09484)|[Code](https://github.com/sajjad-sh33/YOLO_SAM2)|
@@ -92,7 +93,10 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
-|202502|Y. Shen et al.|ProtoSAM-3D: Interactive semantic segmentation in volumetric medical imaging via a Segment Anything Model and mask-level prototypes [(paper)](https://www.sciencedirect.com/science/article/pii/S0895611125000102?casa_token=wILYi_LqOyEAAAAA:qi89B277uJgwdOXK3JrEAvmHRADSN8yuirCWWHuIq9dzFNCzs_rnhT1Wpt3XUvRUT0RAFnWG)|None|
+|202502|Y. Zhang et al.|SegAnyPET: Universal Promptable Segmentation from Positron Emission Tomography Images [(paper)](https://arxiv.org/pdf/2502.14351)|[Code](https://github.com/YichiZhang98/SegAnyPET)|
+|202502|P. Huang et al.|Diffusion-empowered AutoPrompt MedSAM [(paper)](https://arxiv.org/pdf/2502.06817)|[Code](https://github.com/HP-ML/AutoPromptMedSAM)|
+|202502|B. Xie et al.|Self-Prompt SAM: Medical Image Segmentation via Automatic Prompt SAM Adaptation [(paper)](https://arxiv.org/pdf/2502.00630)|None|
+|202502|Y. Shen et al.|ProtoSAM-3D: Interactive semantic segmentation in volumetric medical imaging via a Segment Anything Model and mask-level prototypes [(paper)](https://www.sciencedirect.com/science/article/pii/S0895611125000102)|None|
 |202502|B. Xie et al.|Self-Prompt SAM: Medical Image Segmentation via Automatic Prompt SAM Adaptation [(paper)](https://arxiv.org/pdf/2502.00630)|None|
 |202501|X. He et al.|Few-Shot Adaptation of Training-Free Foundation Model for 3D Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2501.09138)|None|
 |202501|D. Tan et al.|Tongue-LiteSAM: A Lightweight Model for Tongue Image Segmentation With Zero-Shot [(paper)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10838509)|None|
