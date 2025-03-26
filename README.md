@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-3-5
+*  Last update 2025-3-26
 
 
 ## Table of Contents
@@ -60,6 +60,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202503|S. Wei et al.|Self-Prompting Driven SAM2 for 3D Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10889344)|None|
+|202503|H. Zu et al.|Rethinking Few-Shot Medical Image Segmentation by SAM2: A Training-Free Framework with Augmentative Prompting and Dynamic Matching [(paper)](https://arxiv.org/pdf/2503.04826)|None|
 |202502|X. Wang et al.|Proxy Prompt: Endowing SAM & SAM2with Auto-Interactive-Prompt for Medical Segmentation [(paper)](https://arxiv.org/pdf/2502.03501)|None|
 |202502|B. Xie et al.|RFMedSAM2: Automatic Prompt Refinement for Enhanced Volumetric Medical Image Segmentation with SAM 2 [(paper)](https://arxiv.org/pdf/2502.02741)|None|
 |202501|G. Hoyer et al.|Scalable Evaluation Framework for Foundation Models in Musculoskeletal MRI Bridging Computational Innovation with Clinical Utility [(paper)](https://arxiv.org/pdf/2501.13376)|None|
@@ -94,6 +96,9 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202503|F. Isensee et al.|nnInteractive: Redefining 3D Promptable Segmentation [(paper)](https://arxiv.org/pdf/2503.08373)|[Code](https://github.com/MIC-DKFZ/nnInteractive)|
+|202503|X. Liu et al.|Segment Any Tissue: One-shot reference guided training-free automatic point prompting for medical image segmentation [(paper)](https://www.sciencedirect.com/science/article/pii/S1361841525000970)|[Code](https://github.com/SnowRain510/Segment-Any-Tissue)|
+|202503|T. Huang et al.|On-the-Fly Improving Segment Anything for Medical Image Segmentation using Auxiliary Online Learning [(paper)](https://ieeexplore.ieee.org/abstract/document/10916782?casa_token=kvCZt-j2cmwAAAAA:z87WPzwpnZWZdb2Q-T_QpuOHBXIXmg2dNIIKipR53JL3xSXPGne6DK-KVxtNuTyrgzdWFbbM)|[Code](https://sam-auxol.github.io/AuxOL)|
 |202502|Y. Zhang et al.|SemiSAM+: Rethinking Semi-Supervised Medical Image Segmentation in the Era of Foundation Models [(paper)](https://arxiv.org/pdf/2502.20749)|[Code](https://github.com/YichiZhang98/SemiSAM)|
 |202502|F. Tian et al.|SAM-MedUS: a foundational model for universal ultrasound image segmentation [(paper)](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-12/issue-2/027001/SAM-MedUS--a-foundational-model-for-universal-ultrasound-image/10.1117/1.JMI.12.2.027001.short)|None|
 |202502|A. Iltaf et al.|VesselSAM: Leveraging SAM for Aortic Vessel Segmentation with LoRA and Atrous Attention [(paper)](https://arxiv.org/pdf/2502.18185)|[Code](https://github.com/Adnan-CAS/AtrousLora)|
