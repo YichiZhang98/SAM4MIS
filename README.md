@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-3-26
+*  Last update 2025-3-31
 
 
 ## Table of Contents
@@ -96,6 +96,11 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202503|S. Xu et al.|BiPrompt-SAM: Enhancing Image Segmentation via Explicit Selection between Point and Text Prompts [(paper)](https://arxiv.org/pdf/2503.19769)|None|
+|202503|Y. Gao et al.|Show and Segment: Universal Medical Image Segmentation via In-Context Learning [(paper)](https://arxiv.org/pdf/2503.19359)|None|
+|202503|B. Li et al.|Optimization of MedSAM model based on bounding box adaptive perturbation algorithm [(paper)](https://arxiv.org/pdf/2503.18227)|None|
+|202503|Q. Ma et al.|Steady Progress Beats Stagnation: Mutual Aid of Foundation and Conventional Models in Mixed Domain Semi-Supervised Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2503.16997)|[Code](https://github.com/MQinghe/SynFoC)|
+|202503|B. Cui et al.|Learning to Efficiently Adapt Foundation Models for Self-Supervised Endoscopic 3D Scene Reconstruction from Any Cameras [(paper)](https://arxiv.org/pdf/2503.15917)|None|
 |202503|F. Isensee et al.|nnInteractive: Redefining 3D Promptable Segmentation [(paper)](https://arxiv.org/pdf/2503.08373)|[Code](https://github.com/MIC-DKFZ/nnInteractive)|
 |202503|X. Liu et al.|Segment Any Tissue: One-shot reference guided training-free automatic point prompting for medical image segmentation [(paper)](https://www.sciencedirect.com/science/article/pii/S1361841525000970)|[Code](https://github.com/SnowRain510/Segment-Any-Tissue)|
 |202503|T. Huang et al.|On-the-Fly Improving Segment Anything for Medical Image Segmentation using Auxiliary Online Learning [(paper)](https://ieeexplore.ieee.org/abstract/document/10916782?casa_token=kvCZt-j2cmwAAAAA:z87WPzwpnZWZdb2Q-T_QpuOHBXIXmg2dNIIKipR53JL3xSXPGne6DK-KVxtNuTyrgzdWFbbM)|[Code](https://sam-auxol.github.io/AuxOL)|
