@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-3-31
+*  Last update 2025-4-11
 
 
 ## Table of Contents
@@ -60,6 +60,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202504|A. Kazemi et al.|Semi-automated segmentation of magnitude images in 4D flow MR scans using segment anything model 2 (SAM 2) [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13410/1341026/Semi-automated-segmentation-of-magnitude-images-in-4D-flow-MR/10.1117/12.3051724.short)|None|
+|202504|J. Ma et al.|MedSAM2: Segment Anything in 3D Medical Images and Videos [(paper)](https://arxiv.org/pdf/2504.03600)|[Code](https://github.com/bowang-lab/MedSAM2)|
 |202503|S. Wei et al.|Self-Prompting Driven SAM2 for 3D Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10889344)|None|
 |202503|H. Zu et al.|Rethinking Few-Shot Medical Image Segmentation by SAM2: A Training-Free Framework with Augmentative Prompting and Dynamic Matching [(paper)](https://arxiv.org/pdf/2503.04826)|None|
 |202502|X. Wang et al.|Proxy Prompt: Endowing SAM & SAM2with Auto-Interactive-Prompt for Medical Segmentation [(paper)](https://arxiv.org/pdf/2502.03501)|None|
@@ -96,6 +98,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202504|Y. Wang et al.|Balancing Multi-Target Semi-Supervised Medical Image Segmentation with Collaborative Generalist and Specialists [(paper)](https://arxiv.org/pdf/2504.00862)|[Code](https://github.com/wangyou0804/CGS)|
+|202503|S. Chattopadhyay et al.|Zero-shot Domain Generalization of Foundational Models for 3D Medical Image Segmentation: An Experimental Study [(paper)](https://arxiv.org/pdf/2503.22862)|None|
 |202503|S. Xu et al.|BiPrompt-SAM: Enhancing Image Segmentation via Explicit Selection between Point and Text Prompts [(paper)](https://arxiv.org/pdf/2503.19769)|None|
 |202503|Y. Gao et al.|Show and Segment: Universal Medical Image Segmentation via In-Context Learning [(paper)](https://arxiv.org/pdf/2503.19359)|None|
 |202503|B. Li et al.|Optimization of MedSAM model based on bounding box adaptive perturbation algorithm [(paper)](https://arxiv.org/pdf/2503.18227)|None|
