@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-4-11
+*  Last update 2025-4-22
 
 
 ## Table of Contents
@@ -36,6 +36,7 @@
 - [Literature Reviews of SAM 2 for Medical Image Segmentation](#sam24mis)
 - [Literature Reviews of SAM for Medical Image Segmentation](#sam4mis)
 - [Large-Scale Datasets for Developing Medical Foundation Models](#dataset)
+- [CVPR2025 Workshop: Foundation Models for Interactive 3D Biomedical Image Segmentation](#cvpr25)
 - [CVPR2024 Workshop: Segment Anything in Medical Images on Laptop](#cvpr24)
 
 
@@ -60,6 +61,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202504|J. Ma et al.|MedSAM2: Segment Anything in 3D Medical Images and Videos [(paper)](https://arxiv.org/pdf/2504.03600)|[Code](https://github.com/bowang-lab/MedSAM2)|
+|202504|JD. Gutiérrez et al.|Prompt Once, Segment Everything: Leveraging SAM 2 Potential for Infinite Medical Image Segmentation with a Single Prompt [(paper)](https://www.mdpi.com/1999-4893/18/4/227)|None|
 |202504|A. Kazemi et al.|Semi-automated segmentation of magnitude images in 4D flow MR scans using segment anything model 2 (SAM 2) [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13410/1341026/Semi-automated-segmentation-of-magnitude-images-in-4D-flow-MR/10.1117/12.3051724.short)|None|
 |202504|J. Ma et al.|MedSAM2: Segment Anything in 3D Medical Images and Videos [(paper)](https://arxiv.org/pdf/2504.03600)|[Code](https://github.com/bowang-lab/MedSAM2)|
 |202503|S. Wei et al.|Self-Prompting Driven SAM2 for 3D Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10889344)|None|
@@ -98,6 +101,9 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202504|N. Zhang et al.|A prediction method for radiation proctitis based on SAM-Med2D model [(paper)](https://www.nature.com/articles/s41598-025-87409-6.pdf)|None|
+|202504|Y. Wang et al.|SAMBV: A Fine-tuned SAM with Interpolation Consistency Regularization for Semi-supervised Bi-ventricle Segmentation from Cardiac MRI [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S1350453325000608)|None|
+|202504|J. Wei et al.|Mixture-of-Shape-Experts (MoSE): End-to-End Shape Dictionary Framework to Prompt SAMfor Generalizable Medical Segmentation [(paper)](https://arxiv.org/pdf/2504.09601)|None|
 |202504|Y. Wang et al.|Balancing Multi-Target Semi-Supervised Medical Image Segmentation with Collaborative Generalist and Specialists [(paper)](https://arxiv.org/pdf/2504.00862)|[Code](https://github.com/wangyou0804/CGS)|
 |202503|S. Chattopadhyay et al.|Zero-shot Domain Generalization of Foundational Models for 3D Medical Image Segmentation: An Experimental Study [(paper)](https://arxiv.org/pdf/2503.22862)|None|
 |202503|S. Xu et al.|BiPrompt-SAM: Enhancing Image Segmentation via Explicit Selection between Point and Text Prompts [(paper)](https://arxiv.org/pdf/2503.19769)|None|
@@ -358,12 +364,18 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 |202311|J. Ye et al.|SA-Med2D-20M Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks [(paper)](https://arxiv.org/pdf/2311.11969.pdf)|[Link](https://openxlab.org.cn/datasets/GMAI/SA-Med2D-20M)|
 
 
+## CVPR2025 Workshop: Foundation Models for Interactive 3D Biomedical Image Segmentation.<div id="cvpr25"></div>
+
+[(Challenge Website)](https://www.codabench.org/competitions/5263/)
+
+The rapid development of biomedical imaging technologies has led to ever-increasing volumes of complex 3D datasets. Accurate and efficient segmentation of structures within these images is essential for biology and clinical research. This competition seeks universal 3D biomedical image segmentation models that can not only adapt to various anatomical structures and imaging conditions but also iteratively improve the segmentation quality based on user interactions. 
+
 ## CVPR2024 Workshop: Segment Anything in Medical Images on Laptop.<div id="cvpr24"></div>
 
 [(Challenge Website)](https://www.codabench.org/competitions/1847/)
-[(Papers)](https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/MedSAMonLaptop#tab-active-submissions)
+[(Proceeding)](https://link.springer.com/book/10.1007/978-3-031-81854-7)
+[(Challenge Summary)](https://arxiv.org/pdf/2412.16085)
 
-The field of medical image segmentation is currently experiencing a paradigm shift, moving from specialized models designed for individual tasks to foundation models capable of managing a multitude of segmentation scenarios. 
-This challenge seeks universal promptable medical image segmentation models that are deployable on laptops or other edge devices without reliance on GPUs.
+The field of medical image segmentation is currently experiencing a paradigm shift, moving from specialized models designed for individual tasks to foundation models capable of managing a multitude of segmentation scenarios. This challenge seeks universal promptable medical image segmentation models that are deployable on laptops or other edge devices without reliance on GPUs.
 
 
