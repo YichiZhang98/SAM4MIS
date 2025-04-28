@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-4-22
+*  Last update 2025-4-29
 
 
 ## Table of Contents
@@ -101,6 +101,10 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202504|T. Piater et al.|Prompt-Tuning SAM: From Generalist to Specialist with only 2,048 Parameters and 16 Training Images [(paper)](https://arxiv.org/pdf/2504.16739)|None|
+|202504|X. Zhou et al.|MIT-SAM: Medical Image-Text SAM with Mutually Enhanced Heterogeneous Features Fusion for Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/10966035)|[Code](https://github.com/jojodan514/MIT-SAM)|
+|202504|X. Yan et al.|ICA-SAMv7: Internal carotid artery segmentation with coarse to fine network [(paper)](https://www.sciencedirect.com/science/article/pii/S0895611125000643)|[Code](https://github.com/BessiePei/ICA-SAMv7)|
+|202504|L. Yu et al.|BUS-M2AE: Multi-scale Masked Autoencoder for Breast Ultrasound Image Analysis [(paper)](https://www.sciencedirect.com/science/article/pii/S0010482525005104)|None|
 |202504|N. Zhang et al.|A prediction method for radiation proctitis based on SAM-Med2D model [(paper)](https://www.nature.com/articles/s41598-025-87409-6.pdf)|None|
 |202504|Y. Wang et al.|SAMBV: A Fine-tuned SAM with Interpolation Consistency Regularization for Semi-supervised Bi-ventricle Segmentation from Cardiac MRI [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S1350453325000608)|None|
 |202504|J. Wei et al.|Mixture-of-Shape-Experts (MoSE): End-to-End Shape Dictionary Framework to Prompt SAMfor Generalizable Medical Segmentation [(paper)](https://arxiv.org/pdf/2504.09601)|None|
