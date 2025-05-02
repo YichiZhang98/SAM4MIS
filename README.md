@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-4-29
+*  Last update 2025-5-2
 
 
 ## Table of Contents
@@ -61,6 +61,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202504|Y. Yamagishi et al.|Using Segment Anything Model 2 for Zero-Shot 3D Segmentation of Abdominal Organs in Computed Tomography Scans to Adapt Video Tracking Capabilities for 3D Medical Imaging: Algorithm Development and Validation [(paper)](https://ai.jmir.org/2025/1/e72109)|None|
 |202504|J. Ma et al.|MedSAM2: Segment Anything in 3D Medical Images and Videos [(paper)](https://arxiv.org/pdf/2504.03600)|[Code](https://github.com/bowang-lab/MedSAM2)|
 |202504|JD. Gutiérrez et al.|Prompt Once, Segment Everything: Leveraging SAM 2 Potential for Infinite Medical Image Segmentation with a Single Prompt [(paper)](https://www.mdpi.com/1999-4893/18/4/227)|None|
 |202504|A. Kazemi et al.|Semi-automated segmentation of magnitude images in 4D flow MR scans using segment anything model 2 (SAM 2) [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13410/1341026/Semi-automated-segmentation-of-magnitude-images-in-4D-flow-MR/10.1117/12.3051724.short)|None|
@@ -101,6 +102,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202504|J. Khlaut et al.|RadSAM: Segmenting 3D radiological images with a 2D promptable model [(paper)](https://arxiv.org/pdf/2504.20837)|None|
+|202504|J. Wang et al.|SAM-Guided Robust Representation Learning for One-Shot 3D Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2504.20501)|None|
 |202504|T. Piater et al.|Prompt-Tuning SAM: From Generalist to Specialist with only 2,048 Parameters and 16 Training Images [(paper)](https://arxiv.org/pdf/2504.16739)|None|
 |202504|X. Zhou et al.|MIT-SAM: Medical Image-Text SAM with Mutually Enhanced Heterogeneous Features Fusion for Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/10966035)|[Code](https://github.com/jojodan514/MIT-SAM)|
 |202504|X. Yan et al.|ICA-SAMv7: Internal carotid artery segmentation with coarse to fine network [(paper)](https://www.sciencedirect.com/science/article/pii/S0895611125000643)|[Code](https://github.com/BessiePei/ICA-SAMv7)|
