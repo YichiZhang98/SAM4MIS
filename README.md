@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-5-2
+*  Last update 2025-5-7
 
 
 ## Table of Contents
@@ -102,6 +102,9 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202505|T. Li et al.|TP-SA3M: text prompts-assisted SAM for myopic maculopathy segmentation [(paper)](https://link.springer.com/article/10.1007/s00371-025-03892-y)|None|
+|202505|Z. Chen et al.|UN-SAM: Domain-adaptive self-prompt segmentation for universal nuclei images [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S1361841525001549)|[Code](https://github.com/CUHK-AIM-Group/UN-SAM)|
+|202504|U. Shah et al.|SAM4EM:Efficient memory-based two stage prompt-free segment anything model adapter for complex 3D neuroscience electron microscopy stacks [(paper)](https://arxiv.org/pdf/2504.21544)|[Code](https://github.com/Uzshah/SAM4EM)|
 |202504|J. Khlaut et al.|RadSAM: Segmenting 3D radiological images with a 2D promptable model [(paper)](https://arxiv.org/pdf/2504.20837)|None|
 |202504|J. Wang et al.|SAM-Guided Robust Representation Learning for One-Shot 3D Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2504.20501)|None|
 |202504|T. Piater et al.|Prompt-Tuning SAM: From Generalist to Specialist with only 2,048 Parameters and 16 Training Images [(paper)](https://arxiv.org/pdf/2504.16739)|None|
