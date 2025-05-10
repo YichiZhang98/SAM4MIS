@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-5-7
+*  Last update 2025-5-11
 
 
 ## Table of Contents
@@ -61,6 +61,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202504|Y. Chen et al.|Accelerating Volumetric Medical Image Annotation via Short-Long Memory SAM 2 [(paper)](https://arxiv.org/pdf/2505.01854)|None|
 |202504|Y. Yamagishi et al.|Using Segment Anything Model 2 for Zero-Shot 3D Segmentation of Abdominal Organs in Computed Tomography Scans to Adapt Video Tracking Capabilities for 3D Medical Imaging: Algorithm Development and Validation [(paper)](https://ai.jmir.org/2025/1/e72109)|None|
 |202504|J. Ma et al.|MedSAM2: Segment Anything in 3D Medical Images and Videos [(paper)](https://arxiv.org/pdf/2504.03600)|[Code](https://github.com/bowang-lab/MedSAM2)|
 |202504|JD. Gutiérrez et al.|Prompt Once, Segment Everything: Leveraging SAM 2 Potential for Infinite Medical Image Segmentation with a Single Prompt [(paper)](https://www.mdpi.com/1999-4893/18/4/227)|None|
@@ -102,6 +103,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202505|Y. Jiang et al.|Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models [(paper)](https://arxiv.org/pdf/2505.02753)|[Code](https://github.com/Yankai96/DiffuGTS)|
+|202505|Z. Wu et al.|Integrating SAM priors with U-Net for enhanced multiclass cell detection in digital pathology [(paper)](https://www.nature.com/articles/s41598-025-99278-0.pdf)|None|
 |202505|T. Li et al.|TP-SA3M: text prompts-assisted SAM for myopic maculopathy segmentation [(paper)](https://link.springer.com/article/10.1007/s00371-025-03892-y)|None|
 |202505|Z. Chen et al.|UN-SAM: Domain-adaptive self-prompt segmentation for universal nuclei images [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S1361841525001549)|[Code](https://github.com/CUHK-AIM-Group/UN-SAM)|
 |202504|U. Shah et al.|SAM4EM:Efficient memory-based two stage prompt-free segment anything model adapter for complex 3D neuroscience electron microscopy stacks [(paper)](https://arxiv.org/pdf/2504.21544)|[Code](https://github.com/Uzshah/SAM4EM)|
