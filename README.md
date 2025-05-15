@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-5-11
+*  Last update 2025-5-15
 
 
 ## Table of Contents
@@ -103,6 +103,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202505|H. Wang et al.|BrainSegDMlF: A Dynamic Fusion-enhanced SAM for Brain Lesion Segmentation [(paper)](https://arxiv.org/pdf/2505.06133)|None|
 |202505|Y. Jiang et al.|Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models [(paper)](https://arxiv.org/pdf/2505.02753)|[Code](https://github.com/Yankai96/DiffuGTS)|
 |202505|Z. Wu et al.|Integrating SAM priors with U-Net for enhanced multiclass cell detection in digital pathology [(paper)](https://www.nature.com/articles/s41598-025-99278-0.pdf)|None|
 |202505|T. Li et al.|TP-SA3M: text prompts-assisted SAM for myopic maculopathy segmentation [(paper)](https://link.springer.com/article/10.1007/s00371-025-03892-y)|None|
@@ -206,8 +207,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 |202407|H. Li et al.|ASPS: Augmented Segment Anything Model for Polyp Segmentation [(paper)](https://arxiv.org/pdf/2407.00718)|[Code](https://github.com/HuiqianLi/ASPS)|
 |202406|Y. Xie et al.|SimTxtSeg: Weakly-Supervised Medical Image Segmentation with Simple Text Cues [(paper)](https://arxiv.org/pdf/2406.19364)|None|
 |202406|X. Deng et al.|MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation [(paper)](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_MemSAM_Taming_Segment_Anything_Model_for_Echocardiography_Video_Segmentation_CVPR_2024_paper.pdf)|[Code](https://github.com/dengxl0520/MemSAM)|
-|202406|Yunhe Gao|Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation [(paper)](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_Training_Like_a_Medical_Resident_Context-Prior_Learning_Toward_Universal_Medical_CVPR_2024_paper.pdf)|[Code](https://github.com/yhygao/universal-medical-image-segmentation)|
-|202406|C.D Albelda et al.|How SAM Perceives Different mp-MRI Brain Tumor Domains? [(paper)](https://openaccess.thecvf.com/content/CVPR2024W/DEF-AI-MIA/papers/Diana-Albelda_How_SAM_Perceives_Different_mp-MRI_Brain_Tumor_Domains_CVPRW_2024_paper.pdf)|[Code](github.com/vpulab/med-sam-brain)|
+|202406|Y. Gao|Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation [(paper)](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_Training_Like_a_Medical_Resident_Context-Prior_Learning_Toward_Universal_Medical_CVPR_2024_paper.pdf)|[Code](https://github.com/yhygao/universal-medical-image-segmentation)|
+|202406|CD. Albelda et al.|How SAM Perceives Different mp-MRI Brain Tumor Domains? [(paper)](https://openaccess.thecvf.com/content/CVPR2024W/DEF-AI-MIA/papers/Diana-Albelda_How_SAM_Perceives_Different_mp-MRI_Brain_Tumor_Domains_CVPRW_2024_paper.pdf)|[Code](github.com/vpulab/med-sam-brain)|
 |202406|T. Huang et al.|Improving Segment Anything on the Fly: Auxiliary Online Learning and Adaptive Fusion for Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2406.00956)|[Code](https://sam-auxol.github.io/AuxOL/)|
 |202406|B. Towle et al.|SimSAM: Zero-shot Medical Image Segmentation via Simulated Interaction [(paper)](https://arxiv.org/pdf/2406.00663)|[Code](https://github.com/BenjaminTowle/SimSAM)|
 |202405|Y. Gu et al.|LeSAM: Adapt Segment Anything Model for medical lesion segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/10540651)|None|
