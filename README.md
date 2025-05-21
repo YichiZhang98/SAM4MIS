@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-5-15
+*  Last update 2025-5-21
 
 
 ## Table of Contents
@@ -103,6 +103,17 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202505|SJ. Simons et al.|SpineFM: Leveraging Foundation Models for Automatic Spine X-Ray Segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/10980854)|None|
+|202505|S. Sengupta et al.|SynthFM: Training Modality-Agnostic Foundation Models for Medical Image Segmentation Without Real Medical Data [(paper)](https://ieeexplore.ieee.org/abstract/document/10980740)|None|
+|202505|T. Ward et al.|Annotation-Efficient Task Guidance for Medical Segment Anything [(paper)](https://ieeexplore.ieee.org/abstract/document/10981303)|[Code](https://github.com/tbwa233/SAM-Mix)|
+|202505|M. Wang et al.|Efficient Fine-Tuning of SAM for Interactive Medical Image Multi-Organ Segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/10981084)|None|
+|202505|Y. Yao et al.|DASAM: Medical Domain Adaptation of Segment Anything Model Without Further Pre-Training [(paper)](https://ieeexplore.ieee.org/abstract/document/10980758)|None|
+|202505|M. Nouman et al.|Evaluating Segmentation Accuracy with Diverse Prompt Strategies in Medsam [(paper)](https://ieeexplore.ieee.org/abstract/document/10980865)|None|
+|202505|J. Zhang et al.|ASAM: Anatomy-Encoded Segment Anything Model for Medical Images [(paper)](https://ieeexplore.ieee.org/abstract/document/10981134)|None|
+|202505|J. Lyu et al.|VSS-SAM: Visual State Space-Enhanced SAM for 3D Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/10981185)|None|
+|202505|D. Lee et al.|SAM3X: Efficient 3D-Aware Network for Medical Image Segmentation Using SAM [(paper)](https://ieeexplore.ieee.org/abstract/document/10981074)|[Code](https://github.com/SSTDV-Project/SAM3X)|
+|202505|AM. Rickmann et al.|Using Foundation Models as Pseudo-Label Generators for Pre-Clinical 4D Cardiac CT Segmentation [(paper)](https://arxiv.org/pdf/2505.09564)|None|
+|202505|S. Liu et al.|Multi-scale feature fusion based SAM for high-quality few-shot medical image segmentation [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S1077314225001122)|[Code](https://github.com/1683194873xrn/HF-SAM)|
 |202505|H. Wang et al.|BrainSegDMlF: A Dynamic Fusion-enhanced SAM for Brain Lesion Segmentation [(paper)](https://arxiv.org/pdf/2505.06133)|None|
 |202505|Y. Jiang et al.|Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models [(paper)](https://arxiv.org/pdf/2505.02753)|[Code](https://github.com/Yankai96/DiffuGTS)|
 |202505|Z. Wu et al.|Integrating SAM priors with U-Net for enhanced multiclass cell detection in digital pathology [(paper)](https://www.nature.com/articles/s41598-025-99278-0.pdf)|None|
