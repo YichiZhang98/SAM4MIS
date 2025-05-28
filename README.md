@@ -27,14 +27,14 @@
 }
 ```
 
-*  Last update 2025-5-21
+*  Last update 2025-5-29
 
 
 ## Table of Contents
 
 - [Introduction: About SAM & SAM2](#introduction)
-- [Literature Reviews of SAM 2 for Medical Image Segmentation](#sam24mis)
-- [Literature Reviews of SAM for Medical Image Segmentation](#sam4mis)
+- [Literature Reviews of SAM 2 Adaptions for Medical Image Segmentation](#sam24mis)
+- [Literature Reviews of Foundation Models / SAM for Medical Image Segmentation](#sam4mis)
 - [Large-Scale Datasets for Developing Medical Foundation Models](#dataset)
 - [CVPR2025 Workshop: Foundation Models for Interactive 3D Biomedical Image Segmentation](#cvpr25)
 - [CVPR2024 Workshop: Segment Anything in Medical Images on Laptop](#cvpr24)
@@ -61,6 +61,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202505|G. Huo et al.|SAMba-UNet: Synergizing SAM2 and Mamba in UNet with Heterogeneous Aggregation for Cardiac MRI Segmentation [(paper)](https://arxiv.org/pdf/2505.16304)|None|
 |202504|Y. Chen et al.|Accelerating Volumetric Medical Image Annotation via Short-Long Memory SAM 2 [(paper)](https://arxiv.org/pdf/2505.01854)|None|
 |202504|Y. Yamagishi et al.|Using Segment Anything Model 2 for Zero-Shot 3D Segmentation of Abdominal Organs in Computed Tomography Scans to Adapt Video Tracking Capabilities for 3D Medical Imaging: Algorithm Development and Validation [(paper)](https://ai.jmir.org/2025/1/e72109)|None|
 |202504|J. Ma et al.|MedSAM2: Segment Anything in 3D Medical Images and Videos [(paper)](https://arxiv.org/pdf/2504.03600)|[Code](https://github.com/bowang-lab/MedSAM2)|
@@ -103,6 +104,9 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202505|QH. Trinh et al.|PRS-Med: Position Reasoning Segmentation with Vision-Language Model in Medical Imaging [(paper)](https://arxiv.org/pdf/2505.11872)|None|
+|202505|Q. Pan et al.|AMVLM: Alignment-Multiplicity Aware Vision-Language Model for Semi-Supervised Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/11014494)|[Code](https://github.com/QingtaoPan/AMVLM)|
+|202505|W. Zhou et al.|MASG-SAM: Enhancing Few-Shot Medical Image Segmentation with Multi-Scale Attention and Semantic Guidance [(paper)](https://ieeexplore.ieee.org/abstract/document/11006907)|[Code](https://github.com/ggllllll/MASG-SAM.git)|
 |202505|SJ. Simons et al.|SpineFM: Leveraging Foundation Models for Automatic Spine X-Ray Segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/10980854)|None|
 |202505|S. Sengupta et al.|SynthFM: Training Modality-Agnostic Foundation Models for Medical Image Segmentation Without Real Medical Data [(paper)](https://ieeexplore.ieee.org/abstract/document/10980740)|None|
 |202505|T. Ward et al.|Annotation-Efficient Task Guidance for Medical Segment Anything [(paper)](https://ieeexplore.ieee.org/abstract/document/10981303)|[Code](https://github.com/tbwa233/SAM-Mix)|
