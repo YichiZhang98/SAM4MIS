@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-5-29
+*  Last update 2025-6-5
 
 
 ## Table of Contents
@@ -95,7 +95,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 |202408|C. Shen et al.|Interactive 3D Medical Image Segmentation with SAM 2 [(paper)](https://arxiv.org/pdf/2408.02635)|[Code](https://github.com/Chuyun-Shen/SAM_2_Medical_3D)|
 |202408|A. Lou et al.|Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2408.01648)|[Code](https://github.com/AngeLouCN/SAM-2_Surgical_Video)|
 |202408|J. Zhu et al.|Medical SAM 2: Segment medical images as video via Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2408.00874)|[Code](https://github.com/MedicineToken/Medical-SAM2)|
-|202408|H. Dong et al.|Segment anything model 2: an application to 2D and 3D medical images [(paper)](https://arxiv.org/abs/2408.00756)|None|
+|202408|H. Dong et al.|Segment anything model 2: an application to 2D and 3D medical images [(paper)](https://arxiv.org/pdf/2408.00756)|None|
 
 
 
@@ -104,6 +104,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202505|N. Saito et al.|Zero-Shot Pseudo Labels Generation Using SAM and CLIP for Semi-Supervised Semantic Segmentation [(paper)](https://arxiv.org/pdf/2505.19846)|None|
+|202505|M. Colussi et al.|MIAS-SAM: Medical Image Anomaly Segmentation without thresholding [(paper)](https://arxiv.org/pdf/2505.22762)|[Code](https://github.com/warpcut/MIAS-SAM)|
 |202505|QH. Trinh et al.|PRS-Med: Position Reasoning Segmentation with Vision-Language Model in Medical Imaging [(paper)](https://arxiv.org/pdf/2505.11872)|None|
 |202505|Q. Pan et al.|AMVLM: Alignment-Multiplicity Aware Vision-Language Model for Semi-Supervised Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/11014494)|[Code](https://github.com/QingtaoPan/AMVLM)|
 |202505|W. Zhou et al.|MASG-SAM: Enhancing Few-Shot Medical Image Segmentation with Multi-Scale Attention and Semantic Guidance [(paper)](https://ieeexplore.ieee.org/abstract/document/11006907)|[Code](https://github.com/ggllllll/MASG-SAM.git)|
