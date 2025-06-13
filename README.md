@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-6-5
+*  Last update 2025-6-13
 
 
 ## Table of Contents
@@ -61,6 +61,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202505|M. Mansoori et al.|Advancements in Medical Image Classification through Fine-Tuning Natural Domain Foundation Models [(paper)](https://arxiv.org/pdf/2505.19779)|[Code](https://github.com/sajjad-sh33/Medical-Transfer-Learning)|
 |202505|G. Huo et al.|SAMba-UNet: Synergizing SAM2 and Mamba in UNet with Heterogeneous Aggregation for Cardiac MRI Segmentation [(paper)](https://arxiv.org/pdf/2505.16304)|None|
 |202504|Y. Chen et al.|Accelerating Volumetric Medical Image Annotation via Short-Long Memory SAM 2 [(paper)](https://arxiv.org/pdf/2505.01854)|None|
 |202504|Y. Yamagishi et al.|Using Segment Anything Model 2 for Zero-Shot 3D Segmentation of Abdominal Organs in Computed Tomography Scans to Adapt Video Tracking Capabilities for 3D Medical Imaging: Algorithm Development and Validation [(paper)](https://ai.jmir.org/2025/1/e72109)|None|
@@ -104,6 +105,11 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202506|W. Shi et al.|SIT-SAM: A semantic-integration transformer that adapts the Segment Anything Model to zero-shot medical image semantic segmentation [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S174680942500597X)|[Code](https://github.com/wentao0429/SIT-SAM)|
+|202506|Y. He et al.|VISTA3D: A Unified Segmentation Foundation Model For 3D Medical Imaging [(paper)](https://openaccess.thecvf.com/content/CVPR2025/papers/He_VISTA3D_A_Unified_Segmentation_Foundation_Model_For_3D_Medical_Imaging_CVPR_2025_paper.pdf)|[Code](https://github.com/Project-MONAI/VISTA)|
+|202506|S. Chang et al.|Unified Medical Lesion Segmentation via Self-referring Indicator [(paper)](https://openaccess.thecvf.com/content/CVPR2025/papers/Chang_Unified_Medical_Lesion_Segmentation_via_Self-referring_Indicator_CVPR_2025_paper.pdf)|None|
+|202506|J. Wu et al.| SAM-aware Test-time Adaptation for Universal Medical Image Segmentation
+ [(paper)](https://arxiv.org/pdf/2506.05221)|None|
 |202505|N. Saito et al.|Zero-Shot Pseudo Labels Generation Using SAM and CLIP for Semi-Supervised Semantic Segmentation [(paper)](https://arxiv.org/pdf/2505.19846)|None|
 |202505|M. Colussi et al.|MIAS-SAM: Medical Image Anomaly Segmentation without thresholding [(paper)](https://arxiv.org/pdf/2505.22762)|[Code](https://github.com/warpcut/MIAS-SAM)|
 |202505|QH. Trinh et al.|PRS-Med: Position Reasoning Segmentation with Vision-Language Model in Medical Imaging [(paper)](https://arxiv.org/pdf/2505.11872)|None|
