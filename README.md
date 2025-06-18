@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-6-13
+*  Last update 2025-6-18
 
 
 ## Table of Contents
@@ -105,6 +105,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202506|Y. Huang et al.|MedSeg-R: Reasoning Segmentation in Medical Images with Multimodal Large Language Models [(paper)](https://arxiv.org/pdf/2506.10465)|None|
 |202506|W. Shi et al.|SIT-SAM: A semantic-integration transformer that adapts the Segment Anything Model to zero-shot medical image semantic segmentation [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S174680942500597X)|[Code](https://github.com/wentao0429/SIT-SAM)|
 |202506|Y. He et al.|VISTA3D: A Unified Segmentation Foundation Model For 3D Medical Imaging [(paper)](https://openaccess.thecvf.com/content/CVPR2025/papers/He_VISTA3D_A_Unified_Segmentation_Foundation_Model_For_3D_Medical_Imaging_CVPR_2025_paper.pdf)|[Code](https://github.com/Project-MONAI/VISTA)|
 |202506|S. Chang et al.|Unified Medical Lesion Segmentation via Self-referring Indicator [(paper)](https://openaccess.thecvf.com/content/CVPR2025/papers/Chang_Unified_Medical_Lesion_Segmentation_via_Self-referring_Indicator_CVPR_2025_paper.pdf)|None|
@@ -404,6 +405,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 ## CVPR2025 Workshop: Foundation Models for Interactive 3D Biomedical Image Segmentation.<div id="cvpr25"></div>
 
 [(Challenge Website)](https://www.codabench.org/competitions/5263/)
+[(Workshop Papers)](https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop/MedSegFM#tab-active-submissions)
 
 The rapid development of biomedical imaging technologies has led to ever-increasing volumes of complex 3D datasets. Accurate and efficient segmentation of structures within these images is essential for biology and clinical research. This competition seeks universal 3D biomedical image segmentation models that can not only adapt to various anatomical structures and imaging conditions but also iteratively improve the segmentation quality based on user interactions. 
 
