@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-6-18
+*  Last update 2025-6-21
 
 
 ## Table of Contents
@@ -105,6 +105,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202506|Y. Zhang et al.|Generalist medical foundation model improves prostate cancer segmentation from multimodal MRI images [(paper)](https://www.nature.com/articles/s41746-025-01756-2)||[Code](https://github.com/ZhangYH0502/PCaSAM)|
+|202506|Q. Liang et al.|STAR: Empowering Semi-Supervised Medical Image Segmentation with SAM-based Teacher-Student Architecture and Contrastive Consistency Regularization [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S0957417425022699)|None|
 |202506|Y. Huang et al.|MedSeg-R: Reasoning Segmentation in Medical Images with Multimodal Large Language Models [(paper)](https://arxiv.org/pdf/2506.10465)|None|
 |202506|W. Shi et al.|SIT-SAM: A semantic-integration transformer that adapts the Segment Anything Model to zero-shot medical image semantic segmentation [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S174680942500597X)|[Code](https://github.com/wentao0429/SIT-SAM)|
 |202506|Y. He et al.|VISTA3D: A Unified Segmentation Foundation Model For 3D Medical Imaging [(paper)](https://openaccess.thecvf.com/content/CVPR2025/papers/He_VISTA3D_A_Unified_Segmentation_Foundation_Model_For_3D_Medical_Imaging_CVPR_2025_paper.pdf)|[Code](https://github.com/Project-MONAI/VISTA)|
