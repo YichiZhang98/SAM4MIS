@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-6-29
+*  Last update 2025-7-5
 
 
 ## Table of Contents
@@ -61,6 +61,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202507|B. Podvin et al.|SAMUSA: Segment Anything Model 2 for UltraSound Annotation [(paper)](https://www.researchgate.net/profile/Daniel-George-3/publication/393160079_SAMUSA_Segment_Anything_Model_2_for_UltraSound_Annotation/links/6862713d92697d42903be602/SAMUSA-Segment-Anything-Model-2-for-UltraSound-Annotation.pdf)|None|
+|202506|X. Yu et al.|CRISP-SAM2 : SAM2 with Cross-Modal Interaction and Semantic Prompting for Multi-Organ Segmentation [(paper)](https://arxiv.org/pdf/2506.23121)|[Code](https://github.com/YU-deep/CRISP_SAM2.git)|
 |202505|M. Mansoori et al.|Advancements in Medical Image Classification through Fine-Tuning Natural Domain Foundation Models [(paper)](https://arxiv.org/pdf/2505.19779)|[Code](https://github.com/sajjad-sh33/Medical-Transfer-Learning)|
 |202505|G. Huo et al.|SAMba-UNet: Synergizing SAM2 and Mamba in UNet with Heterogeneous Aggregation for Cardiac MRI Segmentation [(paper)](https://arxiv.org/pdf/2505.16304)|None|
 |202504|Y. Chen et al.|Accelerating Volumetric Medical Image Annotation via Short-Long Memory SAM 2 [(paper)](https://arxiv.org/pdf/2505.01854)|None|
@@ -105,6 +107,11 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202507|A. Zami et al.|Prompt2SegCXR:Prompt to Segment All Organs and Diseases in Chest X-rays [(paper)](https://arxiv.org/pdf/2507.00673)|None|
+|202507|Y. Sui et al.|Cross-domain subcortical brain structure segmentation algorithm based on low-rank adaptation fine-tuning SAM [(paper)](https://link.springer.com/content/pdf/10.1186/s12880-025-01779-x.pdf)|None|
+|202507|A. Wang et al.|PedSemiSeg: Pedagogy-inspired semi-supervised polyp segmentation [(paper)](https://www.sciencedirect.com/science/article/pii/S0895611125001004)|None|
+|202506|P. Tian et al.|MedSAM-CA: A CNN-Augmented ViT with Attention-Enhanced Multi-Scale Fusion for Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2506.23700)|None|
+|202506|S. Sobhan et al.|MedPrompt: LLM-CNN Fusion with Weight Routing for Medical Image Segmentation and Classification [(paper)](https://arxiv.org/pdf/2506.21199)|None|
 |202506|X. Han et al.|Improving a segment anything model for segmenting low-quality medical images via an adapter [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S1077314225001481)|None|
 |202506|Y. Zhang et al.|Generalist medical foundation model improves prostate cancer segmentation from multimodal MRI images [(paper)](https://www.nature.com/articles/s41746-025-01756-2)|[Code](https://github.com/ZhangYH0502/PCaSAM)|
 |202506|Q. Liang et al.|STAR: Empowering Semi-Supervised Medical Image Segmentation with SAM-based Teacher-Student Architecture and Contrastive Consistency Regularization [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S0957417425022699)|None|
