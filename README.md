@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-7-5
+*  Last update 2025-7-14
 
 
 ## Table of Contents
@@ -107,6 +107,9 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202507|Z. Yan et al.|SAMed-2: Selective Memory Enhanced Medical Segment Anything Model [(paper)](https://arxiv.org/pdf/2507.03698)|[Code](https://github.com/ZhilingYan/Medical-SAM-Bench)|
+|202507|T. Tang et al.|Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation [(paper)](https://arxiv.org/pdf/2507.03585)|None|
+|202507|S. Zhu et al.|Visual prompt-driven universal model for medical image segmentation in radiotherapy [(paper)](https://www.sciencedirect.com/science/article/pii/S0950705125010512)|None|
 |202507|A. Zami et al.|Prompt2SegCXR:Prompt to Segment All Organs and Diseases in Chest X-rays [(paper)](https://arxiv.org/pdf/2507.00673)|None|
 |202507|Y. Sui et al.|Cross-domain subcortical brain structure segmentation algorithm based on low-rank adaptation fine-tuning SAM [(paper)](https://link.springer.com/content/pdf/10.1186/s12880-025-01779-x.pdf)|None|
 |202507|A. Wang et al.|PedSemiSeg: Pedagogy-inspired semi-supervised polyp segmentation [(paper)](https://www.sciencedirect.com/science/article/pii/S0895611125001004)|None|
