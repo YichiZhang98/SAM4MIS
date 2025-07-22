@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-7-14
+*  Last update 2025-7-22
 
 
 ## Table of Contents
@@ -61,6 +61,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202507|E. Chukwujindu et al.|Improving Medical Image Segmentation with SAM2: Analyzing the Impact of Object Characteristics and Finetuning on Multi-Planar Datasets [(paper)](https://www.sciencedirect.com/science/article/pii/S3050577125000325)||[Code](https://github.com/RadSam2/rad_sam2)|
 |202507|B. Podvin et al.|SAMUSA: Segment Anything Model 2 for UltraSound Annotation [(paper)](https://www.researchgate.net/profile/Daniel-George-3/publication/393160079_SAMUSA_Segment_Anything_Model_2_for_UltraSound_Annotation/links/6862713d92697d42903be602/SAMUSA-Segment-Anything-Model-2-for-UltraSound-Annotation.pdf)|None|
 |202506|X. Yu et al.|CRISP-SAM2 : SAM2 with Cross-Modal Interaction and Semantic Prompting for Multi-Organ Segmentation [(paper)](https://arxiv.org/pdf/2506.23121)|[Code](https://github.com/YU-deep/CRISP_SAM2.git)|
 |202505|M. Mansoori et al.|Advancements in Medical Image Classification through Fine-Tuning Natural Domain Foundation Models [(paper)](https://arxiv.org/pdf/2505.19779)|[Code](https://github.com/sajjad-sh33/Medical-Transfer-Learning)|
@@ -107,6 +108,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202507|C. Guo et al.|ZAP-2.5DSAM: zero additional parameters advancing 2.5D SAM adaptation to 3D tumor segmentation [(paper)](https://link.springer.com/article/10.1007/s00371-025-04092-4)|[Code](https://github.com/CaiGuoHS/ZAP-2.5DSAM.git)|
 |202507|Z. Yan et al.|SAMed-2: Selective Memory Enhanced Medical Segment Anything Model [(paper)](https://arxiv.org/pdf/2507.03698)|[Code](https://github.com/ZhilingYan/Medical-SAM-Bench)|
 |202507|T. Tang et al.|Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation [(paper)](https://arxiv.org/pdf/2507.03585)|None|
 |202507|S. Zhu et al.|Visual prompt-driven universal model for medical image segmentation in radiotherapy [(paper)](https://www.sciencedirect.com/science/article/pii/S0950705125010512)|None|
