@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-8-2
+*  Last update 2025-8-7
 
 
 ## Table of Contents
@@ -62,8 +62,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 |Date|Authors|Title|Code|
 |---|---|---|---|
 |202507|C. Wang et al.|FreqSAM2-UNet: Adapter Fine-Tuning Frequency-Aware Network of SAM2 for Universal Medical Segmentation [(paper)](https://link.springer.com/chapter/10.1007/978-981-95-0036-9_26)|None|
-|202507|G. Xu et al.|Depthwise-Dilated Convolutional Adapters for Medical Object Tracking and Segmentation Using the Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2507.14613)||[Code](https://github.com/apple1986/DD-SAM2)|
-|202507|E. Chukwujindu et al.|Improving Medical Image Segmentation with SAM2: Analyzing the Impact of Object Characteristics and Finetuning on Multi-Planar Datasets [(paper)](https://www.sciencedirect.com/science/article/pii/S3050577125000325)||[Code](https://github.com/RadSam2/rad_sam2)|
+|202507|G. Xu et al.|Depthwise-Dilated Convolutional Adapters for Medical Object Tracking and Segmentation Using the Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2507.14613)|[Code](https://github.com/apple1986/DD-SAM2)|
+|202507|E. Chukwujindu et al.|Improving Medical Image Segmentation with SAM2: Analyzing the Impact of Object Characteristics and Finetuning on Multi-Planar Datasets [(paper)](https://www.sciencedirect.com/science/article/pii/S3050577125000325)|[Code](https://github.com/RadSam2/rad_sam2)|
 |202507|B. Podvin et al.|SAMUSA: Segment Anything Model 2 for UltraSound Annotation [(paper)](https://www.researchgate.net/profile/Daniel-George-3/publication/393160079_SAMUSA_Segment_Anything_Model_2_for_UltraSound_Annotation/links/6862713d92697d42903be602/SAMUSA-Segment-Anything-Model-2-for-UltraSound-Annotation.pdf)|None|
 |202506|X. Yu et al.|CRISP-SAM2 : SAM2 with Cross-Modal Interaction and Semantic Prompting for Multi-Organ Segmentation [(paper)](https://arxiv.org/pdf/2506.23121)|[Code](https://github.com/YU-deep/CRISP_SAM2.git)|
 |202505|M. Mansoori et al.|Advancements in Medical Image Classification through Fine-Tuning Natural Domain Foundation Models [(paper)](https://arxiv.org/pdf/2505.19779)|[Code](https://github.com/sajjad-sh33/Medical-Transfer-Learning)|
@@ -110,6 +110,10 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202508|Y. Wu et al.|SAMPO: Visual Preference Optimization for Intent-Aware Segmentation with Vision Foundation Models [(paper)](https://arxiv.org/pdf/2508.02464)|None|
+|202508|A. Roddan et al.|SAMSA 2.0: Prompting Segment Anything with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2508.00493)|None|
+|202507|A. Roy et al.|Is Exchangeability better than I.I.D to handle Data Distribution Shifts while Pooling Data for Data-scarce Medical image segmentation? [(paper)](https://arxiv.org/pdf/2507.19575)|[Code](https://github.com/AyushRoy2001/Exchangeable-feature-disentanglement)|
+|202507|H. Wang et al.|SAM-Med3D: A Vision Foundation Model for General-Purpose Segmentation on Volumetric Medical Images [(paper)](https://ieeexplore.ieee.org/abstract/document/11105528)|[Code](https://github.com/uni-medical/SAM-Med3D)|
 |202507|H. Zhuo et al.|Fully Automated SAM for Single-source Domain Generalization in Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2507.17281)|None|
 |202507|W. Zhou et al.|KD-MedSAM: Lightweight Knowledge Distillation of Segment Anything Model for Multi-modality Medical Image Segmentation [(paper)](https://link.springer.com/chapter/10.1007/978-981-95-0036-9_31)|None|
 |202507|C. Guo et al.|ZAP-2.5DSAM: zero additional parameters advancing 2.5D SAM adaptation to 3D tumor segmentation [(paper)](https://link.springer.com/article/10.1007/s00371-025-04092-4)|[Code](https://github.com/CaiGuoHS/ZAP-2.5DSAM.git)|
