@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-8-7
+*  Last update 2025-8-16
 
 
 ## Table of Contents
@@ -61,6 +61,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202508|Z. Wu et al.|Vessel-SAM2: Adapting Segment Anything 2 for Patch-Free Retinal Vessel Segmentation in Ultra-High Resolution Fundus Images [(paper)](https://ieeexplore.ieee.org/abstract/document/11107345)|None|
+|202508|J. He et al.|Training-Free Breast Ultrasound Image Segmentation with Retrieval-based SAM2 [(paper)](https://ieeexplore.ieee.org/abstract/document/11113315)|None|
 |202507|C. Wang et al.|FreqSAM2-UNet: Adapter Fine-Tuning Frequency-Aware Network of SAM2 for Universal Medical Segmentation [(paper)](https://link.springer.com/chapter/10.1007/978-981-95-0036-9_26)|None|
 |202507|G. Xu et al.|Depthwise-Dilated Convolutional Adapters for Medical Object Tracking and Segmentation Using the Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2507.14613)|[Code](https://github.com/apple1986/DD-SAM2)|
 |202507|E. Chukwujindu et al.|Improving Medical Image Segmentation with SAM2: Analyzing the Impact of Object Characteristics and Finetuning on Multi-Planar Datasets [(paper)](https://www.sciencedirect.com/science/article/pii/S3050577125000325)|[Code](https://github.com/RadSam2/rad_sam2)|
@@ -110,6 +112,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202507|R. Bhayana et al.|Segment Anything in the Ovary: Toward Scalable AI-assisted Lesion Classification [(paper)](https://pubs.rsna.org/doi/abs/10.1148/radiol.252185?journalCode=radiology)|None|
 |202508|Y. Wu et al.|SAMPO: Visual Preference Optimization for Intent-Aware Segmentation with Vision Foundation Models [(paper)](https://arxiv.org/pdf/2508.02464)|None|
 |202508|A. Roddan et al.|SAMSA 2.0: Prompting Segment Anything with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2508.00493)|None|
 |202507|A. Roy et al.|Is Exchangeability better than I.I.D to handle Data Distribution Shifts while Pooling Data for Data-scarce Medical image segmentation? [(paper)](https://arxiv.org/pdf/2507.19575)|[Code](https://github.com/AyushRoy2001/Exchangeable-feature-disentanglement)|
