@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-8-16
+*  Last update 2025-8-23
 
 
 ## Table of Contents
@@ -61,6 +61,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202508|M. Fernandez et al.|SAM 2-Driven Self-Training for Mammogram Segmentation: Zero-Shot Mask Generation Via Pseudo-Video [(paper)](https://ieeexplore.ieee.org/abstract/document/11084376)|[Code](https://github.com/MauricioFernandezM/Self-TrainingSAM)|
 |202508|Z. Wu et al.|Vessel-SAM2: Adapting Segment Anything 2 for Patch-Free Retinal Vessel Segmentation in Ultra-High Resolution Fundus Images [(paper)](https://ieeexplore.ieee.org/abstract/document/11107345)|None|
 |202508|J. He et al.|Training-Free Breast Ultrasound Image Segmentation with Retrieval-based SAM2 [(paper)](https://ieeexplore.ieee.org/abstract/document/11113315)|None|
 |202507|C. Wang et al.|FreqSAM2-UNet: Adapter Fine-Tuning Frequency-Aware Network of SAM2 for Universal Medical Segmentation [(paper)](https://link.springer.com/chapter/10.1007/978-981-95-0036-9_26)|None|
@@ -112,7 +113,13 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
-|202507|R. Bhayana et al.|Segment Anything in the Ovary: Toward Scalable AI-assisted Lesion Classification [(paper)](https://pubs.rsna.org/doi/abs/10.1148/radiol.252185?journalCode=radiology)|None|
+|202508|X. Sun et al.|MFB-SAC: A Multi-Scale Frequency and Boundary-Enhanced SAM for Cell Segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/11084537)|[Code](https://github.com/Mrliujunwen/SAC)|
+|202508|Y. Chen et al.|SAM2Med3D: Leveraging video foundation models for 3D breast MRI segmentation [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S0097849325001827)|None|
+|202508|G. Jin et al.|Enhancing feature discrimination with pseudo-labels for foundation model in segmentation of 3D medical images [(paper)](https://www.sciencedirect.com/science/article/pii/S0893608025008603)|[Code](https://github.com/lonezhizi/PESF)|
+|202508|Y. Yang et al.|MedSAMix: A Training-Free Model Merging Approach for Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2508.11032)|None|
+|202508|G. Zheng et al.|Enhancing Segment Anything Model with spatial context and textural detail for cardiac MRI segmentation [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S1746809425009486)|[Code](https://github.com/LZUzgw/CD-SAM)|
+|202508|Z. Wu et al.|Multi-Sequence Parotid Gland Lesion Segmentation via Expert Text-Guided Segment Anything Model [(paper)](https://arxiv.org/pdf/2508.09645)|None|
+|202508|R. Bhayana et al.|Segment Anything in the Ovary: Toward Scalable AI-assisted Lesion Classification [(paper)](https://pubs.rsna.org/doi/abs/10.1148/radiol.252185?journalCode=radiology)|None|
 |202508|Y. Wu et al.|SAMPO: Visual Preference Optimization for Intent-Aware Segmentation with Vision Foundation Models [(paper)](https://arxiv.org/pdf/2508.02464)|None|
 |202508|A. Roddan et al.|SAMSA 2.0: Prompting Segment Anything with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2508.00493)|None|
 |202507|A. Roy et al.|Is Exchangeability better than I.I.D to handle Data Distribution Shifts while Pooling Data for Data-scarce Medical image segmentation? [(paper)](https://arxiv.org/pdf/2507.19575)|[Code](https://github.com/AyushRoy2001/Exchangeable-feature-disentanglement)|
