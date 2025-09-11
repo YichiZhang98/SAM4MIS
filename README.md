@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-9-4
+*  Last update 2025-9-11
 
 
 ## Table of Contents
@@ -113,6 +113,8 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202508|S. Zhang et al.|A generalist foundation model and database for open-world medical image segmentation [(paper)](https://www.nature.com/articles/s41551-025-01497-3)|[Code](https://github.com/MedSegX/MedSegX-code)|
+|202508|Z. Zhao et al.|Large-vocabulary segmentation for medical images with text prompts [(paper)](https://www.nature.com/articles/s41746-025-01964-w)|[Code](https://github.com/zhaoziheng/SAT)|
 |202508|AA. Shami et al.|Persistent Homology and Segment Anything Model for Automated Zero-Shot Localized Medical X-ray Images Segmentation (PH-SAM) [(paper)](https://link.springer.com/chapter/10.1007/978-3-031-99965-9_37)|None|
 |202508|B. Huang et al.|E-BayesSAM: Efficient Bayesian Adaptation of SAM with Self-Optimizing KAN-Based Interpretation for Uncertainty-Aware Ultrasonic Segmentation [(paper)](https://arxiv.org/pdf/2508.17408)|[Code](https://github.com/mp31192/E-BayesSAM)|
 |202508|X. Sun et al.|MFB-SAC: A Multi-Scale Frequency and Boundary-Enhanced SAM for Cell Segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/11084537)|[Code](https://github.com/Mrliujunwen/SAC)|
