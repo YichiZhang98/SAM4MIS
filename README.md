@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-9-18
+*  Last update 2025-9-29
 
 
 ## Table of Contents
@@ -113,6 +113,19 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202509|Y. Wang et al.|Collect vascular specimens in one cabinet: A hierarchical prompt-guided universal model for 3D vascular segmentation [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S0895611125001594)|[Code](https://github.com/mileswyn/VasCab)|
+|202509|Y. Zhang et al.|Embedded framework for clinical medical image segment anything in resource limited healthcare regions [(paper)](https://www.nature.com/articles/s41746-025-01881-y.pdf)|[Code](https://github.com/yuhoo0302/Segment-Anything-Model-for-Medical-Images)|
+|202509|L. Li et al.|Segment Anything Model for Gastric Cancer [(paper)](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_19)|None|
+|202509|Z. Tu et al.|Spatial-Temporal Memory Filtering SAM for Lesion Segmentation in Breast Ultrasound Videos [(paper)](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_52)|[Code](https://github.com/tzz-ahu/STMFSAM)|
+|202509|R. Li et al.|MoE-SAM: Enhancing SAM for Medical Image Segmentation with Mixture-of-Experts [(paper)](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_35)|[Code](https://github.com/Asphyxiate-Rye/E-SAM)|
+|202509|Q. Li et al.|From Generalist to Specialist: Distilling a Mixture of Foundation Models for Domain-Specific Medical Image Segmentation [(paper)](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_19)|None|
+|202509|M. Zhang et al.|Towards Robust Retinal Vessel Segmentation via Reducing Open-Set Label Noises from SAM-Generated Masks [(paper)](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_60)|None|
+|202509|H. Su et al.|Sparsely Annotated Medical Image Segmentation via Cross-SAM of 3D and 2D Networks [(paper)](https://link.springer.com/chapter/10.1007/978-3-032-05141-7_51)|[Code](https://github.com/CTSegPilot/SA-Net.git)|
+|202509|T. Wang et al.|pFedSAM: Personalized Federated Learning of Segment Anything Model for Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2509.15638)|None|
+|202509|C. Qin et al.|DUR-Net+: Semi-Supervised Abdominal CT Pheochromocytoma Segmentation Via Dynamic Uncertainty Rectified and Prior Knowledge From SAM-Med3D [(paper)](https://ieeexplore.ieee.org/abstract/document/11162509)|None|
+|202509|D. Chen et al.|SAMTNU: Adaptive Segment Anything Model for Thyroid and Nodule Ultrasound Image Segmentation [(paper)](https://link.springer.com/chapter/10.1007/978-3-032-04546-1_29)|None|
+|202509|X. Zhang et al.|Leveraging Multi-Text Joint Prompts in SAM for Robust Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/11153032)|None|
+|202509|T. Ward et al.|A Probabilistic Segment Anything Model for Ambiguity-Aware Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2509.05809)|[Code](https://github.com/tbwa233/Probabilistic-SAM)|
 |202509|X. Yu et al.|Medical SAM-Clip Grafting for brain tumor segmentation [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S0010482525012806)|None|
 |202508|S. Zhang et al.|A generalist foundation model and database for open-world medical image segmentation [(paper)](https://www.nature.com/articles/s41551-025-01497-3)|[Code](https://github.com/MedSegX/MedSegX-code)|
 |202508|Z. Zhao et al.|Large-vocabulary segmentation for medical images with text prompts [(paper)](https://www.nature.com/articles/s41746-025-01964-w)|[Code](https://github.com/zhaoziheng/SAT)|
