@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-9-29
+*  Last update 2025-10-9
 
 
 ## Table of Contents
@@ -113,6 +113,9 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202509|Z. Liu et al.|BALR-SAM: Boundary-Aware Low-Rank Adaptation of SAM for Resource-Efficient Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2509.24204?)|None|
+|202509|J. Zhuang et al.|Bio2Vol: Adapting 2D Biomedical Foundation Models for Volumetric Medical Image Segmentation [(paper)](https://papers.miccai.org/miccai-2025/paper/1852_paper.pdf)|[Code](https://github.com/JiaxinZhuang/Bio2Vol)|
+|202509|Z. Peng et al.|HA-SAM: Hierarchically Adapting SAM for Nerve Segmentation in Ultrasound Images [(paper)](https://papers.miccai.org/miccai-2025/paper/3104_paper.pdf)|None|
 |202509|Y. Wang et al.|Collect vascular specimens in one cabinet: A hierarchical prompt-guided universal model for 3D vascular segmentation [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S0895611125001594)|[Code](https://github.com/mileswyn/VasCab)|
 |202509|Y. Zhang et al.|Embedded framework for clinical medical image segment anything in resource limited healthcare regions [(paper)](https://www.nature.com/articles/s41746-025-01881-y.pdf)|[Code](https://github.com/yuhoo0302/Segment-Anything-Model-for-Medical-Images)|
 |202509|L. Li et al.|Segment Anything Model for Gastric Cancer [(paper)](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_19)|None|
