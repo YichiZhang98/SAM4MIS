@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-10-9
+*  Last update 2025-10-17
 
 
 ## Table of Contents
@@ -61,6 +61,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202510|L. Guo et al.|ESAM2-BLS: Enhanced Segment Anything Model 2 for Efficient Breast Lesion Segmentation in Ultrasound Imaging [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S0895611125001636)|None|
 |202508|M. Fernandez et al.|SAM 2-Driven Self-Training for Mammogram Segmentation: Zero-Shot Mask Generation Via Pseudo-Video [(paper)](https://ieeexplore.ieee.org/abstract/document/11084376)|[Code](https://github.com/MauricioFernandezM/Self-TrainingSAM)|
 |202508|Y. Chen et al.|SAM2Med3D: Leveraging video foundation models for 3D breast MRI segmentation [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S0097849325001827)|None|
 |202508|Z. Wu et al.|Vessel-SAM2: Adapting Segment Anything 2 for Patch-Free Retinal Vessel Segmentation in Ultra-High Resolution Fundus Images [(paper)](https://ieeexplore.ieee.org/abstract/document/11107345)|None|
@@ -113,6 +114,9 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202510|Y. Yang et al.|SAM2-3dMed: Empowering SAM2 for 3D Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2510.08967)|None|
+|202510|TC. Ndir et al.|Dynamic Prompt Generation for Interactive 3D Medical Image Segmentation Training [(paper)](https://arxiv.org/pdf/2510.03189)|None|
+|202509|G. Zhang et al.|IPLC+: SAM-Guided Iterative Pseudo Label Correction for Source-Free Domain Adaptation in Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/11177220)|[Code](https://github.com/HiLab-git/IPLC)|
 |202509|Z. Liu et al.|BALR-SAM: Boundary-Aware Low-Rank Adaptation of SAM for Resource-Efficient Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2509.24204?)|None|
 |202509|J. Zhuang et al.|Bio2Vol: Adapting 2D Biomedical Foundation Models for Volumetric Medical Image Segmentation [(paper)](https://papers.miccai.org/miccai-2025/paper/1852_paper.pdf)|[Code](https://github.com/JiaxinZhuang/Bio2Vol)|
 |202509|Z. Peng et al.|HA-SAM: Hierarchically Adapting SAM for Nerve Segmentation in Ultrasound Images [(paper)](https://papers.miccai.org/miccai-2025/paper/3104_paper.pdf)|None|
