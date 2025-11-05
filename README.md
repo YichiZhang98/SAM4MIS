@@ -27,7 +27,7 @@
 }
 ```
 
-*  Last update 2025-10-17
+*  Last update 2025-11-5
 
 
 ## Table of Contents
@@ -114,6 +114,15 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202510|Y. Zhang et al.|SegAnyPET: Universal Promptable Segmentation from Positron Emission Tomography Images [(paper)](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_SegAnyPET_Universal_Promptable_Segmentation_from_Positron_Emission_Tomography_Images_ICCV_2025_paper.pdf)|[Code](https://github.com/YichiZhang98/SegAnyPET)|
+|202510|J. Hu et al.|Neuroverse3D: Developing In-Context Learning Universal Model for Neuroimaging in 3D [(paper)](https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_Neuroverse3D_Developing_In-Context_Learning_Universal_Model_for_Neuroimaging_in_3D_ICCV_2025_paper.pdf)|[Code](https://github.com/jiesihu/Neuroverse3D)|
+|202510|S. Chen et al.|SAMora: Enhancing SAM through Hierarchical Self-Supervised Pre-Training for Medical Images [(paper)](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_SAMora_Enhancing_SAM_through_Hierarchical_Self-Supervised_Pre-Training_for_Medical_Images_ICCV_2025_paper.pdf)|[Code](https://github.com/ShChen233/SAMora)|
+|202510|Y. Zhang et al.|Enhancing the Reliability of Auto-Prompting SAM for Medical Image Segmentation with Uncertainty Estimation and Rectification [(paper)](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/papers/Zhang_Enhancing_the_Reliability_of_Auto-Prompting_SAM_for_Medical_Image_Segmentation_ICCVW_2025_paper.pdf)|None|
+|202510|AK. Shibu et al.|MedSAM-Guided Curriculum Learning for White Matter Tract Segmentation in Block Face Imaging of Fetal Brain [(paper)](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/papers/Shibu_MedSAM-Guided_Curriculum_Learning_for_White_Matter_Tract_Segmentation_in_Block_ICCVW_2025_paper.pdf)|None|
+|202510|M. Attari et al.|SAM-SPJunc: Self-Prompting for Junction Detection in Retinal Images via Radius-Based Representations [(paper)](https://openaccess.thecvf.com/content/ICCV2025W/BISCUIT/papers/Attari_SAM-SPJunc_Self-Prompting_for_Junction_Detection_in_Retinal_Images_via_Radius-Based_ICCVW_2025_paper.pdf)|None|
+|202510|H. Chi et al.|Cross-Hierarchical Decoding with SAM for Semi-Supervised Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/11217143)|None|
+|202510|Y. Yang et al.|FM2: Fusing multiple foundation models for pathology image analysis via disentangled consensus-divergence representation [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S1566253525009029)|None|
+|202510|Q. Xu et al.|De-LightSAM: Modality-Decoupled Lightweight SAM for Generalizable Medical Segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/11203003)|[Code](https://github.com/xq141839/De-LightSAM)|
 |202510|Y. Yang et al.|SAM2-3dMed: Empowering SAM2 for 3D Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2510.08967)|None|
 |202510|TC. Ndir et al.|Dynamic Prompt Generation for Interactive 3D Medical Image Segmentation Training [(paper)](https://arxiv.org/pdf/2510.03189)|None|
 |202509|G. Zhang et al.|IPLC+: SAM-Guided Iterative Pseudo Label Correction for Source-Free Domain Adaptation in Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/11177220)|[Code](https://github.com/HiLab-git/IPLC)|
