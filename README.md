@@ -122,8 +122,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 |---|---|---|---|
 |202603|J. Hasan et al.|FM-Adapt: Foundation model adaptation with photoacoustic-supervised learning for interventional ultrasound [(paper)](https://www.sciencedirect.com/science/article/pii/S2213597926000285)|[Code](https://github.com/DeeplearningBILAB/FM-Adapt-foundation-model-PA-US-segmentation)|
 |202603|K. Borst et al.|Are General-Purpose Vision Models All We Need for 2D Medical Image Segmentation? A Cross-Dataset Empirical Study [(paper)](https://arxiv.org/pdf/2603.13044)|[Code](https://github.com/VanessaBorst/GPVision4MIS)|
-|202603|K. Phuntsho et al.|Toward Clinically Ready Foundation Models in Medical Image Analysis: Adaptation Mechanisms and Deployment Trade-offs
- [(paper)](https://arxiv.org/pdf/2603.14271)|None|
+|202603|K. Phuntsho et al.|Toward Clinically Ready Foundation Models in Medical Image Analysis: Adaptation Mechanisms and Deployment Trade-offs [(paper)](https://arxiv.org/pdf/2603.14271)|None|
 |202603|J. Tang et al.|Distillation-SAM: Knowledge Distillation Based Auto-prompt Embedding Learning for Surgical Image Segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/11436118)|None|
 |202603|C. Magg et al.|Prompting with the human-touch: evaluating model-sensitivity of foundation models for musculoskeletal CT segmentation [(paper)](https://arxiv.org/pdf/2603.10541)|None|
 |202602|C. Krishnan et al.|SynSAM: a hybrid synchronous learning framework with knowledge retention for prostate zonal segmentation leveraging the segment anything model [(paper)](https://link.springer.com/content/pdf/10.1007/s11517-026-03522-2.pdf)|None|
