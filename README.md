@@ -26,7 +26,7 @@
 }
 ```
 
-*  Last update 2026-4-2
+*  Last update 2026-4-30
 
 
 ## Table of Contents
@@ -120,6 +120,10 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202604|Y. Zhang et al.|SemiSAM-O1: How far can we push the boundary of annotation-efficient medical image segmentation? [(paper)](https://arxiv.org/pdf/2604.24109)|[Code](https://github.com/YichiZhang98/SemiSAM-O1)|
+|202604|S. Huang et al.|PromptReg: Interactive Registration by “Corresponding Prompts” for Segment Anything Model (SAM) [(paper)](https://ieeexplore.ieee.org/abstract/document/11483297)|None|
+|202604|J. Peng et al.|MedP-CLIP: Medical CLIP with Region-Aware Prompt Integration [(paper)](https://arxiv.org/pdf/2604.11197)|None|
+|202603|T. Tang et al.|HATSAM: hierarchical adaptation strategy for segment anything model in medical imaging [(paper)](https://link.springer.com/article/10.1007/s11760-026-05288-4)|None|
 |202603|J. Hasan et al.|FM-Adapt: Foundation model adaptation with photoacoustic-supervised learning for interventional ultrasound [(paper)](https://www.sciencedirect.com/science/article/pii/S2213597926000285)|[Code](https://github.com/DeeplearningBILAB/FM-Adapt-foundation-model-PA-US-segmentation)|
 |202603|K. Borst et al.|Are General-Purpose Vision Models All We Need for 2D Medical Image Segmentation? A Cross-Dataset Empirical Study [(paper)](https://arxiv.org/pdf/2603.13044)|[Code](https://github.com/VanessaBorst/GPVision4MIS)|
 |202603|K. Phuntsho et al.|Toward Clinically Ready Foundation Models in Medical Image Analysis: Adaptation Mechanisms and Deployment Trade-offs [(paper)](https://arxiv.org/pdf/2603.14271)|None|
