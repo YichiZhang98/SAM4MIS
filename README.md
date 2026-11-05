@@ -26,7 +26,7 @@
 }
 ```
 
-*  Last update 2026-4-30
+*  Last update 2026-11-5
 
 
 ## Table of Contents
@@ -60,6 +60,23 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202610|G. Xu et al.|Adapting Segment Anything Model 3 for concept-driven lesion segmentation in medical images: an experimental study [(paper, Visual Computing for Industry, Biomedicine, and Art)](https://link.springer.com/article/10.1186/s42492-026-00234-0)|[Code](https://github.com/apple1986/lesion-sam3)|
+|202609|Y. Chen et al.|Dual-Adaptive SAM3: Hierarchical Routing over Low-Rank Expert Layers for Parameter-Efficient Medical Image Segmentation [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0308-Paper0711.html)|None|
+|202609|P. Ye et al.|Dual-Space Cold-Start Active Learning Guided by SAM3 for Medical Image Segmentation [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0315-Paper4655.html)|[Code](https://github.com/HiLab-git/DSAS)|
+|202609|X. Chen et al.|Dynamic Consistency-Aware Multi-View Learning with SAM3 for 3D Medical Image Segmentation [(paper, Sensors)](https://doi.org/10.3390/s26185753)|None|
+|202609|S. Lv et al.|From SAM 1 to SAM 3: Benchmarking Zero-Shot Cross-Domain Medical Image Segmentation [(paper, Expert Systems)](https://doi.org/10.1111/exsy.70383)|None|
+|202609|Z. Zhou et al.|From slice to sequence: Cohesive and consistent few-shot medical image segmentation via SAM2 [(paper, Displays)](https://doi.org/10.1016/j.displa.2026.103464)|None|
+|202609|Y. Liu et al.|GU-SAM2: A Semi-supervised Medical Image Segmentation Framework via Gated Feature Fusion of MIM-Pretrained U-Net and SAM 2 [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0438-Paper4078.html)|None|
+|202609|W. Dai et al.|HoughSAM: Geometry-Guided Zero-Shot Segmentation of Main Incision in Cataract Surgery Using SAM2 for Skill Assessment [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0475-Paper2588.html)|[Code](https://github.com/Octobserver/hough-sam)|
+|202609|Q. Zhou et al.|Mask to Concept: Auto-Promptable SAM3 via Efficient Test-Time Concept Embedding Search for Few-Shot Annotation [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0615-Paper1221.html)|[Code](https://github.com/Huster-Hq/M2C)|
+|202609|J. Zhang et al.|MedPro: Dual-View Propagation and Prototypical Assessment for Training-Free Few-Shot Medical Segmentation [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0638-Paper1552.html)|[Code](https://github.com/CVL-hub/MedPro)|
+|202609|S. Kim et al.|Multi-view Consistency-Based Adaptation of SAM2 for 3D ABUS Tumor Segmentation [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0698-Paper1627.html)|None|
+|202609|X. Gu et al.|POT-SAM3: Prompt-Only Tuning for One-Shot Electron Microscopy Segmentation [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0802-Paper0801.html)|[Code](https://github.com/AI4MyBUPT/POT-SAM3)|
+|202609|V. Bundele et al.|ReMeDI: Refined Memory for Disambiguation of Identities with SAM3 in Surgical Segmentation [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0876-Paper5016.html)|[Code](https://github.com/cgtuebingen/remedi-sam3)|
+|202609|W. Lin et al.|RPG-SAM: Reliability-Weighted Prototypes and Geometric Adaptive Threshold Selection for Training-Free One-Shot Polyp Segmentation [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0907-Paper2529.html)|[Code](https://github.com/AlwaysHF/RPG-SAM)|
+|202609|P. Yu et al.|SAM2 as a Key Bridge Between 2D Slices and 3D Volumes for Sparsely-supervised Medical Image Segmentation [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0916-Paper3034.html)|None|
+|202609|X. Yao et al.|VigilSAM3: Reinforcement-Optimized Memory Gating for Ultra-Long Surgical Video Segmentation [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/1131-Paper1296.html)|None|
+|202607|H. Zhu et al.|SSS: Semi-Supervised SAM-2 with efficient prompting for medical imaging segmentation [(paper, Biomedical Signal Processing and Control)](https://doi.org/10.1016/j.bspc.2026.110039)|None|
 |202602|R. Zhai et al.|SAM2-driven dual-teacher framework using hierarchical cross-slice context for semi-supervised 3D medical image segmentation [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S0925231226005047)|None|
 |202511|W. Su et al.|Zero-Shot Capillary Segmentation in Dermoscopy Images via SAM2: A Case Study on Oral Mucosa [(paper)](https://ieeexplore.ieee.org/document/11224518)|None|
 |202511|H. Buyukpatpat et al.|A Comparative Evaluation of Zero-Shot Performance of SAM, SAM2, MedSAM, and MedSAM2 Models on Lung Segmentation [(paper)](https://link.springer.com/article/10.1007/s10278-025-01778-y)|None|
@@ -120,6 +137,41 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
+|202610|Q. Xia et al.|Segment Anything Models for medical image segmentation: From native capabilities to clinical requirements [(paper, Computerized Medical Imaging and Graphics)](https://doi.org/10.1016/j.compmedimag.2026.102835)|None|
+|202610|J. Liang et al.|TeF-SAM: Prototype memory for medical lesion segmentation with text-free inference [(paper, Computerized Medical Imaging and Graphics)](https://doi.org/10.1016/j.compmedimag.2026.102816)|[Code](https://github.com/Jinxinya2/TeF-SAM)|
+|202609|A. Scheinfeld et al.|A Multimodal 3D Foundation Model for Light Sheet Fluorescence Microscopy Enables Few-Shot Segmentation, Classification, and Deblurring [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0014-Paper4243.html)|[Code](https://github.com/AdinaScheinfeld/lsm_fm_public_repo)|
+|202609|Z. Mao et al.|APEX-SAM: Anatomy-Aware Prompting with Expert Retrieval for Training-Free Medical Image Segmentation [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0067-Paper0425.html)|[Code](https://github.com/Trump0412/APEX-SAM)|
+|202609|J. Lv et al.|Computationally Efficient Pathology Segmentation using Knowledge Distillation from Foundation Models [(paper, arXiv)](https://arxiv.org/abs/2609.03947)|None|
+|202609|X. Shi et al.|CSAM-HQ: A Multi-stage Refinement Framework for Surgical Instrument Segmentation based on SAM and Probabilistic Graphical Models [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0226-Paper2295.html)|[Code](https://github.com/shixueyi/CSAM-HQ)|
+|202609|H. Jiang et al.|DentalPSAM: Lifting SAM to Dental Plaque Segmentation with Hybrid 2D-3D Knowledge Fusion [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0258-Paper4344.html)|[Code](https://github.com/HKU-HealthAI/DentalPSAM)|
+|202609|X. Wang et al.|DiCoP-SAM: Disagreement-Band Guided Corrective Prompting for Collaborative Semi-Supervised Medical Image Segmentation [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0276-Paper1048.html)|[Code](https://github.com/Fzuwxy/DiCoP-SAM)|
+|202609|H. Li et al.|Dino U-Net: Exploiting High-Fidelity Dense Features from Foundation Models for Medical Image Segmentation [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0281-Paper0995.html)|[Code](https://github.com/yifangao112/DinoUNet)|
+|202609|J. Lu et al.|DINO-3DRA: Leveraging 2D Foundation Model Semantics for 3D Cerebral Aneurysm Segmentation [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0282-Paper2993.html)|[Code](https://github.com/JiayangDS/Dino3DRA)|
+|202609|S. Huo et al.|Dual-Teacher Knowledge Distillation with SAM and Learnable Prototype Guidance for Semi-supervised 3D Medical Segmentation [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0318-Paper3395.html)|[Code](https://github.com/Aguang094/Dualteacher-with-SAM)|
+|202609|R. Wu et al.|KS-SAM: Kolmogorov-Arnold-driven Shape Alignment for Single-Domain Generalization in 3D Medical Image Segmentation [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0540-Paper1258.html)|None|
+|202609|Y. Yu et al.|PlaneCycle: Training-Free 2D-to-3D Lifting of Foundation Models Without Adapters [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0794-Paper0966.html)|[Code](https://github.com/HINTLab/PlaneCycle)|
+|202609|H. Hu et al.|R2P-SAM: Root-to-Prompt Hair Instance Segmentation with Geometric Priors under Point Supervision [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0845-Paper2360.html)|[Code](https://github.com/YYleafsheep/R2P-SAM)|
+|202609|H. Li et al.|Reliability-Aware Cross-Prompt Aggregation for Propagation-Based Segmentation of Arbitrary 3D Medical Objects [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0874-Paper1506.html)|None|
+|202609|X. Luo et al.|Residual-Aware Structured Pruning with Dual-Stream Alignment for Adapter-Tuned SAM [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0885-Paper1766.html)|None|
+|202609|Q. Xu et al.|Rethinking the Adaptation of Vision Foundation Models for Efficient Cell Segmentation [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0890-Paper0247.html)|[Code](https://github.com/xq141839/EffiCell-Seg)|
+|202609|H. Yang et al.|SD-SAM: Synergizing SAM and DINOv3 for Parameter-Efficient Polyp Segmentation and a Challenging Benchmark Dataset [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0928-Paper1385.html)|[Code](https://github.com/xxxy0523/SD-SAM)|
+|202609|T. Zhang et al.|Skill-Evolving Grounded Reasoning for Free-Text Promptable 3D Medical Image Segmentation [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/0966-Paper3761.html)|None|
+|202609|J. Tang et al.|Topology-Driven Transferability Estimation of Medical Foundation Models for Segmentation [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/1067-Paper2193.html)|[Code](https://github.com/SPIresearch/TopoTE)|
+|202609|S. Lee et al.|ViPSAM: Visual Prompting Medical Image Segmentation Using Segment Anything Model [(paper, MICCAI 2026)](https://papers.miccai.org/miccai-2026/1133-Paper3107.html)|[Code](https://github.com/torchViPSAM/ViPSAM)|
+|202608|Z. Zhang et al.|SAM foundation model and expert model cross prompting framework for semi-supervised medical image segmentation [(paper, Journal of Visual Communication and Image Representation)](https://doi.org/10.1016/j.jvcir.2026.104876)|[Code](https://github.com/zzzz-r/CPPS-SAM)|
+|202608|H. Peiris et al.|Segment any tumour: an uncertainty-aware vision foundation model for whole-body analysis [(paper, Nature Communications)](https://www.nature.com/articles/s41467-026-76531-2)|[Code](https://github.com/himashi92/SAT3D)|
+|202607|W. Gao et al.|DBM-SAM: Dual-branch multiscale adaptation of SAM for medical ultrasound segmentation [(paper, Displays)](https://doi.org/10.1016/j.displa.2026.103446)|None|
+|202607|D. Li et al.|LSSM-SAM: A Medical Segmentation Method Based on State Space and Adaptive Volume Feature Extraction [(paper, International Journal of Imaging Systems and Technology)](https://doi.org/10.1002/ima.70414)|None|
+|202607|W. Zhang et al.|Medical Segment Anything Model (MedSAM): methodological innovations, evaluation practices, and clinical applications [(paper, BMC Medical Imaging)](https://link.springer.com/article/10.1186/s12880-026-02600-z)|None|
+|202606|J. Wang et al.|Continual Alignment for SAM: Rethinking Foundation Models for Medical Image Segmentation in Continual Learning [(paper, CVPR 2026 Findings)](https://openaccess.thecvf.com/content/CVPR2026F/html/Wang_Continual_Alignment_for_SAM__Rethinking_Foundation_Models_for_Medical_CVPRF_2026_paper.html)|[Code](https://github.com/azzzzyo/Continual-Alignment-for-SAM)|
+|202606|K. Zhu et al.|Dual-level Adapter Boosting Prompt-free Curvilinear Structure Segmentation [(paper, CVPR 2026)](https://openaccess.thecvf.com/content/CVPR2026/html/Zhu_Dual-level_Adapter_Boosting_Prompt-free_Curvilinear_Structure_Segmentation_CVPR_2026_paper.html)|None|
+|202606|Y. Bo et al.|Focus on Background: Exploring SAM's Potential in Few-shot Medical Image Segmentation with Background-centric Prompting [(paper, CVPR 2026)](https://openaccess.thecvf.com/content/CVPR2026/html/Bo_Focus_on_Background_Exploring_SAMs_Potential_in_Few-shot_Medical_Image_CVPR_2026_paper.html)|[Code](https://github.com/primebo1/FoB_SAM)|
+|202606|J. Hong et al.|From Infusion to Assimilation Distillation for Medical Image Segmentation [(paper, CVPR 2026)](https://openaccess.thecvf.com/content/CVPR2026/html/Hong_From_Infusion_to_Assimilation_Distillation_for_Medical_Image_Segmentation_CVPR_2026_paper.html)|[Code](https://github.com/hjklearn/IAD)|
+|202606|Y. Lu et al.|SegMoTE: Token-Level Mixture of Experts for Medical Image Segmentation [(paper, CVPR 2026)](https://openaccess.thecvf.com/content/CVPR2026/html/Lu_SegMoTE_Token-Level_Mixture_of_Experts_for_Medical_Image_Segmentation_CVPR_2026_paper.html)|[Code](https://github.com/InMyDreammer/SegMoTE)|
+|202606|C. Qian et al.|Simple-ViLMedSAM: Simple Text Prompts Meet Vision-Language Models for Medical Image Segmentation [(paper, CVPR 2026)](https://openaccess.thecvf.com/content/CVPR2026/html/Qian_Simple-ViLMedSAM_Simple_Text_Prompts_Meet_Vision-Language_Models_for_Medical_Image_CVPR_2026_paper.html)|[Code](https://github.com/qcc001/Simple-ViLMedSAM)|
+|202605|X. Liu et al.|An Open Multi-Center Whole-Body FDG PET/CT Foundation Model for Tumor Segmentation [(paper, arXiv)](https://arxiv.org/abs/2605.21835)|[Code](https://github.com/liu-xiaofeng/Foundation-Model-for-PET-CT)|
+|202605|Y. Wen et al.|DB-SAM: Boundary-aware and domain-adaptive SAM for generalizable few-shot medical image segmentation [(paper, Journal of King Saud University Computer and Information Sciences)](https://link.springer.com/article/10.1007/s44443-026-00873-6)|None|
+|202605|R. AlSaad et al.|Endo-MedSAM: a promptable vision foundation model adaptation for uterus segmentation on pelvic MRI in endometriosis [(paper, Frontiers in Reproductive Health)](https://www.frontiersin.org/journals/reproductive-health/articles/10.3389/frph.2026.1790980/full)|[Code](https://github.com/rawan-alsaad/EndoMedSAM)|
 |202604|Y. Zhang et al.|SemiSAM-O1: How far can we push the boundary of annotation-efficient medical image segmentation? [(paper)](https://arxiv.org/pdf/2604.24109)|[Code](https://github.com/YichiZhang98/SemiSAM-O1)|
 |202604|S. Huang et al.|PromptReg: Interactive Registration by “Corresponding Prompts” for Segment Anything Model (SAM) [(paper)](https://ieeexplore.ieee.org/abstract/document/11483297)|None|
 |202604|J. Peng et al.|MedP-CLIP: Medical CLIP with Region-Aware Prompt Integration [(paper)](https://arxiv.org/pdf/2604.11197)|None|
